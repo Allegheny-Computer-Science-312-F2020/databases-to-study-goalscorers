@@ -32,8 +32,3 @@ I currently have all of the data organized uniformly so that there are no errors
 
 #### Steps that I will take:
 I will now begin working on the builder file and writing meaningful queries. I will use import statements in order to reduce the hassle of individually adding the data. The csv's are also quite large, so I may end up using individual insert statements anyways, but I'd like to avoid that as much as possible 
-
-
-
-(Did you remember to add your name to the top?)
-
