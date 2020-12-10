@@ -1,4 +1,4 @@
-This file is to contain the actual report for your work. Note, you can copy and edit this code to add graphs to your document. Note, your images will have to be stored in the directory, `images/`. Please see the assignment sheet for details. 
+This file is to contain the actual report for your work. Note, you can copy and edit this code to add graphs to your document. Note, your images will have to be stored in the directory, `images/`. Please see the assignment sheet for details.
 ![Screenshot](images/blueCat.png)
 
 
@@ -17,8 +17,8 @@ The five datasets I used were found @ https://footystats.org/download-stats-csv#
 This research project uses databases to study the soccer world's top goalscorers.  A few questions that I specifically wanted to ask and answer are:
 
 - What advanced metrics are most common in elite goal scorers?
-- What advanced metrics that are not direct goal contributions (goals, assists, major stats such as these) contribute to an elite goal socers success? 
-- What are some stand-out metrics that are unique to individual goal scorers? 
+- What advanced metrics that are not direct goal contributions (goals, assists, major stats such as these) contribute to an elite goal socers success?
+- What are some stand-out metrics that are unique to individual goal scorers?
 - Are there specific offensive stats that most elite goal scorers tend to not be elite in? For example, maybe the data shows most of the top scorers score less in away games or vice versa.
 - Do the amount of goals their team conceded in games they played in seem to correlate to how many they score? Does a team's performance affect their individual performance?
 
@@ -41,9 +41,13 @@ It is important to note that although data and statistics are very important in 
 
 
 ##### Building the Database System
-There were several important steps in building the database system. The first step was acquiring good, reliable data for each of the top 5 leagues, which was much harder than originally expected. Most of the data that I found did not contain enough advanced statistics, which are a combination of several data points, rather than just a a one-dimensional stat like goals or asists. For example expected goals (xg) is the measure of the quality of a shot based on several variables such as assist type, shot angle, distance from goal, whether it was a header, and whether it was a big chance. There are many important advanced stats in the data that I did end up finding, but this data was not free of charge. Luckily I had already subscribed due to previous personal research. The dataset I found has at least 1,000 entries per league, which was more than enough and contained up over 40 different columns of data. 
+There were several important steps in building the database system. The first step was acquiring good, reliable data for each of the top 5 leagues, which was much harder than originally expected. Most of the data that I found did not contain enough advanced statistics, which are a combination of several data points, rather than just a a one-dimensional stat like goals or asists. For example expected goals (xg) is the measure of the quality of a shot based on several variables such as assist type, shot angle, distance from goal, whether it was a header, and whether it was a big chance. There are many important advanced stats in the data that I did end up finding, but this data was not free of charge. Luckily I had already subscribed due to previous personal research. The dataset I found has at least 1,000 entries per league, which was more than enough and contained up over 40 different columns of data.
 
-I decided to use SQLite3 as it was the langauge and database system that I understood the best, and given that it relies almost entirely on tables, it mimics a top scorers list in the real world
+I decided to use SQLite3 as it was the langauge and database system that I understood the best, and given that it relies almost entirely on tables, it mimics a top scorers board in the real world:
+
+![alt text](realTable.png "Real Premier League Top Scorers List")
+
+![alt text](eplDataTable.png "What My Data Looks Like")
 
 The next step was cleaning and filtering the data before building a database file. I deleted about 15-20 columns of data that I was not planning on examining, such as defensive stats. There were other categories that I wasn't planning on researching at first, but decided to leave them in as they could have been of later use. The cleaning process was a bit tedious as I had 5 datasets that were quite large, but since they all came from the same source they were all formatted uniformly. The next step was figuring out how exactly to read the data in. Since my data came with headers for each column, I decided not to mess with the format too much, and not build individual schemas for each table in the builder file. It was much easier to just import the entire csv files themselves as their own table:
 
