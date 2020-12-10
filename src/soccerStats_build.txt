@@ -1,0 +1,36 @@
+/* Date: 23 Sept 2020 */
+
+/* A database builder file; edit as necessary */
+/* To Run build the database, make sure that your CSV data files are found in the data/ directory. */
+
+
+/* Name: Declan Casey  /*
+
+
+/* Create your tables. Modify the below code to create your tables. */
+
+/* Before importing data make sure to delete the following columns from each table. */
+/* rank_in_club_top_scorer, rank_in_league_top_defenders, rank_in_league_top_midfielders, */ 
+/* rank_in_league_top_attackers, cards_per_90_overall, min_per_card_overall, */ 
+/* min_per_conceded_overall, conceded_per_90_overall, red_cards_overall, clean_sheets_away */
+/* clean_sheets_home, clean_sheets_overall, penalty_misses, assists_away, assists_home */
+/* nationality, season, birthday
+
+
+
+/* Import your data files. Use the below code to populate the tables from above. */
+/* If your data is not separated by tabs, then change the following line to reflect the delimiter. */
+.separator "\t"
+
+/* find the data files and load them into sqlite3 to populate the above tables.*/
+
+.import data/Budesliga-player-stats-19/20-final.csv Bundesliga
+.import data/EPL-player-stats-19/20-final.csv EPL
+.import data/LaLiga-player-stats-19/20-final.csv LaLiga
+.import data/Ligue1-player-stats-19/20-final.csv Ligue1
+.import data/SerieA-player-stats-19/20-final.csv SerieA
+
+
+
+/* How to run this builder at the TERMINAL prompt */
+/* cat soccerStats_build.txt | sqlite3 soccerStatsDB.sqlite3 */

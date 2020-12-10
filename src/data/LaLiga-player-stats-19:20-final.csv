@@ -1,0 +1,649 @@
+full_name,age,league,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,penalty_goals,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,goals_involved_per_90_overall,assists_per_90_overall,goals_per_90_overall,goals_per_90_home,goals_per_90_away,min_per_goal_overall,min_per_match,min_per_assist_overall
+Aarón Escandell Banacloche,25,La Liga,Goalkeeper,Granada CF,270,90,180,3,1,2,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,90,0
+Abdallahi Mohamed Mahmoud,20,La Liga,Defender,Deportivo Alavés,150,25,125,3,1,2,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,50,0
+Abdón Prats Bastidas,27,La Liga,Forward,RCD Mallorca,260,124,136,20,9,11,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,13,0
+Abdul Rahman Baba,26,La Liga,Defender,RCD Mallorca,109,90,19,2,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,55,0
+Adnan Januzaj,25,La Liga,Midfielder,Real Sociedad,1164,537,627,24,13,11,3,2,1,3,0,13,4,9,3,0.46,0.23,0.23,0.34,0.14,388,49,388
+Adrià Giner Pedrosa,22,La Liga,Defender,RCD Espanyol,1081,601,480,20,11,9,1,0,1,0,0,17,10,7,3,0.08,0,0.08,0,0.19,1081,54,0
+Adrián,33,La Liga,Goalkeeper,CA Osasuna,1453,854,599,26,14,12,2,1,1,0,1,20,13,7,0,0.12,0,0.12,0.11,0.15,727,56,0
+Adrián Embarba Blázquez,28,La Liga,Forward,RCD Espanyol,1381,649,732,18,9,9,2,0,2,4,1,18,8,10,4,0.39,0.26,0.13,0,0.25,691,77,345
+Adrián Guerrero,22,La Liga,Midfielder,Valencia CF,126,82,44,2,1,1,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,63,0
+Adrián Marín Gómez,23,La Liga,Defender,Deportivo Alavés,852,288,564,12,5,7,0,0,0,0,0,17,5,12,1,0,0,0,0,0,0,71,0
+Aihen Muñoz Capellán,23,La Liga,Midfielder,Real Sociedad,980,357,623,15,7,8,0,0,0,0,0,11,4,7,1,0,0,0,0,0,0,65,0
+Aimar Oroz,18,La Liga,Midfielder,CA Osasuna,10,10,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+Aïssa Mandi,29,La Liga,Defender,Real Betis,2578,1433,1145,29,16,13,0,0,0,0,0,34,20,14,10,0,0,0,0,0,0,89,0
+Aitor Fernández Abarisketa,29,La Liga,Goalkeeper,Levante UD,3240,1620,1620,36,18,18,0,0,0,0,0,51,19,32,2,0,0,0,0,0,0,90,0
+Aitor Ruibal García,24,La Liga,Forward,Leganés,1216,557,659,25,11,14,0,0,0,0,0,11,4,7,5,0,0,0,0,0,0,49,0
+Alberto Moreno,28,La Liga,Defender,Villarreal,1474,690,784,18,8,10,0,0,0,0,0,20,13,7,6,0,0,0,0,0,0,82,0
+Alberto Rodríguez Baro,23,La Liga,Defender,Deportivo Alavés,235,52,183,6,3,3,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,39,0
+Aleix Febas Pérez,24,La Liga,Midfielder,RCD Mallorca,1700,752,948,29,14,15,0,0,0,3,0,31,6,25,4,0.16,0.16,0,0,0,0,59,567
+Aleix Vidal,31,La Liga,Defender,Deportivo Alavés,2177,1178,999,29,14,15,2,1,1,4,0,32,11,21,6,0.25,0.17,0.08,0.08,0.09,1089,75,544
+Alejandro Baena Rodríguez,19,La Liga,Midfielder,Villarreal,13,13,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Alejandro Blesa Pina,0,La Liga,Midfielder,Levante UD,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Alejandro Martínez Sánchez,30,La Liga,Defender,Granada CF,14,0,14,1,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,14,0
+Alejandro Moreno Lopera,27,La Liga,Midfielder,Real Betis,2265,1118,1147,31,15,16,0,0,0,4,0,39,19,20,5,0.16,0.16,0,0,0,0,73,566
+Alejandro Pozo Pozo,21,La Liga,Midfielder,RCD Mallorca,1532,693,839,22,11,11,1,1,0,2,0,28,10,18,0,0.18,0.12,0.06,0.13,0,1532,70,766
+Alejandro Remiro Gargallo,25,La Liga,Goalkeeper,Real Sociedad,2250,1260,990,25,14,11,0,0,0,0,0,28,14,14,0,0,0,0,0,0,0,90,0
+Aleksandar Sedlar,28,La Liga,Defender,RCD Mallorca,823,213,610,12,4,8,0,0,0,0,0,15,4,11,4,0,0,0,0,0,0,69,0
+Aleksandar Trajkovski,28,La Liga,Forward,RCD Mallorca,319,125,194,14,7,7,0,0,0,0,0,6,3,3,0,0,0,0,0,0,0,23,0
+Alessandro Florenzi,29,La Liga,Midfielder,Valencia CF,755,378,377,12,6,6,0,0,0,0,0,8,3,5,2,0,0,0,0,0,0,63,0
+Álex Alegría,28,La Liga,Forward,RCD Mallorca,103,73,30,6,4,2,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,17,0
+Álex Collado Gutiérrez,21,La Liga,Midfielder,FC Barcelona,5,0,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+Alexander Isak,21,La Liga,Forward,Real Sociedad,1497,778,719,37,18,19,9,4,5,1,0,19,9,10,4,0.6,0.06,0.54,0.46,0.63,166,40,1497
+Alexander Szymanowski,32,La Liga,Midfielder,Leganés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alfonso,24,La Liga,Midfielder,Real Betis,1350,732,618,21,11,10,1,1,0,0,0,20,8,12,3,0.07,0,0.07,0.12,0,1350,64,0
+Alfonso Pastor Vacas,20,La Liga,Goalkeeper,Sevilla FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allan Nyom,32,La Liga,Defender,Getafe CF,2436,1301,1135,34,19,15,2,1,1,0,0,27,14,13,15,0.07,0,0.07,0.07,0.08,1218,72,0
+Alphonse Areola,27,La Liga,Goalkeeper,Real Madrid,360,180,180,4,2,2,0,0,0,0,0,5,2,3,1,0,0,0,0,0,0,90,0
+Álvaro García Segovia,20,La Liga,Midfielder,Atlético Madrid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alvaro Morata,28,La Liga,Forward,Atlético Madrid,2116,1140,976,34,16,18,12,7,5,2,2,12,6,6,6,0.6,0.09,0.51,0.55,0.46,176,62,1058
+Álvaro Odriozola,24,La Liga,Defender,Real Madrid,344,180,164,4,2,2,0,0,0,1,0,3,2,1,3,0.26,0.26,0,0,0,0,86,344
+Álvaro Tejero Sacristán,24,La Liga,Defender,SD Eibar,1448,472,976,18,6,12,0,0,0,0,0,18,4,14,4,0,0,0,0,0,0,80,0
+Álvaro Vadillo Cifuentes,26,La Liga,Midfielder,Granada CF,1222,708,514,22,12,10,3,3,0,1,1,15,6,9,0,0.29,0.07,0.22,0.38,0,407,56,1222
+Amath Ndiaye,24,La Liga,Forward,Getafe CF,59,17,42,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+Anaitz Arbilla,33,La Liga,Defender,SD Eibar,2007,1102,905,24,13,11,1,0,1,0,0,37,20,17,5,0.04,0,0.04,0,0.1,2007,84,0
+Ander Barrenetxea Muguruza,18,La Liga,Forward,Real Sociedad,431,183,248,17,8,9,1,1,0,0,0,4,4,0,1,0.21,0,0.21,0.49,0,431,25,0
+Ander Capa,28,La Liga,Defender,Athletic Club Bilbao,2875,1555,1320,35,19,16,3,2,1,4,0,31,11,20,10,0.22,0.13,0.09,0.12,0.07,958,82,719
+Ander Guevara Lajo,23,La Liga,Midfielder,Real Sociedad,941,486,455,14,7,7,0,0,0,0,0,13,7,6,4,0,0,0,0,0,0,67,0
+Ander Iturraspe Derteano,31,La Liga,Midfielder,RCD Espanyol,240,113,127,8,4,4,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,30,0
+Andoni Gorosabel,24,La Liga,Defender,Real Sociedad,713,253,460,14,6,8,0,0,0,0,0,10,4,6,2,0,0,0,0,0,0,51,0
+Andoni Zubiaurre Dorronsoro,23,La Liga,Goalkeeper,Real Sociedad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+André Felipe Grandi,23,La Liga,Goalkeeper,Leganés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+André-Frank Zambo Anguissa,24,La Liga,Midfielder,Villarreal,2581,1372,1209,36,19,17,2,1,1,0,0,36,20,16,6,0.07,0,0.07,0.07,0.07,1291,72,0
+Andrei Florin Ratiu,22,La Liga,Forward,Villarreal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andrés Fernández,33,La Liga,Goalkeeper,Villarreal,360,270,90,4,3,1,0,0,0,1,0,8,6,2,1,0.25,0.25,0,0,0,0,90,360
+Andrés Guardado,34,La Liga,Midfielder,Real Betis,2055,1194,861,28,15,13,0,0,0,3,0,28,17,11,9,0.13,0.13,0,0,0,0,73,685
+Andrés Tomás Prieto Albert,27,La Liga,Goalkeeper,RCD Espanyol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Andriy Lunin,21,La Liga,Goalkeeper,Real Valladolid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ángel,33,La Liga,Forward,Getafe CF,1388,815,573,32,17,15,10,7,3,3,1,20,13,7,6,0.84,0.19,0.65,0.77,0.47,139,43,463
+Ángel Baena Pérez,20,La Liga,Forward,Real Betis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ángel Correa,25,La Liga,Forward,Atlético Madrid,2064,1005,1059,33,16,17,5,4,1,6,0,18,6,12,5,0.48,0.26,0.22,0.36,0.08,413,63,344
+Ángel Montoro Sánchez,32,La Liga,Midfielder,Granada CF,972,468,504,15,7,8,2,2,0,5,0,11,2,9,6,0.65,0.46,0.19,0.38,0,486,65,194
+Anssumane Fati,18,La Liga,Forward,FC Barcelona,1064,674,390,24,15,9,7,4,3,1,0,12,6,6,3,0.68,0.08,0.59,0.53,0.69,152,44,1064
+Ante Budimir,29,La Liga,Forward,RCD Mallorca,2780,1445,1335,35,18,17,13,5,8,2,2,51,18,33,12,0.49,0.06,0.42,0.31,0.54,214,79,1390
+Antoine Griezmann,29,La Liga,Forward,FC Barcelona,2561,1262,1299,35,17,18,9,6,3,4,0,28,9,19,2,0.46,0.14,0.32,0.43,0.21,285,73,640
+Antonio Adán,33,La Liga,Goalkeeper,Atlético Madrid,24,0,24,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Antonio Barragán,33,La Liga,Defender,Real Betis,638,208,430,12,5,7,0,0,0,1,0,10,2,8,4,0.14,0.14,0,0,0,0,53,638
+Antonio Cortés Heredia,0,La Liga,Forward,Granada CF,177,85,92,8,5,3,1,0,1,0,0,0,0,0,2,0.51,0,0.51,0,0.98,177,22,0
+Antonio Islam Otegui Khalife,22,La Liga,Midfielder,CA Osasuna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Antonio Jesús Regal Angulo,32,La Liga,Defender,Real Valladolid,1027,454,573,15,6,9,0,0,0,0,0,10,3,7,1,0,0,0,0,0,0,68,0
+Antonio José Raillo Arenas,29,La Liga,Defender,RCD Mallorca,2779,1351,1428,32,16,16,1,1,0,0,0,46,14,32,9,0.03,0,0.03,0.07,0,2779,87,0
+Antonio Moya Vega,22,La Liga,Midfielder,Atlético Madrid,3,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+Antonio Sivera Salvá,24,La Liga,Goalkeeper,Deportivo Alavés,270,90,180,3,1,2,0,0,0,0,0,3,0,3,1,0,0,0,0,0,0,90,0
+Anuar Mohamed Tuhami,25,La Liga,Midfielder,Real Valladolid,181,38,143,11,4,7,0,0,0,0,0,6,0,6,1,0,0,0,0,0,0,16,0
+Aridane Hernández Umpiérrez,31,La Liga,Defender,CA Osasuna,2610,1350,1260,29,15,14,3,1,2,0,0,34,20,14,8,0.1,0,0.1,0.07,0.14,870,90,0
+Ariday Cabrera Suárez,32,La Liga,Forward,RCD Mallorca,35,0,35,2,0,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,18,0
+Aritz Aduriz,39,La Liga,Forward,Athletic Club Bilbao,194,103,91,14,8,6,1,1,0,0,0,0,0,0,3,0.46,0,0.46,0.87,0,194,14,0
+Aritz Aranbarri Murua,22,La Liga,Defender,Real Sociedad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aritz Castro Pérez,22,La Liga,Goalkeeper,Deportivo Alavés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aritz Elustondo,26,La Liga,Defender,Real Sociedad,1502,766,736,22,13,9,0,0,0,1,0,19,7,12,4,0.06,0.06,0,0,0,0,68,1502
+Arnau Tenas Ureña,19,La Liga,Goalkeeper,FC Barcelona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arthur Henrique Ramos de Oliveira Melo,24,La Liga,Midfielder,FC Barcelona,1185,629,556,21,10,11,3,2,1,3,0,10,4,6,1,0.46,0.23,0.23,0.29,0.16,395,56,395
+Arturo Vidal,33,La Liga,Midfielder,FC Barcelona,1662,795,867,33,16,17,8,4,4,2,0,15,5,10,4,0.54,0.11,0.43,0.45,0.42,208,50,831
+Asier Illarramendi Andonegi,30,La Liga,Midfielder,Real Sociedad,217,0,217,3,0,3,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,72,0
+Asier Villalibre Molina,23,La Liga,Forward,Athletic Club Bilbao,523,225,298,19,10,9,3,1,2,0,0,8,4,4,0,0.52,0,0.52,0.4,0.6,174,28,0
+Aymane Mourid,20,La Liga,Defender,Leganés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beñat,33,La Liga,Midfielder,Athletic Club Bilbao,388,112,276,11,5,6,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,35,0
+Bernardo Espinosa,31,La Liga,Defender,RCD Espanyol,2261,1170,1091,26,13,13,3,2,1,0,0,36,17,19,6,0.12,0,0.12,0.15,0.08,754,87,0
+Borja Iglesias Quintas,27,La Liga,Forward,Real Betis,1920,988,932,35,17,18,3,2,1,2,0,27,11,16,4,0.23,0.09,0.14,0.18,0.1,640,55,960
+Borja Mayoral,23,La Liga,Forward,Levante UD,2147,1157,990,34,17,17,8,3,5,2,0,32,10,22,2,0.42,0.08,0.34,0.23,0.45,268,63,1074
+Borja Sainz Eguskiza,19,La Liga,Midfielder,Deportivo Alavés,565,273,292,19,8,11,1,1,0,0,0,8,2,6,1,0.16,0,0.16,0.33,0,565,30,0
+Brahim Abdelkader Diaz,21,La Liga,Midfielder,Real Madrid,59,12,47,6,3,3,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,10,0
+Brais Méndez,23,La Liga,Midfielder,Celta de Vigo,1472,791,681,31,15,16,0,0,0,2,0,20,13,7,4,0.12,0.12,0,0,0,0,47,736
+Brandon Thomas Llamas,25,La Liga,Midfielder,CA Osasuna,408,93,315,8,3,5,0,0,0,1,0,7,2,5,4,0.22,0.22,0,0,0,0,51,408
+Bruno González Cabrera,30,La Liga,Defender,Levante UD,635,450,185,8,5,3,0,0,0,0,0,9,5,4,1,0,0,0,0,0,0,79,0
+Bruno Soriano Llido,36,La Liga,Midfielder,Villarreal,258,187,71,7,5,2,0,0,0,0,0,3,2,1,1,0,0,0,0,0,0,37,0
+Bryan Gil Salvatierra,19,La Liga,Forward,Leganés,617,404,213,14,9,5,1,1,0,0,0,6,5,1,4,0.15,0,0.15,0.22,0,617,44,0
+Burgui,27,La Liga,Midfielder,Deportivo Alavés,20,20,0,2,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,10,0
+Carles Aleña Castillo,22,La Liga,Midfielder,Real Betis,901,362,539,21,10,11,1,1,0,0,0,12,4,8,2,0.1,0,0.1,0.25,0,901,43,0
+Carles Pérez Sayol,22,La Liga,Forward,FC Barcelona,474,189,285,10,5,5,1,1,0,2,0,9,2,7,0,0.57,0.38,0.19,0.48,0,474,47,237
+Carlos Bacca,34,La Liga,Forward,Villarreal,683,304,379,19,10,9,2,1,1,1,0,6,5,1,1,0.4,0.13,0.26,0.3,0.24,342,36,683
+Carlos Clerc Martínez,28,La Liga,Defender,Levante UD,1846,1016,830,23,13,10,0,0,0,2,0,31,14,17,4,0.1,0.1,0,0,0,0,80,923
+Carlos Fernández Luna,24,La Liga,Forward,Granada CF,2195,1352,843,34,18,16,10,6,4,3,1,23,14,9,8,0.53,0.12,0.41,0.4,0.43,220,65,732
+Carlos Marín Tomás,23,La Liga,Goalkeeper,Real Betis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carlos Neva Tey,24,La Liga,Defender,Granada CF,2211,1277,934,26,15,11,0,0,0,1,0,27,12,15,2,0.04,0.04,0,0,0,0,85,2211
+Carlos Soler,23,La Liga,Midfielder,Valencia CF,2074,1108,966,28,14,14,2,2,0,0,0,28,5,23,4,0.09,0,0.09,0.16,0,1037,74,0
+Casemiro,27,La Liga,Defender,Real Madrid,3091,1500,1591,35,17,18,4,3,1,3,0,21,10,11,12,0.2,0.09,0.12,0.18,0.06,773,88,1030
+Charles,36,La Liga,Forward,SD Eibar,1294,751,543,30,17,13,6,3,3,0,1,23,13,10,8,0.42,0,0.42,0.36,0.5,216,43,0
+Chema,28,La Liga,Defender,Getafe CF,308,270,38,4,3,1,0,0,0,0,0,4,4,0,4,0,0,0,0,0,0,77,0
+Chidozie Awaziem,23,La Liga,Defender,Leganés,1994,1014,980,26,12,14,0,0,0,0,0,29,14,15,10,0,0,0,0,0,0,77,0
+Christian Rivera Hernández,23,La Liga,Midfielder,Leganés,309,187,122,5,3,2,0,0,0,0,0,7,2,5,3,0,0,0,0,0,0,62,0
+Clément Lenglet,25,La Liga,Defender,FC Barcelona,2428,1260,1168,28,14,14,2,1,1,1,0,25,10,15,11,0.11,0.04,0.07,0.07,0.08,1214,87,2428
+Cristian Rivero Sabater,22,La Liga,Goalkeeper,Valencia CF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cristian Tello,29,La Liga,Forward,Real Betis,770,245,525,27,12,15,2,2,0,0,0,15,2,13,1,0.23,0,0.23,0.73,0,385,29,0
+Cristiano Piccini,28,La Liga,Defender,Valencia CF,75,8,67,2,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,38,0
+Damián Suárez,32,La Liga,Defender,Getafe CF,2598,1311,1287,30,15,15,1,0,1,4,0,24,13,11,16,0.17,0.14,0.03,0,0.07,2598,87,650
+Dani García,30,La Liga,Midfielder,Athletic Club Bilbao,3027,1526,1501,36,18,18,0,0,0,1,0,32,11,21,11,0.03,0.03,0,0,0,0,84,3027
+Daniel Cárdenas Lindez,23,La Liga,Goalkeeper,Levante UD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniel Carriço,32,La Liga,Defender,Sevilla FC,849,307,542,11,4,7,0,0,0,0,0,9,5,4,3,0,0,0,0,0,0,77,0
+Daniel Carvajal Ramos,28,La Liga,Defender,Real Madrid,2741,1481,1260,31,17,14,1,0,1,5,0,18,10,8,11,0.2,0.16,0.03,0,0.07,2741,88,548
+Daniel José Rodríguez Vázquez,32,La Liga,Midfielder,RCD Mallorca,3048,1570,1478,37,19,18,5,3,2,2,1,58,20,38,7,0.21,0.06,0.15,0.17,0.12,610,82,1524
+Daniel Martín Fernández,22,La Liga,Goalkeeper,Real Betis,530,260,270,6,3,3,0,0,0,0,0,12,4,8,0,0,0,0,0,0,0,88,0
+Daniel Morer Cabrera,22,La Liga,Defender,FC Barcelona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniel Parejo,31,La Liga,Midfielder,Valencia CF,3030,1408,1622,35,16,19,8,5,3,3,5,45,12,33,6,0.33,0.09,0.24,0.32,0.17,379,87,1010
+Daniel Rebollo Franco,20,La Liga,Goalkeeper,Real Betis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniel Torres,30,La Liga,Midfielder,Deportivo Alavés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniel Villahermosa Martínez,19,La Liga,Midfielder,RCD Espanyol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniel Vivian Moreno,21,La Liga,Defender,Athletic Club Bilbao,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniel Wass,31,La Liga,Midfielder,Valencia CF,2731,1263,1468,35,18,17,1,1,0,6,0,36,6,30,7,0.23,0.2,0.03,0.07,0,2731,78,455
+Darío Poveda Romera,23,La Liga,Forward,Atlético Madrid,7,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+Darko Brašanac,28,La Liga,Midfielder,CA Osasuna,2251,1181,1070,31,16,15,0,0,0,1,0,30,16,14,8,0.04,0.04,0,0,0,0,73,2251
+Darwin Daniel Machís Marcano,27,La Liga,Forward,Granada CF,2126,977,1149,36,18,18,7,3,4,5,1,28,12,16,5,0.51,0.21,0.3,0.28,0.31,304,59,425
+David Costas Cordal,25,La Liga,Defender,Celta de Vigo,335,180,155,6,2,4,0,0,0,0,0,9,4,5,1,0,0,0,0,0,0,56,0
+David García Zubiría,26,La Liga,Defender,CA Osasuna,2792,1350,1442,32,15,17,0,0,0,0,0,44,25,19,7,0,0,0,0,0,0,87,0
+David Juncà,26,La Liga,Defender,Celta de Vigo,259,0,259,3,0,3,0,0,0,0,0,6,0,6,1,0,0,0,0,0,0,86,0
+David López,31,La Liga,Defender,RCD Espanyol,2462,1204,1258,32,16,16,4,2,2,2,0,36,18,18,5,0.22,0.07,0.15,0.15,0.14,616,77,1231
+David Ramos Guillén,23,La Liga,Midfielder,Real Betis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+David Soria,27,La Liga,Goalkeeper,Getafe CF,3420,1710,1710,38,19,19,0,0,0,0,0,34,18,16,2,0,0,0,0,0,0,90,0
+David Timor Copoví,31,La Liga,Midfielder,Getafe CF,937,435,502,22,10,12,3,2,1,0,0,10,6,4,4,0.29,0,0.29,0.41,0.18,312,43,0
+David Zurutuza,34,La Liga,Midfielder,Real Sociedad,156,7,149,5,1,4,0,0,0,0,0,3,0,3,1,0,0,0,0,0,0,31,0
+Denis Cheryshev,29,La Liga,Midfielder,Valencia CF,919,219,700,24,11,13,1,0,1,2,0,17,1,16,5,0.29,0.2,0.1,0,0.13,919,38,460
+Denis Suárez,26,La Liga,Midfielder,Celta de Vigo,1637,916,721,26,13,13,1,0,1,5,0,20,9,11,3,0.33,0.27,0.05,0,0.12,1637,63,327
+Deyverson Brum Silva Acosta,29,La Liga,Forward,Getafe CF,205,71,134,5,2,3,0,0,0,1,0,1,1,0,2,0.44,0.44,0,0,0,0,41,205
+Dídac Vilá Rosselló,31,La Liga,Defender,RCD Espanyol,2494,1143,1351,30,14,16,0,0,0,0,0,39,19,20,9,0,0,0,0,0,0,83,0
+Diego Alende López,23,La Liga,Defender,Real Valladolid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Diego Altube Suárez,20,La Liga,Goalkeeper,Real Madrid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Diego Carlos,27,La Liga,Defender,Sevilla FC,3135,1530,1605,35,17,18,2,1,1,0,0,30,11,19,7,0.06,0,0.06,0.06,0.06,1568,90,0
+Diego Da Silva Costa,32,La Liga,Forward,Atlético Madrid,1350,593,757,23,12,11,5,3,2,4,2,8,3,5,5,0.6,0.27,0.33,0.46,0.24,270,59,338
+Diego Lainez Leyva,20,La Liga,Forward,Real Betis,338,141,197,15,6,9,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,23,0
+Diego Llorente,27,La Liga,Defender,Real Sociedad,2330,1231,1099,29,15,14,1,0,1,1,0,31,15,16,7,0.08,0.04,0.04,0,0.08,2330,80,2330
+Diego López Rodríguez,38,La Liga,Goalkeeper,RCD Espanyol,3233,1530,1703,36,17,19,0,0,0,0,0,54,29,25,5,0,0,0,0,0,0,90,0
+Dimitri Foulquier,27,La Liga,Defender,Granada CF,1114,429,685,17,8,9,1,0,1,0,0,12,6,6,4,0.08,0,0.08,0,0.13,1114,66,0
+Dimitrios Siovas,32,La Liga,Defender,Leganés,1922,951,971,24,11,13,0,0,0,0,0,23,13,10,7,0,0,0,0,0,0,80,0
+Djene Dakonam,28,La Liga,Defender,Getafe CF,3060,1440,1620,34,16,18,0,0,0,0,0,31,17,14,5,0,0,0,0,0,0,90,0
+Domingos Sousa Coutinho Meneses Duarte,25,La Liga,Defender,Granada CF,3086,1530,1556,36,17,19,3,1,2,1,0,38,13,25,7,0.12,0.03,0.09,0.06,0.12,1029,86,3086
+Dragan Rosić,23,La Liga,Goalkeeper,Celta de Vigo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eden Hazard,29,La Liga,Midfielder,Real Madrid,1087,717,370,16,11,5,1,1,0,3,0,4,4,0,0,0.33,0.25,0.08,0.13,0,1087,68,362
+Éder Gabriel Militão,22,La Liga,Defender,Real Madrid,1018,448,570,15,8,7,0,0,0,0,0,9,2,7,3,0,0,0,0,0,0,68,0
+Edgar Antonio Méndez Ortega,29,La Liga,Midfielder,Deportivo Alavés,865,380,485,16,8,8,1,1,0,0,0,18,7,11,3,0.1,0,0.1,0.24,0,865,54,0
+Édgar González Estrada,23,La Liga,Defender,Real Betis,687,443,244,10,7,3,0,0,0,0,0,9,6,3,3,0,0,0,0,0,0,69,0
+Edinaldo Gomes Pereira,32,La Liga,Defender,RCD Espanyol,1332,575,757,18,8,10,0,0,0,1,0,21,12,9,8,0.07,0.07,0,0,0,0,74,1332
+Eduardo Expósito Jaén,24,La Liga,Midfielder,SD Eibar,2310,1158,1152,35,17,18,4,2,2,1,1,32,13,19,3,0.19,0.04,0.16,0.16,0.16,578,66,2310
+Ekhi Bravo Díaz,22,La Liga,Forward,SD Eibar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eliaquim Mangala,29,La Liga,Defender,Valencia CF,675,180,495,8,2,6,0,0,0,0,0,13,3,10,3,0,0,0,0,0,0,84,0
+Eliseo Falcón Falcón,23,La Liga,Defender,Levante UD,74,74,0,1,1,0,0,0,0,0,0,3,3,0,2,0,0,0,0,0,0,74,0
+Emerson Aparecido Leite de Souza Junior,21,La Liga,Defender,Real Betis,2841,1515,1326,33,17,16,3,1,2,6,0,47,24,23,11,0.29,0.19,0.1,0.06,0.14,947,86,474
+Enes Ünal,23,La Liga,Forward,Real Valladolid,2338,1195,1143,35,18,17,6,4,2,2,2,25,8,17,4,0.31,0.08,0.23,0.3,0.16,390,67,1169
+Enis Bardhi,25,La Liga,Midfielder,Levante UD,2114,908,1206,30,14,16,7,2,5,2,0,34,12,22,5,0.38,0.09,0.3,0.2,0.37,302,70,1057
+Enric Gallego Puigsech,34,La Liga,Forward,CA Osasuna,1054,551,503,19,8,11,3,3,0,0,0,11,9,2,6,0.26,0,0.26,0.49,0,351,55,0
+Enrique Barja Afonso,23,La Liga,Forward,CA Osasuna,313,221,92,8,5,3,0,0,0,1,0,4,2,2,0,0.29,0.29,0,0,0,0,39,313
+Enrique González Casín,30,La Liga,Forward,SD Eibar,481,231,250,15,8,7,0,0,0,1,0,8,3,5,0,0.19,0.19,0,0,0,0,32,481
+Enrique Pérez Muñoz,23,La Liga,Midfielder,Real Valladolid,215,102,113,6,3,3,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,36,0
+Erick Cathriel Cabaco Almada,25,La Liga,Defender,Getafe CF,1076,542,534,15,9,6,0,0,0,0,0,11,5,6,4,0,0,0,0,0,0,72,0
+Esteban Félix Granero Molina,33,La Liga,Midfielder,RCD Espanyol,471,202,269,11,5,6,1,0,1,0,0,11,5,6,5,0.19,0,0.19,0,0.33,471,43,0
+Esteban Rodrigo Burgos,28,La Liga,Defender,SD Eibar,1115,320,795,15,5,10,1,1,0,0,0,15,2,13,3,0.08,0,0.08,0.28,0,1115,74,0
+Éver Banega,32,La Liga,Midfielder,Sevilla FC,2482,1245,1237,33,16,17,3,0,3,7,2,28,11,17,10,0.36,0.25,0.11,0,0.22,827,75,355
+Ezequiel Garay,34,La Liga,Defender,Valencia CF,1439,763,676,17,9,8,0,0,0,0,0,17,3,14,2,0,0,0,0,0,0,85,0
+Fabián Ariel Orellana Valenzuela,34,La Liga,Midfielder,SD Eibar,2398,1298,1100,29,15,14,8,6,2,7,4,44,21,23,10,0.56,0.26,0.3,0.42,0.16,300,83,343
+Fabricio Martín Agosto Ramírez,32,La Liga,Goalkeeper,RCD Mallorca,90,0,90,1,0,1,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,90,0
+Facundo Ferreyra,29,La Liga,Forward,RCD Espanyol,567,233,334,16,7,9,1,0,1,0,0,8,4,4,2,0.16,0,0.16,0,0.27,567,35,0
+Facundo Roncaglia,33,La Liga,Defender,CA Osasuna,1282,580,702,16,7,9,1,1,0,0,0,19,9,10,5,0.07,0,0.07,0.16,0,1282,80,0
+Fayçal Fajr,32,La Liga,Forward,Getafe CF,401,200,201,10,4,6,0,0,0,0,0,6,4,2,2,0,0,0,0,0,0,40,0
+Federico Barba,27,La Liga,Defender,Real Valladolid,450,90,360,5,1,4,0,0,0,0,0,12,0,12,3,0,0,0,0,0,0,90,0
+Federico San Emeterio Díaz,23,La Liga,Midfielder,Real Valladolid,1752,871,881,25,13,12,0,0,0,0,0,15,6,9,4,0,0,0,0,0,0,70,0
+Federico Valverde,22,La Liga,Midfielder,Real Madrid,1906,992,914,33,15,18,2,1,1,5,0,12,5,7,1,0.33,0.24,0.09,0.09,0.1,953,58,381
+Federico Vico Villegas,26,La Liga,Midfielder,Granada CF,879,480,399,18,10,8,2,1,1,1,1,14,8,6,1,0.31,0.1,0.2,0.19,0.23,440,49,879
+Felipe Augusto de Almeida Monteiro,31,La Liga,Defender,Atlético Madrid,2099,1018,1081,25,12,13,1,1,0,0,0,18,8,10,7,0.04,0,0.04,0.09,0,2099,84,0
+Felipe Rodríguez Chacartegui,22,La Liga,Defender,Sevilla FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ferland Mendy,25,La Liga,Defender,Real Madrid,1804,962,842,25,13,12,1,0,1,2,0,11,4,7,8,0.15,0.1,0.05,0,0.11,1804,72,902
+Fernando Calero Villa,25,La Liga,Defender,RCD Espanyol,1044,496,548,15,7,8,0,0,0,0,0,20,13,7,5,0,0,0,0,0,0,70,0
+Fernando Francisco Reges,33,La Liga,Midfielder,Sevilla FC,2657,1338,1319,34,16,18,2,1,1,3,0,27,11,16,13,0.17,0.1,0.07,0.07,0.07,1329,78,886
+Fernando Niño Rodriguez,20,La Liga,Forward,Villarreal,80,78,2,5,3,2,1,0,1,0,0,1,1,0,1,1.13,0,1.13,0,45,80,16,0
+Fernando Pacheco,28,La Liga,Goalkeeper,Deportivo Alavés,2359,1260,1099,27,14,13,0,0,0,0,0,36,12,24,1,0,0,0,0,0,0,87,0
+Ferran Jutlgà Blanc,21,La Liga,Midfielder,RCD Espanyol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ferrán Torres García,20,La Liga,Forward,Valencia CF,2258,1137,1121,34,17,17,4,2,2,5,0,28,6,22,4,0.36,0.2,0.16,0.16,0.16,565,66,452
+Filip Bradarić,27,La Liga,Midfielder,Celta de Vigo,705,264,441,14,8,6,0,0,0,0,0,10,3,7,3,0,0,0,0,0,0,50,0
+Florent Poulolo,23,La Liga,Defender,Getafe CF,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francis Coquelin,29,La Liga,Midfielder,Valencia CF,1908,1061,847,26,14,12,0,0,0,0,0,26,6,20,8,0,0,0,0,0,0,73,0
+Francisco Barbosa Vieites,21,La Liga,Goalkeeper,Celta de Vigo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francisco Gámez López,29,La Liga,Defender,RCD Mallorca,1765,812,953,23,10,13,0,0,0,1,0,32,10,22,5,0.05,0.05,0,0,0,0,77,1765
+Francisco Gonzalez Verjara,22,La Liga,Midfielder,RCD Mallorca,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francisco Javier Campos Coll,38,La Liga,Defender,RCD Mallorca,468,198,270,9,6,3,0,0,0,1,0,12,4,8,2,0.19,0.19,0,0,0,0,52,468
+Francisco José Beltrán Peinado,21,La Liga,Midfielder,Celta de Vigo,1834,982,852,28,16,12,1,1,0,0,0,20,11,9,3,0.05,0,0.05,0.09,0,1834,66,0
+Francisco José Olivas Alba,32,La Liga,Defender,Real Valladolid,2942,1380,1562,35,17,18,2,0,2,0,0,35,11,24,2,0.06,0,0.06,0,0.12,1471,84,0
+Francisco Mérida Pérez,30,La Liga,Midfielder,CA Osasuna,1160,695,465,23,12,11,0,0,0,1,0,22,13,9,9,0.08,0.08,0,0,0,0,50,1160
+Francisco Portillo,30,La Liga,Midfielder,Getafe CF,365,204,161,16,10,6,0,0,0,2,0,1,1,0,3,0.49,0.49,0,0,0,0,23,183
+Franco Vázquez,31,La Liga,Forward,Sevilla FC,1087,699,388,31,18,13,3,3,0,0,0,14,10,4,5,0.25,0,0.25,0.39,0,362,35,0
+Frenkie de Jong,23,La Liga,Midfielder,FC Barcelona,2121,894,1227,29,14,15,2,1,1,2,0,24,7,17,3,0.17,0.08,0.08,0.1,0.07,1061,73,1061
+Fyodor Smolov,30,La Liga,Forward,Celta de Vigo,748,425,323,14,7,7,2,1,1,0,0,7,3,4,4,0.24,0,0.24,0.21,0.28,374,53,0
+Gabriel Matías Fernández Leites,26,La Liga,Forward,Celta de Vigo,572,329,243,20,10,10,1,1,0,1,0,8,5,3,5,0.31,0.16,0.16,0.27,0,572,29,572
+Gabriel Paulista,29,La Liga,Defender,Valencia CF,2802,1453,1349,33,17,16,1,1,0,1,0,41,12,29,5,0.06,0.03,0.03,0.06,0,2802,85,2802
+Gaizka Larrazabal Goikoetxea,23,La Liga,Midfielder,Athletic Club Bilbao,244,23,221,10,2,8,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,24,0
+Gareth Bale,31,La Liga,Forward,Real Madrid,1092,408,684,16,7,9,2,0,2,2,0,9,4,5,4,0.33,0.16,0.16,0,0.26,546,68,546
+Genaro Rodríguez Serrano,22,La Liga,Defender,Sevilla FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geoffrey Kondogbia,27,La Liga,Midfielder,Valencia CF,1807,961,846,27,14,13,1,1,0,1,0,27,10,17,6,0.1,0.05,0.05,0.09,0,1807,67,1807
+Gerard Moreno,28,La Liga,Forward,Villarreal,2754,1338,1416,35,17,18,18,10,8,5,1,36,17,19,5,0.75,0.16,0.59,0.67,0.51,153,79,551
+Gerard Piqué,33,La Liga,Defender,FC Barcelona,3096,1671,1425,35,19,16,1,1,0,0,0,32,13,19,15,0.03,0,0.03,0.05,0,3096,88,0
+Germán Sánchez Barahona,33,La Liga,Defender,Granada CF,2295,1324,971,28,15,13,2,1,1,0,0,28,14,14,12,0.08,0,0.08,0.07,0.09,1148,82,0
+Germán Valera Karabinaite,18,La Liga,Forward,Atlético Madrid,3,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+Gil Dias,24,La Liga,Forward,Granada CF,349,227,122,12,7,5,0,0,0,1,0,2,2,0,1,0.26,0.26,0,0,0,0,29,349
+Giorgi Kochorashvili,21,La Liga,Midfielder,Levante UD,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Gonçalo Guedes,23,La Liga,Midfielder,Valencia CF,1266,787,479,21,11,10,2,1,1,2,0,20,6,14,3,0.28,0.14,0.14,0.11,0.19,633,60,633
+Gonzalo Ávila Gordon,22,La Liga,Midfielder,RCD Espanyol,473,188,285,7,3,4,0,0,0,0,0,6,4,2,2,0,0,0,0,0,0,68,0
+Gonzalo Escalante,27,La Liga,Midfielder,SD Eibar,1672,900,772,23,13,10,0,0,0,1,0,30,15,15,9,0.05,0.05,0,0,0,0,73,1672
+Gonzalo Julián Melero Manzanares,26,La Liga,Midfielder,Levante UD,1238,496,742,25,11,14,2,0,2,1,1,17,5,12,4,0.22,0.07,0.15,0,0.24,619,50,1238
+Gonzalo Pereira Cejudo,23,La Liga,Defender,Levante UD,13,13,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,13,0
+Guido Marcelo Carrillo,29,La Liga,Forward,Leganés,1207,676,531,24,13,11,1,1,0,2,0,17,11,6,2,0.22,0.15,0.07,0.13,0,1207,50,604
+Guido Rodríguez,26,La Liga,Midfielder,Real Betis,938,482,456,14,7,7,1,1,0,0,0,14,7,7,5,0.1,0,0.1,0.19,0,938,67,0
+Guillermo Maripán,26,La Liga,Defender,Deportivo Alavés,90,90,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0
+Gustavo Adrián Ramos Vásquez,34,La Liga,Forward,Granada CF,222,29,193,7,3,4,0,0,0,0,0,6,1,5,0,0,0,0,0,0,0,32,0
+Hatem Ben Arfa,33,La Liga,Midfielder,Real Valladolid,158,40,118,5,3,2,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,32,0
+Héctor Junior Firpo Adames,24,La Liga,Defender,FC Barcelona,1011,607,404,17,9,8,1,0,1,1,0,11,6,5,5,0.18,0.09,0.09,0,0.22,1011,59,1011
+Héctor Miguel Herrera López,30,La Liga,Midfielder,Atlético Madrid,1120,553,567,21,9,12,0,0,0,2,0,6,4,2,1,0.16,0.16,0,0,0,0,53,560
+Hernâni Jorge Santos Fortes,29,La Liga,Forward,Levante UD,643,359,284,20,11,9,2,1,1,0,0,9,4,5,3,0.28,0,0.28,0.25,0.32,322,32,0
+Hugo Duro Perales,21,La Liga,Forward,Getafe CF,374,184,190,12,4,8,1,1,0,1,0,6,4,2,3,0.48,0.24,0.24,0.49,0,374,31,374
+Hugo Guillamón Sanmartín,20,La Liga,Defender,Valencia CF,494,270,224,6,3,3,0,0,0,0,0,6,0,6,3,0,0,0,0,0,0,82,0
+Hugo Mallo,29,La Liga,Defender,Celta de Vigo,1963,947,1016,27,14,13,0,0,0,1,0,22,8,14,7,0.05,0.05,0,0,0,0,73,1963
+Iago Aspas,33,La Liga,Forward,Celta de Vigo,3268,1664,1604,37,19,18,14,7,7,3,5,44,18,26,9,0.47,0.08,0.39,0.38,0.39,233,88,1089
+Iago Domínguez Rodríguez,18,La Liga,Goalkeeper,Celta de Vigo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iago Herrerín,32,La Liga,Goalkeeper,Athletic Club Bilbao,424,154,270,5,2,3,0,0,0,0,0,7,2,5,0,0,0,0,0,0,0,85,0
+Ibai Gomez,30,La Liga,Midfielder,Athletic Club Bilbao,688,448,240,17,11,6,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,40,0
+Ibrahim Amadou,27,La Liga,Midfielder,Leganés,772,347,425,10,4,6,0,0,0,0,0,10,7,3,2,0,0,0,0,0,0,77,0
+Iddrisu Baba Mohammed,24,La Liga,Midfielder,RCD Mallorca,2914,1528,1386,36,19,17,0,0,0,0,0,53,19,34,6,0,0,0,0,0,0,81,0
+Ignacio Peña Sotorres,21,La Liga,Goalkeeper,FC Barcelona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Igor Zubeldia,23,La Liga,Midfielder,Real Sociedad,2639,1299,1340,33,16,17,0,0,0,1,0,36,15,21,9,0.03,0.03,0,0,0,0,80,2639
+Iker Losada Aragunde,19,La Liga,Midfielder,Celta de Vigo,11,11,0,2,2,0,1,1,0,0,0,0,0,0,0,8.18,0,8.18,8.18,0,11,6,0
+Iker Muniain,27,La Liga,Forward,Athletic Club Bilbao,2392,1357,1035,31,16,15,5,5,0,2,0,25,11,14,5,0.26,0.08,0.19,0.33,0,478,77,1196
+Iñaki Álvarez Goñi,0,La Liga,Goalkeeper,CA Osasuna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iñaki Williams,26,La Liga,Forward,Athletic Club Bilbao,2958,1556,1402,38,19,19,6,2,4,1,1,29,12,17,3,0.21,0.03,0.18,0.12,0.26,493,78,2958
+Iñigo Córdoba,23,La Liga,Midfielder,Athletic Club Bilbao,1455,791,664,24,12,12,1,0,1,4,0,14,5,9,4,0.31,0.25,0.06,0,0.14,1455,61,364
+Íñigo Lekue,27,La Liga,Defender,Athletic Club Bilbao,617,112,505,14,5,9,0,0,0,1,0,11,2,9,0,0.15,0.15,0,0,0,0,44,617
+Iñigo Martínez,29,La Liga,Defender,Athletic Club Bilbao,2970,1530,1440,33,17,16,1,1,0,1,0,30,12,18,10,0.06,0.03,0.03,0.06,0,2970,90,2970
+Iñigo Pérez Soto,32,La Liga,Midfielder,CA Osasuna,1074,634,440,22,13,9,2,2,0,1,0,21,14,7,4,0.25,0.08,0.17,0.28,0,537,49,1074
+Isco,28,La Liga,Midfielder,Real Madrid,1188,333,855,23,10,13,1,0,1,2,0,7,1,6,2,0.23,0.15,0.08,0,0.11,1188,52,594
+Ismael Gutiérrez Montilla,20,La Liga,Midfielder,Deportivo Alavés,83,71,12,3,1,2,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,28,0
+İsmail Köybaşı,31,La Liga,Defender,Granada CF,232,96,136,4,2,2,0,0,0,0,0,3,0,3,1,0,0,0,0,0,0,58,0
+Iván Amores Alonso,23,La Liga,Midfielder,Leganés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iván Cuéllar,36,La Liga,Goalkeeper,Leganés,2430,1170,1260,27,13,14,0,0,0,0,0,32,18,14,4,0,0,0,0,0,0,90,0
+Iván López Cristóbal,22,La Liga,Defender,Leganés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iván Martín Núñez,21,La Liga,Midfielder,Villarreal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ivan Rakitić,32,La Liga,Midfielder,FC Barcelona,1584,908,676,31,15,16,1,1,0,3,0,12,5,7,5,0.23,0.17,0.06,0.1,0,1584,51,528
+Iván Ramis,36,La Liga,Defender,SD Eibar,459,125,334,7,3,4,1,1,0,0,0,10,2,8,1,0.2,0,0.2,0.72,0,459,66,0
+Ivan Šaponjić,23,La Liga,Forward,Atlético Madrid,4,2,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Iván Villar Martínez,23,La Liga,Goalkeeper,Celta de Vigo,279,99,180,4,2,2,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,70,0
+Jacobo González Rodrigañez,23,La Liga,Midfielder,Celta de Vigo,83,81,2,2,1,1,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,42,0
+Jaime Mata Arnaiz,32,La Liga,Forward,Getafe CF,2759,1283,1476,34,17,17,11,4,7,3,3,23,10,13,14,0.46,0.1,0.36,0.28,0.43,251,81,920
+James Rodriguez,29,La Liga,Midfielder,Real Madrid,419,162,257,8,4,4,1,1,0,1,0,3,2,1,1,0.43,0.21,0.21,0.56,0,419,52,419
+Jan Oblak,27,La Liga,Goalkeeper,Atlético Madrid,3396,1710,1686,38,19,19,0,0,0,0,0,24,10,14,0,0,0,0,0,0,0,89,0
+Jason Remeseiro,26,La Liga,Forward,Getafe CF,1182,601,581,20,11,9,1,0,1,4,0,15,7,8,5,0.38,0.3,0.08,0,0.15,1182,59,296
+Jasper Cillessen,31,La Liga,Goalkeeper,Valencia CF,2097,1080,1017,24,12,12,0,0,0,1,0,26,6,20,1,0.04,0.04,0,0,0,0,87,2097
+Jaume Costa,32,La Liga,Defender,Valencia CF,1390,691,699,19,10,9,0,0,0,1,0,16,6,10,4,0.06,0.06,0,0,0,0,73,1390
+Jaume Doménech,30,La Liga,Goalkeeper,Valencia CF,1323,630,693,15,7,8,0,0,0,0,0,22,6,16,1,0,0,0,0,0,0,88,0
+Javi García,33,La Liga,Midfielder,Real Betis,374,108,266,8,4,4,0,0,0,0,0,6,2,4,2,0,0,0,0,0,0,47,0
+Javier Avilés Cortés,23,La Liga,Midfielder,Leganés,178,86,92,9,5,4,1,0,1,1,0,2,2,0,1,1.01,0.51,0.51,0,0.98,178,20,178
+Javier Díaz Sánchez,23,La Liga,Goalkeeper,Sevilla FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Javier Enrique Delgado Saverio,21,La Liga,Forward,FC Barcelona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Javier Eraso,30,La Liga,Midfielder,Leganés,817,432,385,20,11,9,0,0,0,0,0,9,5,4,3,0,0,0,0,0,0,41,0
+Javier Hernandez,32,La Liga,Forward,Sevilla FC,446,226,220,9,5,4,1,1,0,0,0,4,1,3,0,0.2,0,0.2,0.4,0,446,50,0
+Javier Hernández Carrera,22,La Liga,Defender,Real Madrid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Javier Jiménez García,23,La Liga,Defender,Valencia CF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Javier López,34,La Liga,Defender,RCD Espanyol,1386,712,674,17,8,9,0,0,0,0,0,19,9,10,5,0,0,0,0,0,0,82,0
+Javier López Carballo,18,La Liga,Defender,Deportivo Alavés,90,0,90,1,0,1,0,0,0,0,0,6,0,6,0,0,0,0,0,0,0,90,0
+Javier Martínez Calvo,20,La Liga,Midfielder,CA Osasuna,10,10,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+Javier Moyano Lujano,34,La Liga,Defender,Real Valladolid,2231,1319,912,26,15,11,0,0,0,0,0,16,7,9,4,0,0,0,0,0,0,86,0
+Javier Muñoz Jiménez,25,La Liga,Midfielder,Deportivo Alavés,53,0,53,1,0,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,53,0
+Javier Ontiveros Parra,23,La Liga,Midfielder,Villarreal,872,262,610,30,14,16,2,2,0,1,0,11,4,7,2,0.31,0.1,0.21,0.69,0,436,29,872
+Javier Puado Díaz,22,La Liga,Forward,RCD Espanyol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Javier Sánchez de Felipe,23,La Liga,Defender,Real Valladolid,497,226,271,8,3,5,0,0,0,1,0,6,1,5,1,0.18,0.18,0,0,0,0,62,497
+Jean-Clair Todibo,20,La Liga,Midfielder,FC Barcelona,77,73,4,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0
+Jeison Murillo,28,La Liga,Defender,Celta de Vigo,1529,719,810,18,9,9,1,1,0,0,0,15,6,9,5,0.06,0,0.06,0.13,0,1529,85,0
+Jesús Navas,34,La Liga,Midfielder,Sevilla FC,3370,1710,1660,38,19,19,0,0,0,7,0,31,14,17,4,0.19,0.19,0,0,0,0,89,481
+Jesús Ruiz Suárez,23,La Liga,Goalkeeper,RCD Mallorca,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jesús Vallejo Lázaro,23,La Liga,Defender,Granada CF,627,194,433,11,5,6,0,0,0,0,0,6,2,4,1,0,0,0,0,0,0,57,0
+Joan Jordán,26,La Liga,Midfielder,Sevilla FC,2264,992,1272,34,16,18,2,0,2,2,0,14,4,10,8,0.16,0.08,0.08,0,0.14,1132,67,1132
+Joan Monterde Raygal,22,La Liga,Midfielder,Levante UD,8,8,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+João Félix Sequeira,21,La Liga,Forward,Atlético Madrid,1757,1034,723,27,15,12,6,3,3,1,0,8,7,1,6,0.36,0.05,0.31,0.26,0.37,293,65,1757
+João Paulo Santos da Costa,24,La Liga,Goalkeeper,Granada CF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joaquín,39,La Liga,Midfielder,Real Betis,2071,1147,924,34,18,16,8,7,1,3,2,33,16,17,4,0.48,0.13,0.35,0.55,0.1,259,61,690
+Joaquín Fernández Moreno,24,La Liga,Midfielder,Real Valladolid,1661,942,719,20,11,9,2,2,0,0,0,20,8,12,9,0.11,0,0.11,0.19,0,831,83,0
+Joaquín José Marín Ruiz,31,La Liga,Defender,Granada CF,716,222,494,10,4,6,0,0,0,0,0,11,3,8,2,0,0,0,0,0,0,72,0
+Joel Robles Blázquez,30,La Liga,Goalkeeper,Real Betis,2888,1448,1440,33,17,16,0,0,0,0,0,45,22,23,4,0,0,0,0,0,0,88,0
+John Guidetti,28,La Liga,Forward,Deportivo Alavés,93,58,35,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0
+Jokin Ezkieta Mendiburu,24,La Liga,Goalkeeper,Athletic Club Bilbao,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jon Moncayola Tollar,22,La Liga,Midfielder,CA Osasuna,1489,505,984,27,13,14,1,0,1,0,0,20,8,12,4,0.06,0,0.06,0,0.09,1489,55,0
+Jon Pacheco Dozagarat,19,La Liga,Defender,Real Sociedad,78,0,78,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,78,0
+Jon Sillero Monreal,22,La Liga,Defender,Athletic Club Bilbao,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jonathan Calleri,27,La Liga,Forward,RCD Espanyol,1817,989,828,27,15,12,1,1,0,3,0,31,18,13,6,0.2,0.15,0.05,0.09,0,1817,67,606
+Jonathan Cristian Silva,26,La Liga,Defender,Leganés,2787,1463,1324,33,17,16,1,0,1,2,0,42,23,19,14,0.1,0.06,0.03,0,0.07,2787,84,1394
+Jordi Alba,31,La Liga,Defender,FC Barcelona,2190,1012,1178,27,13,14,2,1,1,5,0,19,7,12,7,0.29,0.21,0.08,0.09,0.08,1095,81,438
+Jordi Masip López,31,La Liga,Goalkeeper,Real Valladolid,3150,1620,1530,35,18,17,0,0,0,0,0,34,12,22,2,0,0,0,0,0,0,90,0
+Jorge Andújar Moreno,33,La Liga,Defender,Levante UD,986,599,387,17,10,7,1,1,0,0,0,16,9,7,3,0.09,0,0.09,0.15,0,986,58,0
+Jorge Cuenca Barreno,20,La Liga,Defender,FC Barcelona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jorge De Frutos Sebastián,23,La Liga,Forward,Real Valladolid,56,34,22,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0
+Jorge Jiménez Rodríguez,21,La Liga,Forward,Real Betis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jorge Miramón Santagertrudis,31,La Liga,Midfielder,Levante UD,2430,1109,1321,32,16,16,0,0,0,3,0,38,11,27,5,0.11,0.11,0,0,0,0,76,810
+Jorge Molina,38,La Liga,Forward,Getafe CF,1893,962,931,34,16,18,5,5,0,3,2,17,7,10,7,0.38,0.14,0.24,0.47,0,379,56,631
+Jorge Ruiz Ojeda,25,La Liga,Goalkeeper,Levante UD,180,90,90,2,1,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,90,0
+Jorge Sáenz de Miera Colmeiro,23,La Liga,Defender,Celta de Vigo,371,221,150,7,4,3,0,0,0,0,0,7,4,3,4,0,0,0,0,0,0,53,0
+José Alonso Alonso Lara,20,La Liga,Midfielder,Sevilla FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+José Ángel,31,La Liga,Defender,SD Eibar,2362,1477,885,28,17,11,1,1,0,1,0,37,21,16,4,0.08,0.04,0.04,0.06,0,2362,84,2362
+José Antonio Caro Díaz,26,La Liga,Goalkeeper,Real Valladolid,245,90,155,3,1,2,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,82,0
+José Antonio Martínez Gil,27,La Liga,Defender,Granada CF,1187,490,697,20,8,12,0,0,0,1,0,19,3,16,0,0.08,0.08,0,0,0,0,59,1187
+José Antonio Rodríguez Díaz,28,La Liga,Midfielder,Granada CF,2562,1168,1394,36,17,19,7,3,4,3,0,29,7,22,7,0.35,0.11,0.25,0.23,0.26,366,71,854
+Jose Campana,27,La Liga,Midfielder,Levante UD,3159,1576,1583,37,19,18,2,1,1,7,0,46,18,28,4,0.26,0.2,0.06,0.06,0.06,1580,85,451
+José Giménez,25,La Liga,Defender,Atlético Madrid,1753,912,841,21,11,10,0,0,0,0,0,11,5,6,2,0,0,0,0,0,0,83,0
+José Ignacio Martínez García,31,La Liga,Defender,Real Valladolid,1894,1031,863,23,12,11,0,0,0,2,0,19,7,12,2,0.1,0.1,0,0,0,0,82,947
+José Javier Hualde Zaratiegui,22,La Liga,Midfielder,CA Osasuna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+José Luis Gayà,25,La Liga,Defender,Valencia CF,1989,1046,943,24,12,12,0,0,0,1,0,29,5,24,5,0.05,0.05,0,0,0,0,83,1989
+José Luis Morales,33,La Liga,Midfielder,Levante UD,2528,1393,1135,38,19,19,4,4,0,2,0,38,15,23,3,0.21,0.07,0.14,0.26,0,632,67,1264
+José Luis Rodriguez,22,La Liga,Midfielder,Deportivo Alavés,21,0,21,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0
+José Luis Sanmartín Mato,30,La Liga,Forward,Deportivo Alavés,2786,1599,1187,36,19,17,11,5,6,2,1,45,18,27,6,0.42,0.06,0.36,0.28,0.45,253,77,1393
+José Luis Trápaga Fuentevilla,22,La Liga,Defender,Real Betis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+José Manuel Arnáiz Díaz,25,La Liga,Midfielder,CA Osasuna,1119,568,551,26,15,11,2,1,1,1,0,13,8,5,4,0.24,0.08,0.16,0.16,0.16,560,43,1119
+José Manuel Fontán Mondragón,0,La Liga,Defender,Celta de Vigo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+José Mena Rodríguez,22,La Liga,Midfielder,Sevilla FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+José Ramiro Funes Mori,29,La Liga,Defender,Villarreal,451,270,181,7,3,4,0,0,0,0,0,6,4,2,1,0,0,0,0,0,0,64,0
+José Sánchez Martínez,20,La Liga,Defender,Granada CF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joseba Zaldúa,28,La Liga,Defender,Real Sociedad,2551,1328,1223,30,16,14,0,0,0,2,0,33,13,20,8,0.07,0.07,0,0,0,0,85,1276
+Josep Señé Escudero,28,La Liga,Midfielder,RCD Mallorca,146,31,115,6,2,4,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,24,0
+Joseph Aidoo,25,La Liga,Defender,Celta de Vigo,2499,1055,1444,32,14,18,0,0,0,1,0,31,11,20,4,0.04,0.04,0,0,0,0,78,2499
+Juan Brandariz Movilla,21,La Liga,Defender,FC Barcelona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juan Camilo Hernández Suárez,21,La Liga,Forward,RCD Mallorca,1492,715,777,22,10,12,5,4,1,1,0,23,8,15,5,0.36,0.06,0.3,0.5,0.12,298,68,1492
+Juan Hernández García,25,La Liga,Forward,Celta de Vigo,84,66,18,5,4,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,17,0
+Juan Luis Sánchez Velasco,17,La Liga,Midfielder,Sevilla FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juan Manuel Pérez Ruiz,24,La Liga,Goalkeeper,CA Osasuna,180,90,90,2,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,90,0
+Juan Sastre Vanrell,23,La Liga,Defender,RCD Mallorca,1362,706,656,19,10,9,0,0,0,2,0,28,9,19,4,0.13,0.13,0,0,0,0,72,681
+Juan Soriano Oropesa,23,La Liga,Goalkeeper,Leganés,990,540,450,11,6,5,0,0,0,0,0,16,7,9,2,0,0,0,0,0,0,90,0
+Juan Villar Vázquez,32,La Liga,Midfielder,CA Osasuna,234,180,54,10,6,4,1,1,0,0,1,4,3,1,1,0.38,0,0.38,0.5,0,234,23,0
+Juanmi,27,La Liga,Forward,Real Betis,261,88,173,8,4,4,1,0,1,0,0,5,2,3,2,0.34,0,0.34,0,0.52,261,33,0
+Julen Lobete Cienfuegos,20,La Liga,Forward,Real Sociedad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jules Koundé,22,La Liga,Defender,Sevilla FC,2306,1189,1117,29,14,15,1,0,1,1,0,22,8,14,6,0.08,0.04,0.04,0,0.08,2306,80,2306
+Júnior Wakalibille Lago,29,La Liga,Midfielder,RCD Mallorca,2190,1114,1076,35,18,17,4,4,0,0,3,32,10,22,3,0.16,0,0.16,0.32,0,548,63,0
+Kangin Lee,19,La Liga,Midfielder,Valencia CF,446,271,175,17,7,10,2,2,0,0,0,8,4,4,3,0.4,0,0.4,0.66,0,223,26,0
+Karim Benzema,32,La Liga,Forward,Real Madrid,3155,1508,1647,37,18,19,21,13,8,8,5,22,11,11,0,0.83,0.23,0.6,0.78,0.44,150,85,394
+Karl Toko Ekambi,28,La Liga,Forward,Villarreal,995,458,537,18,9,9,6,4,2,2,0,14,6,8,0,0.72,0.18,0.54,0.79,0.34,166,55,498
+Kenan Kodro,27,La Liga,Forward,Athletic Club Bilbao,359,26,333,12,4,8,1,0,1,0,0,5,0,5,0,0.25,0,0.25,0,0.27,359,30,0
+Kenneth Josiah Omeruo,27,La Liga,Defender,Leganés,1878,797,1081,23,10,13,1,1,0,0,0,29,11,18,5,0.05,0,0.05,0.11,0,1878,82,0
+Kevin Gameiro,33,La Liga,Forward,Valencia CF,1582,623,959,29,14,15,6,3,3,2,0,25,2,23,0,0.46,0.11,0.34,0.43,0.28,264,55,791
+Kévin Rodrigues,26,La Liga,Defender,Leganés,1939,778,1161,27,11,16,1,1,0,2,0,24,10,14,6,0.14,0.09,0.05,0.12,0,1939,72,970
+Kévin Soni,22,La Liga,Midfielder,RCD Espanyol,3,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+Kevin Vázquez Comesaña,27,La Liga,Defender,Celta de Vigo,1332,757,575,17,9,8,0,0,0,0,0,19,11,8,6,0,0,0,0,0,0,78,0
+Keylor Navas,33,La Liga,Goalkeeper,Real Madrid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kieran Trippier,30,La Liga,Defender,Atlético Madrid,1981,1322,659,25,16,9,0,0,0,4,0,13,7,6,2,0.18,0.18,0,0,0,0,79,495
+Kike,30,La Liga,Forward,SD Eibar,1774,902,872,27,13,14,5,3,2,1,0,24,12,12,2,0.3,0.05,0.25,0.3,0.21,355,66,1774
+Koba Lein Koindredi,19,La Liga,Midfielder,Valencia CF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Koke,28,La Liga,Midfielder,Atlético Madrid,2699,1470,1229,32,17,15,4,4,0,5,0,19,9,10,5,0.3,0.17,0.13,0.24,0,675,84,540
+Laureano Antonio Villa Suárez,25,La Liga,Midfielder,Real Valladolid,1365,964,401,23,16,7,0,0,0,1,0,13,7,6,4,0.07,0.07,0,0,0,0,59,1365
+Leandro Cabrera,29,La Liga,Defender,RCD Espanyol,3062,1576,1486,35,18,17,2,1,1,1,0,36,15,21,5,0.09,0.03,0.06,0.06,0.06,1531,87,3062
+Leandro Chichizola,30,La Liga,Goalkeeper,Getafe CF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lei Wu,28,La Liga,Midfielder,RCD Espanyol,1724,934,790,33,17,16,4,3,1,0,0,25,14,11,3,0.21,0,0.21,0.29,0.11,431,52,0
+Leonardo Koutris,25,La Liga,Midfielder,RCD Mallorca,93,62,31,2,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,47,0
+Lionel Messi,33,La Liga,Forward,FC Barcelona,2880,1486,1394,33,17,16,25,19,6,21,5,27,10,17,4,1.44,0.66,0.78,1.15,0.39,115,87,137
+Lisandro Magallán,27,La Liga,Defender,Deportivo Alavés,1194,542,652,17,7,10,1,1,0,1,0,29,9,20,4,0.15,0.08,0.08,0.17,0,1194,70,1194
+Ljubomir Fejsa,32,La Liga,Midfielder,Deportivo Alavés,791,159,632,13,4,9,0,0,0,0,0,16,2,14,2,0,0,0,0,0,0,61,0
+Lluis López Mármol,23,La Liga,Defender,RCD Espanyol,299,209,90,4,3,1,0,0,0,0,0,7,5,2,1,0,0,0,0,0,0,75,0
+Lorenzo Jesús Morón García,26,La Liga,Forward,Real Betis,2029,993,1036,36,18,18,10,7,3,3,0,40,18,22,3,0.58,0.13,0.44,0.63,0.26,203,56,676
+Luca Sangalli Fuentes,25,La Liga,Midfielder,Real Sociedad,371,153,218,11,6,5,0,0,0,1,0,5,3,2,0,0.24,0.24,0,0,0,0,34,371
+Lucas Ocampos,26,La Liga,Midfielder,Sevilla FC,2755,1378,1377,33,16,17,14,9,5,3,5,23,10,13,10,0.56,0.1,0.46,0.59,0.33,197,83,918
+Lucas Perez,32,La Liga,Forward,Deportivo Alavés,2503,1435,1068,34,19,15,11,7,4,5,5,44,17,27,4,0.58,0.18,0.4,0.44,0.34,228,74,501
+Lucas René Olaza Catrofe,26,La Liga,Defender,Celta de Vigo,3145,1620,1525,35,18,17,1,0,1,3,0,40,17,23,5,0.11,0.09,0.03,0,0.06,3145,90,1048
+Lucas Vázquez,29,La Liga,Midfielder,Real Madrid,839,414,425,18,8,10,2,0,2,1,0,9,3,6,1,0.32,0.11,0.21,0,0.42,420,47,839
+Luis Ezequiel Ávila,26,La Liga,Forward,CA Osasuna,1593,944,649,20,11,9,9,6,3,2,0,21,13,8,6,0.62,0.11,0.51,0.57,0.42,177,80,797
+Luis Federico López Andúgar,19,La Liga,Goalkeeper,Real Madrid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luis Jesús Rioja González,27,La Liga,Forward,Deportivo Alavés,1641,1001,640,28,15,13,0,0,0,0,0,21,9,12,3,0,0,0,0,0,0,59,0
+Luis Perea Hernández,23,La Liga,Midfielder,CA Osasuna,19,0,19,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+Luís Rafael Soares Alves,25,La Liga,Defender,SD Eibar,438,90,348,6,1,5,0,0,0,0,0,6,1,5,1,0,0,0,0,0,0,73,0
+Luis Suárez,33,La Liga,Forward,FC Barcelona,2000,894,1106,28,13,15,16,7,9,8,1,16,7,9,4,1.08,0.36,0.72,0.7,0.73,125,71,250
+Luka Jović,22,La Liga,Forward,Real Madrid,420,226,194,17,7,10,2,1,1,1,0,4,1,3,2,0.64,0.21,0.43,0.4,0.46,210,25,420
+Luka Modrić,35,La Liga,Midfielder,Real Madrid,1998,1028,970,31,16,15,3,2,1,7,0,14,7,7,8,0.45,0.32,0.14,0.18,0.09,666,64,285
+Luka Romero Bezzana,16,La Liga,Midfielder,RCD Mallorca,7,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+Lumor Agbenyenu,24,La Liga,Defender,RCD Mallorca,1807,1081,726,23,14,9,1,0,1,0,0,31,16,15,5,0.05,0,0.05,0,0.12,1807,79,0
+Luuk de Jong,30,La Liga,Forward,Sevilla FC,2061,1096,965,35,19,16,6,2,4,1,0,17,8,9,2,0.31,0.04,0.26,0.16,0.37,344,59,2061
+Manu García,34,La Liga,Midfielder,Deportivo Alavés,1970,1043,927,30,16,14,0,0,0,0,0,31,11,20,11,0,0,0,0,0,0,66,0
+Manu Trigueros,29,La Liga,Midfielder,Villarreal,1544,721,823,29,14,15,2,0,2,4,1,20,9,11,6,0.35,0.23,0.12,0,0.22,772,53,386
+Manuel Castellano Castro,31,La Liga,Defender,CA Osasuna,193,103,90,4,2,2,0,0,0,0,0,4,2,2,2,0,0,0,0,0,0,48,0
+Manuel Garrido Alvarez,20,La Liga,Forward,Leganés,115,56,59,4,2,2,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,29,0
+Manuel Javier Vallejo Galván,23,La Liga,Forward,Valencia CF,413,211,202,11,6,5,2,0,2,0,0,4,1,3,0,0.44,0,0.44,0,0.89,207,38,0
+Manuel Morlanes Ariño,21,La Liga,Midfielder,Villarreal,249,40,209,9,4,5,0,0,0,1,0,3,0,3,0,0.36,0.36,0,0,0,0,28,249
+Manuel Reina Rodríguez,35,La Liga,Goalkeeper,RCD Mallorca,3240,1710,1530,36,19,17,0,0,0,0,0,57,21,36,4,0,0,0,0,0,0,90,0
+Manuel Sánchez De La Peña,20,La Liga,Defender,Atlético Madrid,326,215,111,5,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,65,0
+Marc Bartra,29,La Liga,Defender,Real Betis,2527,1119,1408,30,14,16,3,2,1,1,0,46,20,26,8,0.14,0.04,0.11,0.16,0.06,842,84,2527
+Marc Cardona Rovira,25,La Liga,Forward,CA Osasuna,703,234,469,19,11,8,1,0,1,2,0,14,5,9,1,0.38,0.26,0.13,0,0.19,703,37,352
+Marc Cucurella Saseta,22,La Liga,Defender,Getafe CF,3250,1684,1566,37,19,18,1,1,0,5,0,32,18,14,9,0.17,0.14,0.03,0.05,0,3250,88,650
+Marc Navarro Ceciliano,25,La Liga,Defender,Leganés,220,84,136,4,2,2,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,55,0
+Marc Pedraza Sarto,33,La Liga,Midfielder,RCD Mallorca,131,70,61,3,2,1,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,44,0
+Marc Roca Junqué,23,La Liga,Midfielder,RCD Espanyol,3019,1595,1424,35,18,17,2,2,0,1,2,49,28,21,8,0.09,0.03,0.06,0.11,0,1510,86,3019
+Marc-André ter Stegen,28,La Liga,Goalkeeper,FC Barcelona,3240,1710,1530,36,19,17,0,0,0,2,0,32,13,19,1,0.06,0.06,0,0,0,0,90,1620
+Marcelo,32,La Liga,Defender,Real Madrid,1299,611,688,15,7,8,1,1,0,2,0,12,7,5,2,0.21,0.14,0.07,0.15,0,1299,87,650
+Marco Asensio,24,La Liga,Midfielder,Real Madrid,334,160,174,9,5,4,3,2,1,1,0,3,1,2,0,1.08,0.27,0.81,1.13,0.52,111,37,334
+Marcos Lavín Rodríguez,24,La Liga,Goalkeeper,Getafe CF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcos Llorente,25,La Liga,Midfielder,Atlético Madrid,1367,622,745,29,14,15,3,0,3,3,0,16,6,10,4,0.4,0.2,0.2,0,0.36,456,47,456
+Mariano,27,La Liga,Forward,Real Madrid,40,7,33,5,3,2,1,1,0,0,0,2,0,2,1,2.25,0,2.25,12.86,0,40,8,0
+Mario Gaspar,29,La Liga,Defender,Villarreal,1962,970,992,25,12,13,0,0,0,2,0,27,13,14,2,0.09,0.09,0,0,0,0,78,981
+Mario Hermoso,25,La Liga,Defender,Atlético Madrid,1220,741,479,17,11,6,0,0,0,0,0,9,6,3,4,0,0,0,0,0,0,72,0
+Mario Rodríguez Ruiz,23,La Liga,Midfielder,Granada CF,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Markel Bergara,34,La Liga,Midfielder,Getafe CF,70,70,0,2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,35,0
+Marko Dmitrović,28,La Liga,Goalkeeper,SD Eibar,3150,1530,1620,35,17,18,0,0,0,0,0,49,23,26,3,0,0,0,0,0,0,90,0
+Martín Aguirregabiria Padilla,24,La Liga,Defender,Deportivo Alavés,2097,1071,1026,31,16,15,1,1,0,1,0,37,13,24,6,0.09,0.04,0.04,0.08,0,2097,68,2097
+Martin Braithwaite,29,La Liga,Forward,FC Barcelona,2338,1192,1146,35,18,17,7,3,4,2,0,32,14,18,4,0.35,0.08,0.27,0.23,0.31,334,67,1169
+Martin Valijent,24,La Liga,Defender,RCD Mallorca,3184,1710,1474,36,19,17,0,0,0,0,0,56,21,35,6,0,0,0,0,0,0,88,0
+Martín Zubimendi Ibañez,21,La Liga,Midfielder,Real Sociedad,571,325,246,9,5,4,0,0,0,0,0,8,4,4,3,0,0,0,0,0,0,63,0
+Martin Ødegaard,21,La Liga,Midfielder,Real Sociedad,2533,1262,1271,31,15,16,4,2,2,6,0,33,14,19,3,0.36,0.21,0.14,0.14,0.14,633,82,422
+Matheus Fernandes Siqueira,22,La Liga,Midfielder,Real Valladolid,166,1,165,3,1,2,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,55,0
+Mathías Olivera Miramontes,23,La Liga,Defender,Getafe CF,1900,756,1144,24,9,15,0,0,0,1,0,18,8,10,7,0.05,0.05,0,0,0,0,79,1900
+Matías Ezequiel Vargas Martin,23,La Liga,Midfielder,RCD Espanyol,1020,570,450,21,13,8,0,0,0,3,0,17,13,4,1,0.26,0.26,0,0,0,0,49,340
+Mauro Arambarri,25,La Liga,Midfielder,Getafe CF,3072,1548,1524,35,18,17,1,1,0,1,0,30,17,13,11,0.06,0.03,0.03,0.06,0,3072,88,3072
+Maxi Gómez,24,La Liga,Forward,Valencia CF,2149,1176,973,33,17,16,10,7,3,2,0,29,11,18,5,0.5,0.08,0.42,0.54,0.28,215,65,1075
+Maxime Gonalons,31,La Liga,Midfielder,Granada CF,1509,670,839,19,9,10,0,0,0,0,0,20,5,15,7,0,0,0,0,0,0,79,0
+Miguel Alfonso Herrero Javaloyas,32,La Liga,Midfielder,Real Valladolid,2189,1005,1184,29,14,15,1,0,1,2,1,20,4,16,6,0.12,0.08,0.04,0,0.08,2189,75,1095
+Miguel Ángel Atienza Villa,21,La Liga,Midfielder,SD Eibar,27,0,27,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0
+Miguel Ángel Guerrero,30,La Liga,Forward,Leganés,792,373,419,13,6,7,1,0,1,0,0,10,5,5,0,0.11,0,0.11,0,0.21,792,61,0
+Miguel Ángel Leal Díaz,23,La Liga,Defender,Villarreal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miguel Ángel Moyà Rumbo,36,La Liga,Goalkeeper,Real Sociedad,1170,450,720,13,5,8,0,0,0,0,0,16,6,10,0,0,0,0,0,0,0,90,0
+Miguel De La Fuente Escudero,21,La Liga,Forward,Real Valladolid,229,109,120,7,4,3,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,33,0
+Miguel Gutiérrez Ortega,19,La Liga,Defender,Real Madrid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miguel Mari Sanchez,23,La Liga,Forward,SD Eibar,6,6,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+Mikel Balenziaga,32,La Liga,Defender,Athletic Club Bilbao,561,155,406,9,3,6,0,0,0,0,0,9,3,6,1,0,0,0,0,0,0,62,0
+Mikel Merino,24,La Liga,Midfielder,Real Sociedad,3143,1682,1461,36,19,17,5,5,0,1,0,41,20,21,9,0.17,0.03,0.14,0.27,0,629,87,3143
+Mikel Oyarzabal,23,La Liga,Forward,Real Sociedad,3063,1549,1514,37,19,18,10,6,4,11,4,42,19,23,4,0.62,0.32,0.29,0.35,0.24,306,83,278
+Mikel San José,31,La Liga,Midfielder,Athletic Club Bilbao,354,151,203,9,4,5,0,0,0,0,0,3,0,3,3,0,0,0,0,0,0,39,0
+Mikel Vesga,27,La Liga,Midfielder,Athletic Club Bilbao,1264,428,836,20,8,12,0,0,0,1,0,15,5,10,3,0.07,0.07,0,0,0,0,63,1264
+Miquel Parera Pizá,24,La Liga,Goalkeeper,RCD Mallorca,90,0,90,1,0,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,90,0
+Moctar El Hacen El Id,22,La Liga,Midfielder,Real Valladolid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Modibo Sagnan,21,La Liga,Forward,Real Sociedad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mohamed Ezzarfani,22,La Liga,Midfielder,RCD Espanyol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mohamed Salisu Abdul Karim,21,La Liga,Defender,Real Valladolid,2726,1434,1292,31,16,15,1,1,0,1,0,28,11,17,4,0.07,0.03,0.03,0.06,0,2726,88,2726
+Moisés Gómez Bordonado,26,La Liga,Midfielder,Villarreal,2326,1119,1207,37,19,18,5,5,0,4,0,30,14,16,1,0.35,0.15,0.19,0.4,0,465,63,582
+Mouctar Diakhaby,23,La Liga,Defender,Valencia CF,1439,774,665,21,12,9,0,0,0,0,0,20,7,13,5,0,0,0,0,0,0,69,0
+Moussa Wagué,22,La Liga,Defender,FC Barcelona,90,0,90,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,90,0
+Mubarak Wakaso,30,La Liga,Midfielder,Deportivo Alavés,1312,692,620,16,8,8,0,0,0,0,0,24,5,19,12,0,0,0,0,0,0,82,0
+Munas Dabbur,28,La Liga,Forward,Sevilla FC,24,12,12,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0
+Munir,25,La Liga,Forward,Sevilla FC,1252,670,582,21,9,12,5,1,4,2,0,10,4,6,1,0.5,0.14,0.36,0.13,0.62,250,60,626
+Nabil Fekir,27,La Liga,Forward,Real Betis,2649,1303,1346,32,16,16,7,4,3,4,1,48,22,26,10,0.37,0.14,0.24,0.28,0.2,378,83,662
+Nacho Fernandez,30,La Liga,Defender,Real Madrid,437,123,314,6,2,4,1,0,1,0,0,2,0,2,3,0.21,0,0.21,0,0.29,437,73,0
+Nacho Monreal,34,La Liga,Defender,Real Sociedad,2392,1354,1038,29,16,13,2,2,0,0,0,31,16,15,3,0.08,0,0.08,0.13,0,1196,82,0
+Nacho Vidal,25,La Liga,Defender,CA Osasuna,2331,1135,1196,30,16,14,0,0,0,0,0,31,18,13,5,0,0,0,0,0,0,78,0
+Naïs Djouahra,20,La Liga,Midfielder,Real Sociedad,29,27,2,2,1,1,0,0,0,1,0,1,1,0,0,3.1,3.1,0,0,0,0,15,29
+Nélson Semedo,26,La Liga,Defender,FC Barcelona,2095,1125,970,32,16,16,1,0,1,2,0,22,8,14,2,0.13,0.09,0.04,0,0.09,2095,65,1048
+Nemanja Gudelj,28,La Liga,Midfielder,Sevilla FC,1200,402,798,24,9,15,0,0,0,0,0,12,3,9,6,0,0,0,0,0,0,50,0
+Nemanja Maksimović,25,La Liga,Midfielder,Getafe CF,2898,1461,1437,35,18,17,2,0,2,0,0,28,15,13,5,0.06,0,0.06,0,0.13,1449,83,0
+Nemanja Radoja,27,La Liga,Midfielder,Levante UD,1994,1091,903,26,14,12,1,1,0,0,0,33,14,19,3,0.05,0,0.05,0.08,0,1994,77,0
+Néstor Alejandro Araújo Razo,29,La Liga,Defender,Celta de Vigo,2891,1468,1423,34,17,17,1,0,1,2,0,38,16,22,10,0.09,0.06,0.03,0,0.06,2891,85,1446
+Neto,31,La Liga,Goalkeeper,FC Barcelona,180,0,180,2,0,2,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,90,0
+Nicolás Melamed Ribaudo,19,La Liga,Midfielder,RCD Espanyol,181,119,62,6,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,30,0
+Nikola Vukčević,28,La Liga,Midfielder,Levante UD,1573,734,839,30,12,18,0,0,0,2,0,28,8,20,11,0.11,0.11,0,0,0,0,52,787
+Nil Garrido,19,La Liga,Midfielder,Real Betis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nolito,34,La Liga,Forward,Celta de Vigo,1222,729,493,22,13,9,5,4,1,1,1,12,5,7,3,0.44,0.07,0.37,0.49,0.18,244,56,1222
+Oghenekaro Etebo,25,La Liga,Forward,Getafe CF,574,268,306,10,6,4,1,1,0,0,0,6,2,4,4,0.16,0,0.16,0.34,0,574,57,0
+Ohian Sancet Tirapu,20,La Liga,Midfielder,Athletic Club Bilbao,742,346,396,17,10,7,1,1,0,1,0,6,1,5,1,0.24,0.12,0.12,0.26,0,742,44,742
+Oier Olazábal Paredes,31,La Liga,Goalkeeper,RCD Espanyol,180,180,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0
+Oier Sanjurjo Mate,34,La Liga,Defender,CA Osasuna,2327,1054,1273,29,13,16,2,1,1,1,0,28,16,12,14,0.12,0.04,0.08,0.09,0.07,1164,80,2327
+Okay Yokuşlu,26,La Liga,Midfielder,Celta de Vigo,1978,916,1062,26,12,14,0,0,0,2,0,25,9,16,6,0.09,0.09,0,0,0,0,76,989
+Oliver Burke,23,La Liga,Midfielder,Deportivo Alavés,1420,474,946,31,15,16,1,1,0,2,0,21,5,16,2,0.19,0.13,0.06,0.19,0,1420,46,710
+Óliver Torres Muñoz,26,La Liga,Midfielder,Sevilla FC,1608,901,707,28,15,13,3,0,3,3,0,16,7,9,5,0.34,0.17,0.17,0,0.38,536,57,536
+Óscar Clemente Mues,21,La Liga,Forward,Atlético Madrid,3,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+Óscar de Marcos,31,La Liga,Defender,Athletic Club Bilbao,538,228,310,13,7,6,0,0,0,1,0,6,3,3,1,0.17,0.17,0,0,0,0,41,538
+Óscar Esau Duarte Gaitán,31,La Liga,Defender,Levante UD,484,230,254,8,4,4,0,0,0,0,0,13,3,10,0,0,0,0,0,0,0,61,0
+Óscar Melendo Jiménez,23,La Liga,Midfielder,RCD Espanyol,1111,705,406,24,12,12,0,0,0,0,0,16,13,3,0,0,0,0,0,0,0,46,0
+Óscar Plano Pedreño,29,La Liga,Forward,Real Valladolid,2510,1354,1156,36,19,17,4,2,2,2,0,26,11,15,6,0.22,0.07,0.14,0.13,0.16,628,70,1255
+Óscar Rodríguez Arnaiz,22,La Liga,Midfielder,Leganés,1922,1000,922,30,16,14,9,5,4,2,2,34,17,17,7,0.52,0.09,0.42,0.45,0.39,214,64,961
+Ousmane Dembélé,23,La Liga,Midfielder,FC Barcelona,356,176,180,5,3,2,1,1,0,0,0,2,0,2,2,0.25,0,0.25,0.51,0,356,71,0
+Pablo Chavarría,32,La Liga,Forward,RCD Mallorca,199,89,110,13,6,7,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,15,0
+Pablo de Blasis,32,La Liga,Midfielder,SD Eibar,1593,848,745,30,15,15,2,1,1,3,1,29,14,15,1,0.28,0.17,0.11,0.11,0.12,797,53,531
+Pablo Gozalbez Gilabert,19,La Liga,Forward,Valencia CF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pablo Hervías Ruiz,27,La Liga,Midfielder,Real Valladolid,1009,583,426,25,15,10,1,1,0,0,0,12,3,9,1,0.09,0,0.09,0.15,0,1009,40,0
+Pablo Lombo Suárez,21,La Liga,Goalkeeper,Leganés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pablo Martínez Andrés,22,La Liga,Midfielder,Levante UD,29,10,19,5,2,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,6,0
+Pablo Pérez Rico,19,La Liga,Defender,Sevilla FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pablo Piatti,31,La Liga,Midfielder,RCD Espanyol,53,38,15,3,2,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,18,0
+Paco Alcácer,27,La Liga,Forward,Villarreal,930,527,403,13,7,6,4,3,1,1,0,13,8,5,1,0.48,0.1,0.39,0.51,0.22,233,72,930
+Pape Cheik Diop Guete,23,La Liga,Midfielder,Celta de Vigo,593,276,317,16,8,8,0,0,0,1,0,8,0,8,6,0.15,0.15,0,0,0,0,37,593
+Pape Diop,23,La Liga,Midfielder,SD Eibar,2257,1004,1253,30,15,15,1,0,1,0,0,40,17,23,7,0.04,0,0.04,0,0.07,2257,75,0
+Pau Francisco Torres,23,La Liga,Defender,Villarreal,2970,1530,1440,34,18,16,2,1,1,1,0,43,22,21,6,0.09,0.03,0.06,0.06,0.06,1485,87,2970
+Paulino de la Fuente Gómez,23,La Liga,Forward,Deportivo Alavés,72,16,56,3,1,2,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,24,0
+Paulo Oliveira,28,La Liga,Defender,SD Eibar,2089,1128,961,26,13,13,1,0,1,0,0,29,14,15,7,0.04,0,0.04,0,0.09,2089,80,0
+Pedro Antonio Porro Sauceda,0,La Liga,Forward,Real Valladolid,734,204,530,13,3,10,0,0,0,0,0,15,4,11,1,0,0,0,0,0,0,56,0
+Pedro Bigas,30,La Liga,Defender,SD Eibar,1779,1081,698,23,13,10,3,2,1,0,0,20,14,6,2,0.15,0,0.15,0.17,0.13,593,77,0
+Pedro León Sánchez Gil,33,La Liga,Midfielder,SD Eibar,1903,1135,768,31,17,14,1,1,0,2,0,26,13,13,4,0.14,0.09,0.05,0.08,0,1903,61,952
+Pere Joan García Bauzà,18,La Liga,Goalkeeper,RCD Mallorca,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pere Pons,27,La Liga,Midfielder,Deportivo Alavés,1068,334,734,30,15,15,1,0,1,1,0,30,5,25,3,0.17,0.08,0.08,0,0.12,1068,36,1068
+Pervis Josué Estupiñán Tenorio,22,La Liga,Defender,CA Osasuna,2977,1484,1493,36,18,18,1,1,0,5,0,44,24,20,9,0.18,0.15,0.03,0.06,0,2977,83,595
+Pione Sisto,25,La Liga,Forward,Celta de Vigo,884,438,446,21,10,11,2,1,1,0,0,12,3,9,2,0.2,0,0.2,0.21,0.2,442,42,0
+Pol Lozano Vizuete,21,La Liga,Midfielder,RCD Espanyol,171,96,75,5,2,3,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,34,0
+Portu,28,La Liga,Midfielder,Real Sociedad,2394,1310,1084,35,17,18,7,3,4,8,0,30,15,15,5,0.56,0.3,0.26,0.21,0.33,342,68,299
+Rafael Alcântara do Nascimento,27,La Liga,Midfielder,Celta de Vigo,2306,1039,1267,32,15,17,4,3,1,1,0,32,12,20,5,0.2,0.04,0.16,0.26,0.07,577,72,2306
+Rafael Jesús Navarro Mazuelos,26,La Liga,Defender,Deportivo Alavés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rafael Obrador Burguera,16,La Liga,Defender,RCD Mallorca,3,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+Ramon Olamilekan Azeez,27,La Liga,Midfielder,Granada CF,1356,738,618,25,12,13,2,1,1,0,0,14,5,9,3,0.13,0,0.13,0.12,0.15,678,54,0
+Ramón Rodríguez Jiménez,21,La Liga,Midfielder,FC Barcelona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Raphaël Varane,27,La Liga,Defender,Real Madrid,2823,1473,1350,32,17,15,2,1,1,1,0,20,11,9,2,0.1,0.03,0.06,0.06,0.07,1412,88,2823
+Raúl Albiol,35,La Liga,Defender,Villarreal,3238,1620,1618,36,18,18,1,0,1,0,0,43,22,21,9,0.03,0,0.03,0,0.06,3238,90,0
+Raúl de Tomás Gómez,26,La Liga,Forward,RCD Espanyol,1074,521,553,14,7,7,4,2,2,0,1,12,4,8,5,0.34,0,0.34,0.35,0.33,269,77,0
+Raúl García,34,La Liga,Midfielder,Athletic Club Bilbao,2878,1572,1306,35,18,17,15,6,9,1,7,24,11,13,11,0.5,0.03,0.47,0.34,0.62,192,82,2878
+Raúl García Carnero,31,La Liga,Defender,Real Valladolid,1259,511,748,16,7,9,0,0,0,1,0,10,4,6,2,0.07,0.07,0,0,0,0,79,1259
+Raúl García de Haro,20,La Liga,Forward,Real Betis,16,5,11,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+Raúl Navas,32,La Liga,Defender,CA Osasuna,711,270,441,9,3,6,0,0,0,0,0,10,2,8,2,0,0,0,0,0,0,79,0
+Recio,29,La Liga,Midfielder,Leganés,1571,735,836,25,14,11,0,0,0,0,0,22,10,12,11,0,0,0,0,0,0,63,0
+Renan Augusto Lodi dos Santos,22,La Liga,Defender,Atlético Madrid,2399,1012,1387,32,15,17,1,0,1,2,0,18,6,12,6,0.11,0.08,0.04,0,0.06,2399,75,1200
+Rey Manaj,23,La Liga,Forward,FC Barcelona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ricard Puig Martí,21,La Liga,Midfielder,FC Barcelona,507,242,265,11,6,5,0,0,0,2,0,4,3,1,1,0.36,0.36,0,0,0,0,46,254
+Ricard Sánchez Sendra,20,La Liga,Defender,Atlético Madrid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ricardo Visus Contreras,19,La Liga,Defender,Real Betis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rober,25,La Liga,Defender,Levante UD,189,9,180,4,2,2,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,47,0
+Robert Ibáñez Castro,27,La Liga,Midfielder,CA Osasuna,533,258,275,14,7,7,1,0,1,0,0,9,3,6,3,0.17,0,0.17,0,0.33,533,38,0
+Robert Kenedy Nunes do Nascimento,24,La Liga,Midfielder,Getafe CF,573,277,296,19,10,9,1,0,1,3,0,4,2,2,2,0.63,0.47,0.16,0,0.3,573,30,191
+Roberto,34,La Liga,Goalkeeper,Deportivo Alavés,789,360,429,9,4,5,0,0,0,0,0,18,7,11,1,0,0,0,0,0,0,88,0
+Roberto Antonio Correa Silva,28,La Liga,Defender,SD Eibar,932,485,447,12,6,6,0,0,0,0,0,15,6,9,3,0,0,0,0,0,0,78,0
+Roberto López Alcaide,20,La Liga,Midfielder,Real Sociedad,49,23,26,3,2,1,0,0,0,1,0,1,1,0,0,1.84,1.84,0,0,0,0,16,49
+Roberto Rosales,31,La Liga,Defender,Leganés,1874,1009,865,25,12,13,0,0,0,1,0,23,14,9,7,0.05,0.05,0,0,0,0,75,1874
+Roberto Soldado Rillo,35,La Liga,Forward,Granada CF,2362,1089,1273,33,16,17,7,3,4,4,1,32,9,23,14,0.42,0.15,0.27,0.25,0.28,337,72,591
+Roberto Torres Morales,31,La Liga,Midfielder,CA Osasuna,2722,1478,1244,36,18,18,7,4,3,8,5,39,24,15,1,0.5,0.26,0.23,0.24,0.22,389,76,340
+Robin Aime Robert Le Normand,24,La Liga,Defender,Real Sociedad,2389,1160,1229,31,15,16,1,1,0,0,0,26,14,12,6,0.04,0,0.04,0.08,0,2389,77,0
+Rodrigo,29,La Liga,Forward,Valencia CF,1889,1034,855,27,14,13,4,3,1,7,0,21,7,14,3,0.52,0.33,0.19,0.26,0.11,472,70,270
+Rodrigo Ely,27,La Liga,Defender,Deportivo Alavés,2125,979,1146,25,11,14,2,1,1,0,0,30,8,22,10,0.08,0,0.08,0.09,0.08,1063,85,0
+Rodrigo Riquelme Reche,20,La Liga,Defender,Atlético Madrid,12,12,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0
+Rodrigo Sánchez Rodriguez,20,La Liga,Forward,Real Betis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rodrigo Tarín Higón,24,La Liga,Defender,Leganés,952,406,546,14,7,7,0,0,0,0,0,15,8,7,1,0,0,0,0,0,0,68,0
+Rodrygo Silva de Goes,19,La Liga,Midfielder,Real Madrid,1023,681,342,19,11,8,2,2,0,0,0,2,2,0,0,0.18,0,0.18,0.26,0,512,54,0
+Roger Claver Assalé Djapone,26,La Liga,Forward,Leganés,521,166,355,14,5,9,2,1,1,1,0,6,2,4,1,0.52,0.17,0.35,0.54,0.25,261,37,521
+Roger Martí Salvador,29,La Liga,Forward,Levante UD,2272,1084,1188,36,17,19,11,9,2,1,4,32,13,19,6,0.48,0.04,0.44,0.75,0.15,207,63,2272
+Roman Tugarinov,21,La Liga,Defender,RCD Espanyol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ronald Federico Araújo da Silva,21,La Liga,Defender,FC Barcelona,238,17,221,6,2,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,40,0
+Rony Lopes,24,La Liga,Midfielder,Sevilla FC,133,77,56,5,3,2,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,27,0
+Roque Mesa,31,La Liga,Midfielder,Leganés,2017,1094,923,29,16,13,1,0,1,3,0,30,19,11,11,0.18,0.13,0.04,0,0.1,2017,70,672
+Rubén Alcaraz Jiménez,29,La Liga,Midfielder,Real Valladolid,1924,1048,876,27,14,13,2,1,1,2,0,23,10,13,10,0.19,0.09,0.09,0.09,0.1,962,71,962
+Rubén Blanco,25,La Liga,Goalkeeper,Celta de Vigo,2961,1521,1440,33,17,16,0,0,0,0,0,40,16,24,4,0,0,0,0,0,0,90,0
+Rubén Duarte,25,La Liga,Defender,Deportivo Alavés,2663,1523,1140,31,17,14,0,0,0,1,0,36,14,22,11,0.03,0.03,0,0,0,0,86,2663
+Rubén García Canales,22,La Liga,Defender,Levante UD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rubén García Santos,27,La Liga,Forward,CA Osasuna,2196,1220,976,30,17,13,8,3,5,2,1,35,22,13,6,0.41,0.08,0.33,0.22,0.46,275,73,1098
+Rubén Iván Martínez,36,La Liga,Goalkeeper,CA Osasuna,1583,810,773,19,9,10,0,0,0,0,0,23,13,10,0,0,0,0,0,0,0,83,0
+Rubén Pardo Gutiérrez,28,La Liga,Midfielder,Real Sociedad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rubén Peña,29,La Liga,Midfielder,Villarreal,1906,923,983,26,12,14,2,1,1,2,0,27,13,14,5,0.19,0.09,0.09,0.1,0.09,953,73,953
+Rubén Pérez del Mármol,31,La Liga,Midfielder,Leganés,2196,1111,1085,26,13,13,1,1,0,1,1,27,14,13,10,0.08,0.04,0.04,0.08,0,2196,84,2196
+Rubén Rochina Naixes,29,La Liga,Forward,Levante UD,1886,1045,841,28,15,13,5,3,2,3,0,31,12,19,5,0.38,0.14,0.24,0.26,0.21,377,67,629
+Rubén Sobrino,28,La Liga,Forward,Valencia CF,160,27,133,13,5,8,1,1,0,0,0,1,0,1,0,0.56,0,0.56,3.33,0,160,12,0
+Rúben Vezo,26,La Liga,Defender,Levante UD,2610,1260,1350,29,14,15,0,0,0,0,0,38,13,25,4,0,0,0,0,0,0,90,0
+Rui Tiago Dantas da Silva,26,La Liga,Goalkeeper,Granada CF,3150,1620,1530,35,18,17,0,0,0,0,0,40,14,26,3,0,0,0,0,0,0,90,0
+Sabin Merino,28,La Liga,Forward,Leganés,78,0,78,2,0,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,39,0
+Salvador Sevilla López,36,La Liga,Midfielder,RCD Mallorca,2578,1511,1067,35,18,17,5,4,1,3,2,42,16,26,10,0.28,0.1,0.17,0.24,0.08,516,74,859
+Samuel Chimerenka Chukwueze,21,La Liga,Midfielder,Villarreal,2037,1127,910,37,19,18,3,3,0,2,0,32,18,14,2,0.22,0.09,0.13,0.24,0,679,55,1019
+Samuel Pérez Fariña,23,La Liga,Goalkeeper,Real Valladolid,25,0,25,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+Samuel Umtiti,26,La Liga,Defender,FC Barcelona,946,399,547,13,6,7,0,0,0,0,0,11,3,8,6,0,0,0,0,0,0,73,0
+Sandro Ramirez,25,La Liga,Forward,Real Valladolid,1307,722,585,24,13,11,3,3,0,1,0,13,6,7,2,0.28,0.07,0.21,0.37,0,436,54,1307
+Santi Mina,24,La Liga,Forward,Celta de Vigo,1942,879,1063,34,17,17,6,4,2,3,0,27,10,17,4,0.42,0.14,0.28,0.41,0.17,324,57,647
+Santiago Arias Naranjo,28,La Liga,Defender,Atlético Madrid,1075,138,937,14,2,12,0,0,0,1,0,8,1,7,1,0.08,0.08,0,0,0,0,77,1075
+Santiago Cáseres,23,La Liga,Midfielder,Villarreal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Santiago Cazorla González,35,La Liga,Midfielder,Villarreal,2461,1410,1051,35,18,17,11,6,5,9,8,37,21,16,3,0.73,0.33,0.4,0.38,0.43,224,70,273
+Saúl Ñíguez,25,La Liga,Midfielder,Atlético Madrid,3076,1485,1591,35,17,18,6,3,3,0,2,22,9,13,10,0.18,0,0.18,0.18,0.17,513,88,0
+Sebastián Carlos Cristóforo Pepe,27,La Liga,Midfielder,SD Eibar,872,297,575,18,9,9,0,0,0,0,0,12,2,10,1,0,0,0,0,0,0,48,0
+Sébastien Corchia,30,La Liga,Defender,RCD Espanyol,270,90,180,3,1,2,0,0,0,0,0,5,3,2,1,0,0,0,0,0,0,90,0
+Sergi Darder,26,La Liga,Midfielder,RCD Espanyol,2658,1259,1399,36,18,18,2,1,1,1,0,45,23,22,5,0.1,0.03,0.07,0.07,0.06,1329,74,2658
+Sergi Enrich,30,La Liga,Forward,SD Eibar,1871,1023,848,30,16,14,1,1,0,4,0,27,15,12,6,0.24,0.19,0.05,0.09,0,1871,62,468
+Sergi Gómez,28,La Liga,Defender,Sevilla FC,714,451,263,13,7,6,0,0,0,0,0,8,5,3,4,0,0,0,0,0,0,55,0
+Sergi Roberto,28,La Liga,Defender,FC Barcelona,2342,1069,1273,30,15,15,1,1,0,2,0,25,9,16,7,0.12,0.08,0.04,0.08,0,2342,78,1171
+Sergio,43,La Liga,Midfielder,Celta de Vigo,180,90,90,2,1,1,0,0,0,0,0,1,0,1,3,0,0,0,0,0,0,90,0
+Sergio Akieme Rodríguez,22,La Liga,Defender,FC Barcelona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sergio Álvarez Díaz,28,La Liga,Midfielder,SD Eibar,1149,399,750,18,8,10,0,0,0,0,0,18,5,13,6,0,0,0,0,0,0,64,0
+Sergio Asenjo Andrés,31,La Liga,Goalkeeper,Villarreal,3060,1440,1620,34,16,18,0,0,0,0,0,39,18,21,2,0,0,0,0,0,0,90,0
+Sergio Bermejo Lillo,23,La Liga,Midfielder,Celta de Vigo,4,0,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+Sergio Busquets,32,La Liga,Midfielder,FC Barcelona,2491,1349,1142,33,18,15,2,1,1,2,0,25,11,14,10,0.14,0.07,0.07,0.07,0.08,1246,75,1246
+Sergio Camello Pérez,19,La Liga,Forward,Atlético Madrid,23,0,23,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0
+Sergio Canales,29,La Liga,Midfielder,Real Betis,3167,1497,1670,36,17,19,6,5,1,6,3,54,24,30,5,0.34,0.17,0.17,0.3,0.05,528,88,528
+Sergio Carreira Vilariño,0,La Liga,Defender,Celta de Vigo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sergio Cubero Ezcurra,21,La Liga,Midfielder,SD Eibar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sergio Escudero,31,La Liga,Defender,Sevilla FC,773,314,459,11,5,6,1,0,1,0,0,10,3,7,2,0.12,0,0.12,0,0.2,773,70,0
+Sergio Guardiola Navarro,29,La Liga,Forward,Real Valladolid,2665,1284,1381,35,17,18,8,4,4,2,0,25,8,17,6,0.34,0.07,0.27,0.28,0.26,333,76,1333
+Sergio Herrera Pirón,27,La Liga,Goalkeeper,CA Osasuna,1655,810,845,19,9,10,0,0,0,0,0,25,14,11,3,0,0,0,0,0,0,87,0
+Sergio León,31,La Liga,Forward,Levante UD,662,356,306,22,13,9,1,1,0,0,0,10,3,7,2,0.14,0,0.14,0.25,0,662,30,0
+Sergio Lozano Lluch,21,La Liga,Midfielder,Villarreal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sergio Postigo,32,La Liga,Defender,Levante UD,2375,1115,1260,28,13,15,1,0,1,1,0,34,10,24,6,0.08,0.04,0.04,0,0.07,2375,85,2375
+Sergio Ramos,34,La Liga,Defender,Real Madrid,3017,1471,1546,35,17,18,11,5,6,0,6,20,9,11,10,0.33,0,0.33,0.31,0.35,274,86,0
+Sergio Reguilón Rodríguez,23,La Liga,Defender,Sevilla FC,2509,1314,1195,31,16,15,2,1,1,4,0,22,10,12,8,0.22,0.14,0.07,0.07,0.08,1255,81,627
+Sergio Rico,27,La Liga,Goalkeeper,Sevilla FC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sidnei,31,La Liga,Defender,Real Betis,1178,592,586,14,7,7,1,1,0,0,0,24,10,14,0,0.08,0,0.08,0.15,0,1178,84,0
+Šime Vrsaljko,28,La Liga,Defender,Atlético Madrid,363,236,127,5,3,2,0,0,0,1,0,3,1,2,3,0.25,0.25,0,0,0,0,73,363
+Sofian Chakla,27,La Liga,Defender,Villarreal,180,0,180,2,0,2,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,90,0
+Stanislav Lobotka,25,La Liga,Midfielder,Celta de Vigo,1391,711,680,17,9,8,0,0,0,0,0,21,9,12,1,0,0,0,0,0,0,82,0
+Stefan Savić,29,La Liga,Defender,Atlético Madrid,1980,900,1080,22,10,12,0,0,0,0,0,13,4,9,6,0,0,0,0,0,0,90,0
+Stiven Ricardo Plaza Castillo,21,La Liga,Forward,Real Valladolid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sung-Yeung Ki,31,La Liga,Midfielder,RCD Mallorca,8,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+Suso,26,La Liga,Forward,Sevilla FC,784,294,490,17,9,8,1,1,0,1,0,10,4,6,0,0.23,0.11,0.11,0.31,0,784,46,784
+Takashi Inui,32,La Liga,Midfielder,SD Eibar,1964,868,1096,29,13,16,2,2,0,3,0,29,12,17,2,0.23,0.14,0.09,0.21,0,982,68,655
+Takefusa Kubo,19,La Liga,Forward,RCD Mallorca,2309,1028,1281,35,16,19,4,2,2,4,0,47,15,32,4,0.31,0.16,0.16,0.18,0.14,577,66,577
+Thibaut Courtois,28,La Liga,Goalkeeper,Real Madrid,3060,1530,1530,34,17,17,0,0,0,0,0,19,9,10,1,0,0,0,0,0,0,90,0
+Thierry Rendall Correia,21,La Liga,Defender,Valencia CF,259,161,98,4,2,2,0,0,0,0,0,6,3,3,0,0,0,0,0,0,0,65,0
+Thomas Lemar,25,La Liga,Midfielder,Atlético Madrid,922,439,483,22,10,12,0,0,0,0,0,8,4,4,2,0,0,0,0,0,0,42,0
+Thomas Partey,27,La Liga,Midfielder,Atlético Madrid,2551,1298,1253,35,18,17,3,1,2,0,0,15,4,11,13,0.11,0,0.11,0.07,0.14,850,73,0
+Tomás Pina,33,La Liga,Midfielder,Deportivo Alavés,1349,851,498,20,11,9,1,1,0,0,0,13,6,7,6,0.07,0,0.07,0.11,0,1349,67,0
+Tomáš Vaclík,31,La Liga,Goalkeeper,Sevilla FC,2926,1440,1486,33,16,17,0,0,0,0,0,30,12,18,0,0,0,0,0,0,0,89,0
+Toni Kroos,30,La Liga,Midfielder,Real Madrid,2656,1410,1246,35,19,16,4,3,1,5,0,16,7,9,2,0.3,0.17,0.14,0.19,0.07,664,76,531
+Toni Lato,22,La Liga,Defender,CA Osasuna,472,143,329,8,3,5,1,0,1,0,0,8,4,4,3,0.19,0,0.19,0,0.27,472,59,0
+Toño,31,La Liga,Defender,Levante UD,1590,694,896,20,8,12,0,0,0,2,0,23,5,18,2,0.11,0.11,0,0,0,0,80,795
+Unai Bustinza,28,La Liga,Defender,Leganés,2691,1399,1292,33,17,16,0,0,0,1,0,41,24,17,8,0.03,0.03,0,0,0,0,82,2691
+Unai Dufur Espelosín,21,La Liga,Midfielder,SD Eibar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unai Etxebarría Martín,24,La Liga,Goalkeeper,Granada CF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unai García Lugea,28,La Liga,Defender,CA Osasuna,535,265,270,8,4,4,1,1,0,0,0,9,6,3,0,0.17,0,0.17,0.34,0,535,67,0
+Unai López Cabrera,25,La Liga,Midfielder,Athletic Club Bilbao,1804,1175,629,26,16,10,1,0,1,4,0,17,9,8,6,0.25,0.2,0.05,0,0.14,1804,69,451
+Unai Núñez,23,La Liga,Defender,Athletic Club Bilbao,1568,534,1034,20,8,12,0,0,0,0,0,19,5,14,7,0,0,0,0,0,0,78,0
+Unai Simón Mendibil,23,La Liga,Goalkeeper,Athletic Club Bilbao,2992,1552,1440,34,18,16,0,0,0,0,0,28,11,17,3,0,0,0,0,0,0,88,0
+Unai Vencedor Paris,20,La Liga,Midfielder,Athletic Club Bilbao,74,74,0,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,74,0
+Vasyl Kravets,23,La Liga,Defender,Leganés,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vicente Esquerdo Santas,21,La Liga,Midfielder,Valencia CF,12,8,4,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+Vicente Iborra De La Fuente,32,La Liga,Midfielder,Villarreal,2663,1314,1349,34,17,17,1,0,1,2,0,38,19,19,11,0.1,0.07,0.03,0,0.07,2663,78,1332
+Víctor Camarasa,26,La Liga,Midfielder,Deportivo Alavés,1300,676,624,17,9,8,0,0,0,1,0,19,12,7,1,0.07,0.07,0,0,0,0,76,1300
+Víctor Campuzano Bonilla,23,La Liga,Forward,RCD Espanyol,866,383,483,20,9,11,0,0,0,0,0,19,11,8,2,0,0,0,0,0,0,43,0
+Víctor David Díaz Miguel,32,La Liga,Defender,Granada CF,2887,1520,1367,36,18,18,1,0,1,5,0,42,16,26,4,0.19,0.16,0.03,0,0.07,2887,80,577
+Víctor García Raja,0,La Liga,Midfielder,Real Valladolid,88,0,88,2,0,2,1,0,1,0,0,1,0,1,0,1.02,0,1.02,0,1.02,88,44,0
+Víctor Gómez Perea,20,La Liga,Defender,RCD Espanyol,1268,594,674,18,8,10,0,0,0,0,0,24,11,13,2,0,0,0,0,0,0,70,0
+Víctor Laguardia Cisneros,31,La Liga,Defender,Deportivo Alavés,2658,1396,1262,31,16,15,1,0,1,2,0,42,16,26,10,0.1,0.07,0.03,0,0.07,2658,86,1329
+Víctor Sánchez,33,La Liga,Midfielder,RCD Espanyol,1691,874,817,25,13,12,0,0,0,1,0,28,17,11,11,0.05,0.05,0,0,0,0,68,1691
+Vinícius José Paixão de Oliveira Júnior,20,La Liga,Forward,Real Madrid,1353,786,567,29,16,13,3,3,0,1,0,14,6,8,4,0.27,0.07,0.2,0.34,0,451,47,1353
+Vitolo,31,La Liga,Midfielder,Atlético Madrid,1218,617,601,28,16,12,3,2,1,2,0,10,3,7,3,0.37,0.15,0.22,0.29,0.15,406,44,609
+Vitorino Antunes,33,La Liga,Defender,Getafe CF,5,5,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+Waldo Rubio Martín,25,La Liga,Midfielder,Real Valladolid,872,285,587,21,8,13,0,0,0,2,0,13,0,13,6,0.21,0.21,0,0,0,0,42,436
+Wilfrid Jaures Kaptoum,24,La Liga,Midfielder,Real Betis,192,63,129,5,2,3,0,0,0,0,0,5,2,3,1,0,0,0,0,0,0,38,0
+William Silva de Carvalho,28,La Liga,Midfielder,Real Betis,894,464,430,13,8,5,0,0,0,0,0,22,10,12,7,0,0,0,0,0,0,69,0
+Willian José,28,La Liga,Forward,Real Sociedad,2016,993,1023,37,18,19,11,6,5,1,0,23,8,15,4,0.54,0.04,0.49,0.54,0.44,183,54,2016
+Xabier Etxeita Gorritxategi,33,La Liga,Defender,Getafe CF,1446,674,772,17,8,9,0,0,0,0,0,13,5,8,8,0,0,0,0,0,0,85,0
+Xavier Quintillà Guasch,24,La Liga,Defender,Villarreal,1573,827,746,19,10,9,0,0,0,2,0,21,9,12,6,0.11,0.11,0,0,0,0,83,787
+Ximo Navarro,30,La Liga,Defender,Deportivo Alavés,1904,941,963,23,11,12,0,0,0,0,0,30,10,20,8,0,0,0,0,0,0,83,0
+Yan Brice Eteki,23,La Liga,Midfielder,Granada CF,1502,659,843,28,14,14,0,0,0,0,0,22,6,16,4,0,0,0,0,0,0,54,0
+Yangel Clemente Herrera Ravelo,22,La Liga,Midfielder,Granada CF,2376,1368,1008,30,16,14,2,1,1,3,0,26,14,12,14,0.19,0.11,0.08,0.07,0.09,1188,79,792
+Yannick Carrasco,27,La Liga,Midfielder,Atlético Madrid,628,249,379,15,7,8,1,0,1,2,0,5,1,4,2,0.43,0.29,0.14,0,0.24,628,42,314
+Yannis Salibur,29,La Liga,Forward,RCD Mallorca,78,32,46,4,2,2,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,20,0
+Yassine Bounou,29,La Liga,Goalkeeper,Sevilla FC,494,270,224,6,3,3,0,0,0,1,0,3,2,1,1,0.18,0.18,0,0,0,0,82,494
+Yeray Álvarez López,25,La Liga,Defender,Athletic Club Bilbao,2811,1461,1350,32,17,15,0,0,0,0,0,25,10,15,2,0,0,0,0,0,0,88,0
+Yoel Rodríguez Oterino,32,La Liga,Goalkeeper,SD Eibar,270,180,90,3,2,1,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,90,0
+Youssef En-Nesyri,23,La Liga,Forward,Sevilla FC,2174,1099,1075,36,19,17,8,6,2,2,0,35,17,18,3,0.41,0.08,0.33,0.49,0.17,272,60,1087
+Yuri,30,La Liga,Defender,Athletic Club Bilbao,2852,1548,1304,33,18,15,2,1,1,1,0,26,10,16,7,0.09,0.03,0.06,0.06,0.07,1426,86,2852
+Zouhair Feddal,30,La Liga,Defender,Real Betis,1433,693,740,17,8,9,1,0,1,2,0,25,10,15,12,0.19,0.13,0.06,0,0.12,1433,84,717

@@ -1,0 +1,612 @@
+full_name,age,league,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,penalty_goals,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,goals_involved_per_90_overall,assists_per_90_overall,goals_per_90_overall,goals_per_90_home,goals_per_90_away,min_per_goal_overall,min_per_match,min_per_assist_overall
+Aaron Leya Iseka,22,Ligue 1,Forward,Toulouse,765,245,520,22,10,12,2,0,2,0,1,21,10,11,2,0.24,0,0.24,0,0.35,383,35,0
+Abdallah Ali Mohamed,21,Ligue 1,Forward,Olympique Marseille,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Abdallah N'Dour,26,Ligue 1,Defender,Strasbourg,373,174,199,6,2,4,0,0,0,0,0,4,2,2,2,0,0,0,0,0,0,62,0
+Abdou Diallo,24,Ligue 1,Defender,PSG,1203,434,769,16,7,9,0,0,0,1,0,8,1,7,4,0.07,0.07,0,0,0,0,75,1203
+Abdoulaye Bamba,30,Ligue 1,Defender,Angers SCO,553,373,180,7,5,2,0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,79,0
+Abdoulaye Jules Keita,22,Ligue 1,Midfielder,Dijon,156,134,22,3,2,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,52,0
+Abdoulaye Touré,26,Ligue 1,Midfielder,Nantes,2220,1167,1053,27,14,13,3,3,0,0,2,21,9,12,3,0.12,0,0.12,0.23,0,740,82,0
+Abdul Majeed Waris,29,Ligue 1,Forward,Strasbourg,371,243,128,7,3,4,2,1,1,1,0,3,1,2,1,0.73,0.24,0.49,0.37,0.7,186,53,371
+Adam Ounas,24,Ligue 1,Midfielder,Nice,1131,569,562,16,8,8,2,1,1,4,0,14,8,6,3,0.48,0.32,0.16,0.16,0.16,566,71,283
+Adama Traoré,25,Ligue 1,Midfielder,Metz,1034,632,402,17,11,6,1,1,0,4,0,12,5,7,1,0.44,0.35,0.09,0.14,0,1034,61,259
+Adil Aouchiche,18,Ligue 1,Midfielder,PSG,65,0,65,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0
+Adil Taoui,19,Ligue 1,Forward,Toulouse,23,11,12,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0
+Adrien Hunou,26,Ligue 1,Midfielder,Rennes,1209,634,575,23,12,11,8,5,3,1,1,11,5,6,2,0.67,0.07,0.6,0.71,0.47,151,53,1209
+Adrien Lebeau,21,Ligue 1,Defender,Strasbourg,11,11,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+Adrien Sebastian Perruchet Silva,31,Ligue 1,Midfielder,Monaco,1216,452,764,22,11,11,0,0,0,2,0,14,6,8,7,0.15,0.15,0,0,0,0,55,608
+Adrien Tameze,26,Ligue 1,Midfielder,Nice,519,162,357,8,3,5,1,0,1,0,0,10,3,7,2,0.17,0,0.17,0,0.25,519,65,0
+Adrien Thomasson,26,Ligue 1,Midfielder,Strasbourg,2082,963,1119,25,12,13,7,6,1,1,0,24,12,12,4,0.35,0.04,0.3,0.56,0.08,297,83,2082
+Agustín Maximiliano Rogel Paita,23,Ligue 1,Defender,Toulouse,858,420,438,10,5,5,0,0,0,0,0,19,7,12,0,0,0,0,0,0,0,86,0
+Ahmad Toure Ngouyamsa Nounchil,19,Ligue 1,Defender,Dijon,54,54,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,54,0
+Ahoueke Denkey,19,Ligue 1,Midfielder,Nîmes,596,239,357,17,8,9,3,1,2,1,0,8,1,7,1,0.6,0.15,0.45,0.38,0.5,199,35,596
+Alban Lafont,21,Ligue 1,Goalkeeper,Nantes,2430,1170,1260,27,13,14,0,0,0,0,0,25,8,17,3,0,0,0,0,0,0,90,0
+Albert Nicolas Lottin,19,Ligue 1,Midfielder,Bordeaux,46,0,46,1,0,1,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,46,0
+Aleksandr Golovin,24,Ligue 1,Midfielder,Monaco,2069,1006,1063,25,12,13,3,3,0,4,0,33,15,18,6,0.3,0.17,0.13,0.27,0,690,83,517
+Alexander Djiku,26,Ligue 1,Defender,Strasbourg,2063,1057,1006,25,13,12,1,1,0,1,0,23,14,9,6,0.09,0.04,0.04,0.09,0,2063,83,2063
+Alexandre Gameiro da Conceicao,21,Ligue 1,Forward,Nice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alexandre Mendy,26,Ligue 1,Forward,Brest,895,403,492,20,10,10,3,2,1,1,0,15,3,12,3,0.4,0.1,0.3,0.45,0.18,298,45,895
+Alexandre Olliero,24,Ligue 1,Goalkeeper,Nantes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alexandre Oukidja,32,Ligue 1,Goalkeeper,Metz,2385,1215,1170,27,14,13,0,0,0,0,0,29,15,14,3,0,0,0,0,0,0,88,0
+Alexandre Phliponeau,20,Ligue 1,Midfielder,Olympique Marseille,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alexis Blin,24,Ligue 1,Midfielder,Amiens SC,1845,991,854,24,12,12,0,0,0,1,0,31,16,15,4,0.05,0.05,0,0,0,0,77,1845
+Alexis Claude Maurice,22,Ligue 1,Forward,Nice,1633,856,777,22,12,10,1,1,0,1,0,23,11,12,2,0.11,0.06,0.06,0.11,0,1633,74,1633
+Alexis Trouillet,19,Ligue 1,Midfielder,Nice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alfred Gomis,27,Ligue 1,Goalkeeper,Dijon,1621,811,810,19,10,9,0,0,0,0,0,19,7,12,0,0,0,0,0,0,0,85,0
+Alphonse Areola,27,Ligue 1,Goalkeeper,PSG,270,180,90,3,2,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,90,0
+Álvaro,30,Ligue 1,Defender,Olympique Marseille,1629,792,837,20,10,10,0,0,0,0,0,13,6,7,5,0,0,0,0,0,0,81,0
+Amadou Dia Ndiaye,20,Ligue 1,Forward,Metz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ambroise Oyongo Bitolo,29,Ligue 1,Defender,Montpellier,1825,945,880,21,11,10,0,0,0,0,0,21,7,14,3,0,0,0,0,0,0,87,0
+Amine Adli,20,Ligue 1,Midfielder,Toulouse,42,0,42,4,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,11,0
+Amine Gouiri,20,Ligue 1,Forward,Olympique Lyonnais,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amir Adouyev,21,Ligue 1,Midfielder,Montpellier,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anastasios Donis,24,Ligue 1,Forward,Reims,606,340,266,15,9,6,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,40,0
+Ander Herrera,31,Ligue 1,Midfielder,PSG,547,278,269,8,4,4,1,0,1,1,0,5,1,4,0,0.33,0.16,0.16,0,0.33,547,68,547
+Andrei Girotto,28,Ligue 1,Midfielder,Nantes,2179,1134,1045,25,13,12,1,0,1,0,0,22,7,15,6,0.04,0,0.04,0,0.09,2179,87,0
+Andy Delort,29,Ligue 1,Forward,Montpellier,2286,1221,1065,26,14,12,9,5,4,3,0,31,9,22,5,0.47,0.12,0.35,0.37,0.34,254,88,762
+Andy Pelmard,20,Ligue 1,Defender,Nice,766,280,486,10,4,6,0,0,0,0,0,13,5,8,1,0,0,0,0,0,0,77,0
+Ángel Di María,32,Ligue 1,Midfielder,PSG,2005,964,1041,26,14,12,8,4,4,14,1,18,8,10,2,0.99,0.63,0.36,0.37,0.35,251,77,143
+Angelo Fulgini,24,Ligue 1,Midfielder,Angers SCO,1585,768,817,20,10,10,1,0,1,1,0,16,10,6,3,0.11,0.06,0.06,0,0.11,1585,79,1585
+Anthony Briançon,25,Ligue 1,Midfielder,Nîmes,1738,861,877,22,11,11,1,0,1,0,0,30,9,21,3,0.05,0,0.05,0,0.1,1738,79,0
+Anthony Caci,23,Ligue 1,Midfielder,Strasbourg,693,450,243,8,5,3,1,0,1,4,0,8,6,2,0,0.65,0.52,0.13,0,0.37,693,87,173
+Anthony Limbombe Ekango,26,Ligue 1,Forward,Nantes,151,61,90,4,2,2,1,0,1,0,0,1,0,1,0,0.6,0,0.6,0,1,151,38,0
+Anthony Lopes,30,Ligue 1,Goalkeeper,Olympique Lyonnais,2340,1080,1260,26,12,14,0,0,0,0,0,23,7,16,1,0,0,0,0,0,0,90,0
+Anthony Mandrea,23,Ligue 1,Goalkeeper,Angers SCO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anthony Racioppi,21,Ligue 1,Goalkeeper,Olympique Lyonnais,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anthony Walongwa,27,Ligue 1,Defender,Nantes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Antoine Valério,20,Ligue 1,Midfielder,Nîmes,84,81,3,5,4,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,17,0
+Antonin Bobichon,25,Ligue 1,Forward,Angers SCO,833,277,556,13,5,8,2,1,1,1,0,11,2,9,0,0.32,0.11,0.22,0.32,0.16,417,64,833
+Arber Zeneli,25,Ligue 1,Forward,Reims,5,0,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+Arnaud Kalimuendo Muinga,18,Ligue 1,Forward,PSG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arnaud Lusamba,23,Ligue 1,Midfielder,Nice,984,484,500,15,7,8,1,1,0,2,0,13,6,7,1,0.27,0.18,0.09,0.19,0,984,66,492
+Arnaud Nordin,22,Ligue 1,Midfielder,Saint-Étienne,905,494,411,18,10,8,1,0,1,0,0,14,8,6,2,0.1,0,0.1,0,0.22,905,50,0
+Arnaud Souquet,28,Ligue 1,Defender,Montpellier,2015,1018,997,24,12,12,2,2,0,0,0,24,8,16,6,0.09,0,0.09,0.18,0,1008,84,0
+Arthur Zagre,19,Ligue 1,Defender,Monaco,24,24,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Arturo Calabresi,24,Ligue 1,Defender,Amiens SC,1879,799,1080,21,9,12,1,0,1,1,0,37,13,24,5,0.1,0.05,0.05,0,0.08,1879,89,1879
+Assane Dioussé,23,Ligue 1,Midfielder,Saint-Étienne,117,108,9,4,3,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,29,0
+Aurélien Bayard Chedjou Fongang,35,Ligue 1,Defender,Amiens SC,1972,1072,900,22,12,10,0,0,0,0,0,35,20,15,4,0,0,0,0,0,0,90,0
+Aurélien Tchouaméni,20,Ligue 1,Midfielder,Monaco,1175,435,740,18,7,11,0,0,0,1,0,12,2,10,6,0.08,0.08,0,0,0,0,65,1175
+Axel Disasi,22,Ligue 1,Defender,Reims,2430,1170,1260,27,13,14,1,0,1,0,0,19,7,12,3,0.04,0,0.04,0,0.07,2430,90,0
+Azzedine Ounahi,20,Ligue 1,Defender,Strasbourg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bafodé Diakité,20,Ligue 1,Defender,Toulouse,1368,567,801,16,7,9,2,2,0,0,0,26,9,17,2,0.13,0,0.13,0.32,0,684,86,0
+Bakary Adama Soumaoro,28,Ligue 1,Defender,Lille,413,233,180,6,4,2,1,0,1,0,0,5,2,3,0,0.22,0,0.22,0,0.5,413,69,0
+Bakaye Dibassy,31,Ligue 1,Defender,Amiens SC,1870,931,939,22,11,11,2,1,1,0,0,34,13,21,6,0.1,0,0.1,0.1,0.1,935,85,0
+Balthazar Pierret,20,Ligue 1,Midfielder,Nice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Baptiste Reynet,30,Ligue 1,Goalkeeper,Toulouse,2034,990,1044,23,11,12,0,0,0,0,0,43,17,26,1,0,0,0,0,0,0,88,0
+Baptiste Santamaria,25,Ligue 1,Midfielder,Angers SCO,2506,1336,1170,28,15,13,1,1,0,1,0,31,13,18,1,0.07,0.04,0.04,0.07,0,2506,90,2506
+Bassem Srarfi,23,Ligue 1,Midfielder,Nice,132,35,97,3,1,2,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,44,0
+Bastian Badu,20,Ligue 1,Forward,Montpellier,8,8,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+Batista Mendy,20,Ligue 1,Defender,Nantes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ben Qadir Abou Ouattara,20,Ligue 1,Forward,Lille,8,8,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,8,0
+Benjamin André,30,Ligue 1,Midfielder,Lille,2055,1076,979,26,14,12,2,1,1,1,0,20,7,13,7,0.13,0.04,0.09,0.08,0.09,1028,79,2055
+Benjamin Bourigeaud,26,Ligue 1,Midfielder,Rennes,1904,1080,824,25,14,11,2,1,1,2,0,17,11,6,5,0.19,0.09,0.09,0.08,0.11,952,76,952
+Benjamin Corgnet,33,Ligue 1,Midfielder,Strasbourg,260,98,162,6,3,3,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,43,0
+Benjamin Henrichs,23,Ligue 1,Defender,Monaco,889,439,450,13,8,5,0,0,0,0,0,18,8,10,3,0,0,0,0,0,0,68,0
+Benjamin Jeannot,28,Ligue 1,Forward,Dijon,168,78,90,2,1,1,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,84,0
+Benjamin Lecomte,29,Ligue 1,Goalkeeper,Monaco,2520,1260,1260,28,14,14,0,0,0,0,0,42,21,21,1,0,0,0,0,0,0,90,0
+Benoît Badiashile Mukinayi,19,Ligue 1,Defender,Monaco,1413,540,873,16,6,10,0,0,0,0,0,23,7,16,0,0,0,0,0,0,0,88,0
+Benoît Costil,33,Ligue 1,Goalkeeper,Bordeaux,2520,1170,1350,28,13,15,0,0,0,0,0,30,11,19,1,0,0,0,0,0,0,90,0
+Bertrand Traoré,25,Ligue 1,Forward,Olympique Lyonnais,1254,541,713,23,11,12,1,1,0,3,0,10,2,8,6,0.29,0.22,0.07,0.17,0,1254,55,418
+Bilal Benkhedim,19,Ligue 1,Midfielder,Saint-Étienne,130,30,100,3,1,2,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,43,0
+Bilal Boutobba,22,Ligue 1,Midfielder,Montpellier,4,0,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+Bingourou Kamara,24,Ligue 1,Goalkeeper,Strasbourg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bongani Zungu,28,Ligue 1,Midfielder,Amiens SC,985,343,642,21,10,11,1,1,0,0,0,27,9,18,4,0.09,0,0.09,0.26,0,985,47,0
+Boubacar Kamara,20,Ligue 1,Defender,Olympique Marseille,2141,1061,1080,24,12,12,1,1,0,2,0,20,9,11,8,0.13,0.08,0.04,0.08,0,2141,89,1071
+Boubacar Traore,19,Ligue 1,Midfielder,Metz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boubakary Soumaré,21,Ligue 1,Midfielder,Lille,1216,527,689,20,10,10,0,0,0,0,0,17,5,12,3,0,0,0,0,0,0,61,0
+Boulaye Dia,23,Ligue 1,Midfielder,Reims,1818,822,996,24,10,14,7,2,5,1,1,15,5,10,0,0.4,0.05,0.35,0.22,0.45,260,76,1818
+Bouna Sarr,28,Ligue 1,Forward,Olympique Marseille,2170,967,1203,27,13,14,1,1,0,3,0,19,6,13,3,0.17,0.12,0.04,0.09,0,2170,80,723
+Brendan Chardonnet,25,Ligue 1,Defender,Brest,821,303,518,12,6,6,0,0,0,0,0,12,3,9,4,0,0,0,0,0,0,68,0
+Bridge Ndilu,20,Ligue 1,Forward,Nantes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bruno Écuélé Manga,32,Ligue 1,Defender,Dijon,2520,1260,1260,28,14,14,0,0,0,0,0,34,13,21,2,0,0,0,0,0,0,90,0
+Bruno Guimarães Rodriguez Moura,22,Ligue 1,Midfielder,Olympique Lyonnais,270,90,180,3,1,2,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,90,0
+Bryan Soumaré,21,Ligue 1,Midfielder,Dijon,379,133,246,12,4,8,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,32,0
+Casimir Ninga,27,Ligue 1,Forward,Angers SCO,677,287,390,16,9,7,3,3,0,1,0,8,3,5,3,0.53,0.13,0.4,0.94,0,226,42,677
+Cesc Fabregas,33,Ligue 1,Midfielder,Monaco,934,661,273,18,9,9,0,0,0,3,0,21,14,7,2,0.29,0.29,0,0,0,0,52,311
+Chadrac Akolo,25,Ligue 1,Forward,Amiens SC,540,256,284,15,5,10,2,0,2,1,0,15,4,11,1,0.5,0.17,0.33,0,0.63,270,36,540
+Charels Nathan Abi,20,Ligue 1,Forward,Saint-Étienne,618,352,266,15,7,8,0,0,0,0,0,13,6,7,2,0,0,0,0,0,0,41,0
+Charles Traoré,28,Ligue 1,Defender,Nantes,1742,963,779,20,11,9,0,0,0,1,0,18,9,9,3,0.05,0.05,0,0,0,0,87,1742
+Cheick Timite,22,Ligue 1,Midfielder,Amiens SC,116,34,82,3,1,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,39,0
+Cheikh Ahmet Tidian Niasse,20,Ligue 1,Forward,Lille,14,14,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0
+Choupo-Moting,31,Ligue 1,Forward,PSG,451,199,252,9,4,5,3,2,1,1,0,1,1,0,0,0.8,0.2,0.6,0.9,0.36,150,50,451
+Christophe Jallet,37,Ligue 1,Defender,Amiens SC,855,632,223,12,8,4,1,1,0,1,0,14,11,3,0,0.21,0.11,0.11,0.14,0,855,71,855
+Christopher Hérelle,28,Ligue 1,Defender,Nice,1106,700,406,15,10,5,3,2,1,0,0,14,9,5,4,0.24,0,0.24,0.26,0.22,369,74,0
+Ciprian Tătărușanu,34,Ligue 1,Goalkeeper,Olympique Lyonnais,180,90,90,2,1,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,90,0
+Clément Grenier,29,Ligue 1,Midfielder,Rennes,842,224,618,11,3,8,1,0,1,0,0,8,3,5,2,0.11,0,0.11,0,0.15,842,77,0
+Clément Vidal,20,Ligue 1,Defender,Montpellier,90,0,90,1,0,1,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,90,0
+Colin Dagba,22,Ligue 1,Defender,PSG,666,266,400,10,4,6,0,0,0,0,0,4,0,4,1,0,0,0,0,0,0,67,0
+Corentin Jean,25,Ligue 1,Forward,Toulouse,6,6,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+Cristian Battocchio,28,Ligue 1,Midfielder,Brest,1391,634,757,24,12,12,3,3,0,1,0,21,6,15,1,0.26,0.06,0.19,0.43,0,464,58,1391
+Cristian Benavente Bristol,26,Ligue 1,Midfielder,Nantes,345,179,166,12,8,4,0,0,0,1,0,4,3,1,0,0.26,0.26,0,0,0,0,29,345
+Damien Da Silva,32,Ligue 1,Defender,Rennes,2245,1080,1165,25,12,13,1,1,0,2,0,18,10,8,3,0.12,0.08,0.04,0.08,0,2245,90,1123
+Damien Le Tallec,30,Ligue 1,Midfielder,Montpellier,2462,1205,1257,28,14,14,2,2,0,0,0,33,9,24,3,0.07,0,0.07,0.15,0,1231,88,0
+Daniel Congré,35,Ligue 1,Defender,Montpellier,1943,997,946,24,13,11,0,0,0,1,0,26,9,17,4,0.05,0.05,0,0,0,0,81,1943
+Danijel Petković,27,Ligue 1,Goalkeeper,Angers SCO,180,0,180,2,0,2,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,90,0
+Danijel Subašić,36,Ligue 1,Goalkeeper,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Danilo Barbosa da Silva,24,Ligue 1,Midfielder,Nice,1119,710,409,16,10,6,0,0,0,0,0,14,10,4,4,0,0,0,0,0,0,70,0
+Dante,37,Ligue 1,Defender,Nice,1890,1170,720,21,13,8,1,1,0,0,0,24,16,8,7,0.05,0,0.05,0.08,0,1890,90,0
+Darío Ismael Benedetto,30,Ligue 1,Forward,Olympique Marseille,2115,952,1163,26,12,14,11,2,9,0,0,20,7,13,4,0.47,0,0.47,0.19,0.7,192,81,0
+Dario Maresic,21,Ligue 1,Defender,Reims,90,90,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0
+Davy Rouyard,21,Ligue 1,Goalkeeper,Bordeaux,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Denis Bouanga,26,Ligue 1,Midfielder,Saint-Étienne,2046,1004,1042,26,13,13,10,6,4,3,3,31,12,19,4,0.57,0.13,0.44,0.54,0.35,205,79,682
+Denis Petrić,32,Ligue 1,Goalkeeper,Nantes,90,90,0,1,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,90,0
+Dennis Appiah,28,Ligue 1,Defender,Nantes,1606,772,834,19,9,10,0,0,0,0,0,15,5,10,2,0,0,0,0,0,0,85,0
+Denys Bain,27,Ligue 1,Defender,Brest,1267,744,523,15,9,6,1,1,0,0,0,14,6,8,4,0.07,0,0.07,0.12,0,1267,84,0
+Derek Kutesa,22,Ligue 1,Midfielder,Reims,521,295,226,14,8,6,1,0,1,0,0,5,2,3,0,0.17,0,0.17,0,0.4,521,37,0
+Diafra Sakho,30,Ligue 1,Forward,Rennes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Didier Ndong Ibrahim,26,Ligue 1,Midfielder,Dijon,2389,1170,1219,27,13,14,0,0,0,3,0,32,11,21,5,0.11,0.11,0,0,0,0,88,796
+Diego Benaglio,37,Ligue 1,Goalkeeper,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Digbo G'nampa Habib Maïga,24,Ligue 1,Midfielder,Metz,2271,1138,1133,26,13,13,1,0,1,2,0,29,14,15,7,0.12,0.08,0.04,0,0.08,2271,87,1136
+Dimitri Liénard,32,Ligue 1,Midfielder,Strasbourg,1488,911,577,22,12,10,2,2,0,3,0,21,10,11,3,0.3,0.18,0.12,0.2,0,744,68,496
+Dimitri Payet,33,Ligue 1,Midfielder,Olympique Marseille,1937,960,977,22,11,11,9,5,4,4,3,17,7,10,6,0.6,0.19,0.42,0.47,0.37,215,88,484
+Dimitry Bertaud,22,Ligue 1,Goalkeeper,Montpellier,197,90,107,3,1,2,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,66,0
+Domagoj Bradarić,20,Ligue 1,Defender,Lille,1419,800,619,18,10,8,0,0,0,1,0,13,4,9,1,0.06,0.06,0,0,0,0,79,1419
+Donovan Léon,28,Ligue 1,Goalkeeper,Brest,122,90,32,2,1,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,61,0
+Duje Ćaleta-Car,24,Ligue 1,Defender,Olympique Marseille,1883,1072,811,23,12,11,1,1,0,1,0,17,9,8,6,0.1,0.05,0.05,0.08,0,1883,82,1883
+Dylan Bronn,25,Ligue 1,Defender,Metz,810,450,360,9,5,4,0,0,0,0,0,6,5,1,1,0,0,0,0,0,0,90,0
+Eddy Gnahoré,26,Ligue 1,Midfielder,Amiens SC,1136,517,619,17,8,9,0,0,0,0,0,21,10,11,4,0,0,0,0,0,0,67,0
+Eddy Sylvestre,21,Ligue 1,Midfielder,Nice,36,36,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,36,0
+Edinson Cavani,33,Ligue 1,Forward,PSG,602,324,278,14,10,4,4,3,1,1,1,8,2,6,2,0.75,0.15,0.6,0.83,0.32,151,43,602
+Edmilson Indjai Correia,0,Ligue 1,Midfielder,Saint-Étienne,45,25,20,4,3,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,11,0
+Edouard Mendy,28,Ligue 1,Goalkeeper,Rennes,2160,1080,1080,24,12,12,0,0,0,0,0,17,10,7,1,0,0,0,0,0,0,90,0
+Edson André Sitoe,32,Ligue 1,Defender,Bordeaux,1488,554,934,19,8,11,0,0,0,2,0,16,5,11,5,0.12,0.12,0,0,0,0,78,744
+Eduardo Camavinga,18,Ligue 1,Midfielder,Rennes,2112,1041,1071,25,13,12,1,0,1,2,0,18,12,6,4,0.13,0.09,0.04,0,0.08,2112,84,1056
+Efthymios Koulouris,24,Ligue 1,Forward,Toulouse,1543,759,784,24,11,13,4,2,2,2,0,26,8,18,1,0.35,0.12,0.23,0.24,0.23,386,64,772
+Eiji Kawashima,37,Ligue 1,Goalkeeper,Strasbourg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+El Bilal Toure,19,Ligue 1,Forward,Reims,457,195,262,7,3,4,3,2,1,0,2,3,0,3,2,0.59,0,0.59,0.92,0.34,152,65,0
+Elias Damergy,18,Ligue 1,Goalkeeper,Rennes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elie Youan,21,Ligue 1,Forward,Nantes,162,16,146,5,2,3,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,32,0
+Enock Kwateng,23,Ligue 1,Defender,Bordeaux,987,536,451,14,7,7,0,0,0,1,0,11,5,6,4,0.09,0.09,0,0,0,0,71,987
+Enzo Loiodice,19,Ligue 1,Midfielder,Dijon,190,91,99,5,3,2,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,38,0
+Eui-Jo Hwang,28,Ligue 1,Forward,Bordeaux,1638,811,827,24,12,12,6,2,4,2,0,23,8,15,2,0.44,0.11,0.33,0.22,0.44,273,68,819
+Evann Guessand,19,Ligue 1,Forward,Nice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ewan Hatfout,0,Ligue 1,Goalkeeper,Dijon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fabien Centonze,24,Ligue 1,Defender,Metz,2520,1260,1260,28,14,14,0,0,0,3,0,33,15,18,3,0.11,0.11,0,0,0,0,90,840
+Fábio Pereira da Silva,30,Ligue 1,Defender,Nantes,835,475,360,10,6,4,0,0,0,0,0,6,1,5,4,0,0,0,0,0,0,84,0
+Facundo Píriz,30,Ligue 1,Midfielder,Montpellier,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Faitout Maouassa,22,Ligue 1,Midfielder,Rennes,1813,907,906,23,11,12,3,1,2,1,0,13,9,4,3,0.2,0.05,0.15,0.1,0.2,604,79,1813
+Farid Boulaya,27,Ligue 1,Midfielder,Metz,824,394,430,19,9,10,2,0,2,1,0,11,6,5,2,0.33,0.11,0.22,0,0.42,412,43,824
+Farid El Melali,23,Ligue 1,Forward,Angers SCO,306,269,37,8,6,2,3,2,1,0,0,1,1,0,0,0.88,0,0.88,0.67,2.43,102,38,0
+Fernando Marçal,31,Ligue 1,Defender,Olympique Lyonnais,832,484,348,11,6,5,0,0,0,1,0,6,2,4,3,0.11,0.11,0,0,0,0,76,832
+Ferris N'Goma,27,Ligue 1,Forward,Brest,21,17,4,4,3,1,1,1,0,0,1,1,1,0,1,4.29,0,4.29,5.29,0,21,5,0
+Flavien Tait,27,Ligue 1,Midfielder,Rennes,881,400,481,17,8,9,2,1,1,2,0,8,3,5,1,0.41,0.2,0.2,0.23,0.19,441,52,441
+Florent Balmont,40,Ligue 1,Midfielder,Dijon,396,154,242,11,7,4,0,0,0,0,0,3,0,3,1,0,0,0,0,0,0,36,0
+Florent Mollet,28,Ligue 1,Midfielder,Montpellier,1687,850,837,25,12,13,6,5,1,3,0,25,7,18,5,0.48,0.16,0.32,0.53,0.11,281,67,562
+Florentin Bloch,20,Ligue 1,Goalkeeper,Toulouse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Florian Chabrolle,22,Ligue 1,Midfielder,Olympique Marseille,17,17,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0
+Florian Miguel,24,Ligue 1,Defender,Nîmes,2060,1067,993,24,12,12,1,1,0,0,0,34,11,23,8,0.04,0,0.04,0.08,0,2060,86,0
+Florian Thauvin,27,Ligue 1,Midfielder,Olympique Marseille,20,20,0,2,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,10,0
+Fodé Ballo Touré,23,Ligue 1,Midfielder,Monaco,1676,854,822,21,11,10,0,0,0,0,0,36,18,18,4,0,0,0,0,0,0,80,0
+Fouad Chafik,34,Ligue 1,Defender,Dijon,1530,829,701,20,11,9,0,0,0,2,0,20,9,11,1,0.12,0.12,0,0,0,0,77,765
+Fousseni Diabaté,25,Ligue 1,Midfielder,Amiens SC,1199,583,616,20,10,10,1,1,0,3,0,26,12,14,3,0.3,0.23,0.08,0.15,0,1199,60,400
+Franck Honorat,24,Ligue 1,Forward,Saint-Étienne,849,417,432,12,6,6,0,0,0,3,0,13,5,8,1,0.32,0.32,0,0,0,0,71,283
+François Kamano,24,Ligue 1,Forward,Bordeaux,647,301,346,11,5,6,1,1,0,0,0,6,1,5,1,0.14,0,0.14,0.3,0,647,59,0
+Frédéric Sammaritano,34,Ligue 1,Midfielder,Dijon,520,350,170,10,6,4,1,1,0,2,0,9,5,4,0,0.52,0.35,0.17,0.26,0,520,52,260
+Gabriel Boschilia,24,Ligue 1,Midfielder,Monaco,127,46,81,5,3,2,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,25,0
+Gabriel dos Santos Magalhães,22,Ligue 1,Defender,Lille,2087,1066,1021,24,12,12,1,0,1,0,0,19,4,15,3,0.04,0,0.04,0,0.09,2087,87,0
+Gabriel Silva,29,Ligue 1,Defender,Saint-Étienne,231,141,90,4,3,1,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,58,0
+Gaël Kakuta,29,Ligue 1,Forward,Amiens SC,2010,979,1031,24,12,12,2,1,1,5,0,35,15,20,4,0.31,0.22,0.09,0.09,0.09,1005,84,402
+Gaëtan Belaud,34,Ligue 1,Defender,Brest,580,224,356,7,3,4,0,0,0,0,0,7,3,4,0,0,0,0,0,0,0,83,0
+Gaëtan Charbonnier,31,Ligue 1,Forward,Brest,2068,1139,929,26,14,12,4,2,2,5,0,27,10,17,5,0.39,0.22,0.17,0.16,0.19,517,80,414
+Gaëtan Laborde,26,Ligue 1,Forward,Montpellier,2250,1210,1040,28,14,14,6,5,1,5,0,26,9,17,1,0.44,0.2,0.24,0.37,0.09,375,80,450
+Gaëtan Paquiez,26,Ligue 1,Midfielder,Nîmes,1531,508,1023,21,8,13,0,0,0,0,0,27,5,22,6,0,0,0,0,0,0,73,0
+Gaëtan Poussin,21,Ligue 1,Goalkeeper,Bordeaux,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Garissone Innocent,20,Ligue 1,Goalkeeper,PSG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gautier Larsonneur,23,Ligue 1,Goalkeeper,Brest,2398,1170,1228,27,13,14,0,0,0,0,0,33,11,22,2,0,0,0,0,0,0,89,0
+Gautier Lloris,25,Ligue 1,Defender,Nice,270,0,270,3,0,3,0,0,0,0,0,7,0,7,1,0,0,0,0,0,0,90,0
+Gelson Dany Batalha Martins,25,Ligue 1,Forward,Monaco,1682,883,799,21,10,11,4,2,2,1,0,32,18,14,4,0.27,0.05,0.21,0.2,0.23,421,80,1682
+Gen Shōji,27,Ligue 1,Defender,Toulouse,46,46,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0
+Georges Mikautadze,20,Ligue 1,Forward,Metz,7,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+Gerónimo Rulli,28,Ligue 1,Goalkeeper,Montpellier,2250,1170,1080,25,13,12,0,0,0,0,0,27,9,18,0,0,0,0,0,0,0,90,0
+Gerzino Nyamsi,23,Ligue 1,Defender,Rennes,113,44,69,4,1,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,28,0
+Ghislain Konan,24,Ligue 1,Defender,Reims,1333,608,725,16,7,9,0,0,0,1,0,10,3,7,2,0.07,0.07,0,0,0,0,83,1333
+Gil Dias,24,Ligue 1,Forward,Monaco,1057,497,560,14,7,7,0,0,0,0,0,11,6,5,3,0,0,0,0,0,0,76,0
+Glody Ngonda Muzinga,25,Ligue 1,Defender,Dijon,540,180,360,6,2,4,0,0,0,0,0,9,3,6,1,0,0,0,0,0,0,90,0
+Gnaly Maxwell Cornet,24,Ligue 1,Forward,Olympique Lyonnais,1327,558,769,22,10,12,4,1,3,3,0,15,5,10,1,0.47,0.2,0.27,0.16,0.35,332,60,442
+Guillaume Dietsch,19,Ligue 1,Goalkeeper,Metz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guillermo Maripán,26,Ligue 1,Defender,Monaco,1755,810,945,20,9,11,2,1,1,0,0,29,12,17,2,0.1,0,0.1,0.11,0.1,878,88,0
+Habibou Mouhamadou Diallo,25,Ligue 1,Forward,Metz,2200,1070,1130,26,13,13,12,7,5,3,1,29,13,16,3,0.61,0.12,0.49,0.59,0.4,183,85,733
+Haitam Aleesami,29,Ligue 1,Defender,Amiens SC,1916,810,1106,22,9,13,1,1,0,1,0,41,17,24,4,0.09,0.05,0.05,0.11,0,1916,87,1916
+Hamari Traoré,28,Ligue 1,Defender,Rennes,2413,1260,1153,27,14,13,0,0,0,5,0,20,12,8,7,0.19,0.19,0,0,0,0,89,483
+Hamza Mendyl,23,Ligue 1,Defender,Dijon,1442,888,554,18,11,7,1,1,0,0,0,18,7,11,8,0.06,0,0.06,0.1,0,1442,80,0
+Haris Belkebla,26,Ligue 1,Midfielder,Brest,1815,907,908,23,11,12,0,0,0,0,0,21,9,12,4,0,0,0,0,0,0,79,0
+Haris Duljević,26,Ligue 1,Midfielder,Nîmes,515,268,247,14,7,7,0,0,0,3,0,11,2,9,0,0.52,0.52,0,0,0,0,37,172
+Harold Moukoudi,22,Ligue 1,Defender,Saint-Étienne,990,360,630,11,4,7,0,0,0,0,0,17,5,12,3,0,0,0,0,0,0,90,0
+Hassane Kamara,26,Ligue 1,Midfielder,Reims,1706,765,941,23,10,13,2,0,2,0,0,13,4,9,5,0.11,0,0.11,0,0.19,853,74,0
+Henry Chukwuemeka Onyekuru,23,Ligue 1,Forward,Monaco,160,74,86,4,1,3,0,0,0,1,0,4,1,3,0,0.56,0.56,0,0,0,0,40,160
+Hiang'a Mananga Mbock,20,Ligue 1,Midfielder,Brest,140,90,50,2,1,1,1,0,1,0,0,1,1,0,0,0.64,0,0.64,0,1.8,140,70,0
+Hichem Boudaoui,21,Ligue 1,Midfielder,Nice,492,254,238,9,5,4,1,1,0,2,0,9,3,6,3,0.55,0.37,0.18,0.35,0,492,55,246
+Hiroki Sakai,30,Ligue 1,Defender,Olympique Marseille,1622,827,795,21,11,10,0,0,0,0,0,15,6,9,3,0,0,0,0,0,0,77,0
+Houssem Aouar,22,Ligue 1,Midfielder,Olympique Lyonnais,1963,970,993,25,12,13,3,1,2,4,0,21,6,15,3,0.32,0.18,0.14,0.09,0.18,654,79,491
+Hugo Magnetti,22,Ligue 1,Midfielder,Brest,231,96,135,8,3,5,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,29,0
+Hyun-Jun Suk,29,Ligue 1,Forward,Reims,251,85,166,13,6,7,1,0,1,1,0,2,0,2,3,0.72,0.36,0.36,0,0.54,251,19,251
+Ibrahim Cissé,24,Ligue 1,Defender,Angers SCO,61,61,0,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,61,0
+Ibrahim Cissé,21,Ligue 1,Defender,Nice,48,34,14,2,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,24,0
+Ibrahim Sangaré,22,Ligue 1,Midfielder,Toulouse,2177,990,1187,25,11,14,0,0,0,1,0,48,18,30,8,0.04,0.04,0,0,0,0,87,2177
+Ibrahima Diallo,21,Ligue 1,Midfielder,Brest,1563,816,747,19,10,9,0,0,0,1,0,24,6,18,2,0.06,0.06,0,0,0,0,82,1563
+Ibrahima Niane,21,Ligue 1,Forward,Metz,946,451,495,21,10,11,3,2,1,0,1,9,4,5,0,0.29,0,0.29,0.4,0.18,315,45,0
+Ibrahima Sissoko,23,Ligue 1,Midfielder,Strasbourg,1597,636,961,23,10,13,0,0,0,1,0,17,7,10,5,0.06,0.06,0,0,0,0,69,1597
+Idrissa Gana Gueye,31,Ligue 1,Midfielder,PSG,1655,883,772,20,10,10,1,1,0,2,0,15,8,7,2,0.16,0.11,0.05,0.1,0,1655,83,828
+Ignatius Kpene Ganago,21,Ligue 1,Forward,Nice,1233,609,624,26,13,13,3,2,1,1,0,18,9,9,0,0.29,0.07,0.22,0.3,0.14,411,47,1233
+Ihsan Sacko,23,Ligue 1,Midfielder,Nice,145,92,53,3,2,1,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,48,0
+Il-Lok Yun,28,Ligue 1,Forward,Montpellier,118,11,107,5,2,3,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,24,0
+Imran Louza,21,Ligue 1,Midfielder,Nantes,2012,1005,1007,24,12,12,2,1,1,2,0,22,9,13,4,0.18,0.09,0.09,0.09,0.09,1006,84,1006
+Irvin Cardona,23,Ligue 1,Forward,Brest,1449,703,746,21,10,11,6,3,3,3,0,21,7,14,3,0.56,0.19,0.37,0.38,0.36,242,69,483
+Isaac Lihadji,18,Ligue 1,Forward,Olympique Marseille,23,0,23,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0
+Isaac Mbenza,24,Ligue 1,Forward,Amiens SC,83,21,62,3,2,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,28,0
+Islam Slimani,32,Ligue 1,Forward,Monaco,1285,707,578,18,9,9,9,4,5,7,1,18,11,7,6,1.12,0.49,0.63,0.51,0.78,143,71,184
+Ismael Aaneba,21,Ligue 1,Defender,Strasbourg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ismaël Traoré,34,Ligue 1,Defender,Angers SCO,2053,1153,900,23,13,10,0,0,0,0,0,21,11,10,4,0,0,0,0,0,0,89,0
+Issiaga Sylla,26,Ligue 1,Defender,Toulouse,2520,1170,1350,28,13,15,0,0,0,2,0,52,20,32,2,0.07,0.07,0,0,0,0,90,1260
+Ivann Botella,21,Ligue 1,Forward,Strasbourg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jack Lahne,19,Ligue 1,Forward,Amiens SC,8,0,8,1,0,1,1,0,1,0,0,0,0,0,0,11.25,0,11.25,0,11.25,8,8,0
+Jacques-Alaixys Romao,36,Ligue 1,Midfielder,Reims,1785,893,892,22,11,11,0,0,0,0,0,13,4,9,11,0,0,0,0,0,0,81,0
+Jakob Johansson,30,Ligue 1,Midfielder,Rennes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+James Edward Lea Siliki,24,Ligue 1,Midfielder,Rennes,1078,551,527,20,12,8,0,0,0,0,0,5,2,3,4,0,0,0,0,0,0,54,0
+Janis Antiste,18,Ligue 1,Forward,Toulouse,11,11,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0
+Jason Denayer,25,Ligue 1,Defender,Olympique Lyonnais,2132,1074,1058,25,12,13,0,0,0,1,0,22,6,16,0,0.04,0.04,0,0,0,0,85,2132
+Jason Mbock,21,Ligue 1,Forward,Angers SCO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jean Emile Junior Onana Onana,20,Ligue 1,Defender,Lille,80,80,0,1,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,80,0
+Jean Eudès Aholou,26,Ligue 1,Midfielder,Saint-Étienne,633,313,320,11,6,5,1,0,1,1,0,9,3,6,4,0.28,0.14,0.14,0,0.28,633,58,633
+Jean Lucas de Souza Oliveira,22,Ligue 1,Midfielder,Olympique Lyonnais,191,95,96,11,5,6,1,1,0,0,0,0,0,0,3,0.47,0,0.47,0.95,0,191,17,0
+Jean Marcelin,20,Ligue 1,Defender,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jean-Charles Castelletto,25,Ligue 1,Defender,Brest,1841,924,917,22,11,11,1,1,0,0,0,29,8,21,4,0.05,0,0.05,0.1,0,1841,84,0
+Jean-Kévin Augustin,23,Ligue 1,Forward,Monaco,260,138,122,10,6,4,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,26,0
+Jean-Kevin Duverne,23,Ligue 1,Defender,Brest,1177,540,637,14,6,8,0,0,0,0,0,18,5,13,0,0,0,0,0,0,0,84,0
+Jean-Victor Makengo,22,Ligue 1,Midfielder,Toulouse,988,266,722,19,8,11,2,2,0,0,0,19,4,15,1,0.18,0,0.18,0.68,0,494,52,0
+Jeanricner Bellegarde,22,Ligue 1,Midfielder,Strasbourg,1499,608,891,24,11,13,0,0,0,0,0,17,6,11,2,0,0,0,0,0,0,62,0
+Jeff Reine-Adelaide,22,Ligue 1,Midfielder,Olympique Lyonnais,869,550,319,15,9,6,3,2,1,2,0,10,3,7,3,0.52,0.21,0.31,0.33,0.28,290,58,435
+Jemerson,28,Ligue 1,Defender,Monaco,1060,552,508,13,7,6,0,0,0,0,0,15,8,7,3,0,0,0,0,0,0,82,0
+Jérémy Gelin,23,Ligue 1,Defender,Rennes,922,430,492,14,7,7,0,0,0,0,0,8,6,2,1,0,0,0,0,0,0,66,0
+Jeremy Grimm,33,Ligue 1,Midfielder,Strasbourg,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jérémy Morel,36,Ligue 1,Defender,Rennes,1806,906,900,21,11,10,1,0,1,0,0,15,8,7,2,0.05,0,0.05,0,0.1,1806,86,0
+Jérémy Pied,31,Ligue 1,Defender,Lille,450,180,270,5,2,3,0,0,0,0,0,5,1,4,2,0,0,0,0,0,0,90,0
+Jesé,27,Ligue 1,Forward,PSG,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jessy Moulin,34,Ligue 1,Goalkeeper,Saint-Étienne,450,270,180,5,3,2,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,90,0
+Jhonder Leonel Cádiz Fernández,25,Ligue 1,Forward,Dijon,791,344,447,17,8,9,2,1,1,2,0,12,5,7,3,0.46,0.23,0.23,0.26,0.2,396,47,396
+Jimmy Briand,35,Ligue 1,Forward,Bordeaux,1527,687,840,22,10,12,7,4,3,1,1,16,6,10,1,0.47,0.06,0.41,0.52,0.32,218,69,1527
+Joachim Andersen,24,Ligue 1,Defender,Olympique Lyonnais,1530,630,900,18,7,11,1,0,1,0,0,15,5,10,3,0.06,0,0.06,0,0.1,1530,85,0
+John Boye,33,Ligue 1,Defender,Metz,2116,1126,990,24,13,11,2,2,0,0,0,26,13,13,6,0.09,0,0.09,0.16,0,1058,88,0
+John Stiven Mendoza Valencia,28,Ligue 1,Forward,Amiens SC,1102,567,535,15,8,7,5,2,3,0,0,26,12,14,2,0.41,0,0.41,0.32,0.5,220,73,0
+Johnathan Panzo,20,Ligue 1,Defender,Monaco,106,106,0,2,2,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,53,0
+Jonas Martin,30,Ligue 1,Midfielder,Rennes,359,171,188,6,3,3,0,0,0,0,0,4,3,1,1,0,0,0,0,0,0,60,0
+Jonathan Bamba,24,Ligue 1,Forward,Lille,1942,1044,898,26,14,12,1,1,0,4,1,18,6,12,1,0.23,0.19,0.05,0.09,0,1942,75,486
+Jonathan Bumbu,21,Ligue 1,Midfielder,Amiens SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jonathan Cafu,29,Ligue 1,Midfielder,Bordeaux,201,180,21,3,2,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,67,0
+Jordan Amavi,26,Ligue 1,Defender,Olympique Marseille,2163,1129,1034,26,14,12,1,1,0,1,0,17,10,7,9,0.08,0.04,0.04,0.08,0,2163,83,2163
+Jordan Ferri,28,Ligue 1,Midfielder,Montpellier,1153,574,579,16,7,9,0,0,0,0,0,17,4,13,2,0,0,0,0,0,0,72,0
+Jordan Lefort,27,Ligue 1,Defender,Amiens SC,840,326,514,10,4,6,0,0,0,1,0,22,7,15,2,0.11,0.11,0,0,0,0,84,840
+Jordan Marié,29,Ligue 1,Midfielder,Dijon,195,81,114,8,4,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,24,0
+Jorge,24,Ligue 1,Defender,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joris Chotard,19,Ligue 1,Midfielder,Montpellier,1252,665,587,20,11,9,0,0,0,0,0,17,8,9,5,0,0,0,0,0,0,63,0
+Joris Gnagnon,23,Ligue 1,Defender,Rennes,1274,542,732,19,8,11,0,0,0,1,0,14,6,8,2,0.07,0.07,0,0,0,0,67,1274
+Joris Kayembe Ditu,26,Ligue 1,Midfielder,Nantes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jose Fonte,36,Ligue 1,Defender,Lille,2206,1216,990,25,14,11,1,0,1,1,0,22,9,13,4,0.08,0.04,0.04,0,0.09,2206,88,2206
+Josh Maja,21,Ligue 1,Forward,Bordeaux,722,363,359,21,10,11,6,4,2,2,0,5,2,3,0,1,0.25,0.75,0.99,0.5,120,34,361
+Josué Homawoo,23,Ligue 1,Defender,Nantes,44,0,44,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0
+Juan Bernat,27,Ligue 1,Defender,PSG,1390,888,502,18,10,8,0,0,0,4,0,13,8,5,5,0.26,0.26,0,0,0,0,77,348
+Juan Ferney Otero Tovar,25,Ligue 1,Forward,Amiens SC,1206,605,601,18,10,8,1,1,0,2,0,19,13,6,1,0.22,0.15,0.07,0.15,0,1206,67,603
+Julian Draxler,27,Ligue 1,Midfielder,PSG,685,396,289,11,5,6,0,0,0,4,0,9,2,7,5,0.53,0.53,0,0,0,0,62,171
+Julien Fabri,26,Ligue 1,Goalkeeper,Brest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Julien Faussurier,33,Ligue 1,Defender,Brest,1980,1080,900,22,12,10,2,1,1,3,0,28,8,20,1,0.23,0.14,0.09,0.08,0.1,990,90,660
+Júlio Tavares,31,Ligue 1,Forward,Dijon,1997,990,1007,23,11,12,5,3,2,2,1,26,9,17,0,0.32,0.09,0.23,0.27,0.18,399,87,999
+Kader Bamba,26,Ligue 1,Midfielder,Nantes,1468,753,715,27,13,14,1,0,1,3,0,13,4,9,5,0.25,0.18,0.06,0,0.13,1468,54,489
+Kaj Sierhuis,22,Ligue 1,Forward,Reims,13,13,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Kalidou Sidibé,21,Ligue 1,Midfielder,Toulouse,87,33,54,4,2,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,22,0
+Kalifa Coulibaly,29,Ligue 1,Forward,Nantes,1616,974,642,21,12,9,4,1,3,0,0,13,7,6,1,0.22,0,0.22,0.09,0.42,404,77,0
+Kamil Glik,32,Ligue 1,Defender,Monaco,2070,1170,900,23,13,10,1,1,0,0,0,34,20,14,5,0.04,0,0.04,0.08,0,2070,90,0
+Karl Toko Ekambi,28,Ligue 1,Forward,Olympique Lyonnais,538,258,280,8,4,4,2,1,1,1,0,5,1,4,2,0.5,0.17,0.33,0.35,0.32,269,67,538
+Kasper Dolberg,23,Ligue 1,Forward,Nice,1895,1082,813,23,13,10,11,9,2,3,0,26,15,11,2,0.66,0.14,0.52,0.75,0.22,172,82,632
+Keagan Dolly,27,Ligue 1,Midfielder,Montpellier,143,31,112,6,3,3,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,24,0
+Keita Baldé Diao,25,Ligue 1,Forward,Monaco,853,389,464,21,9,12,4,4,0,1,0,13,5,8,4,0.53,0.11,0.42,0.93,0,213,41,853
+Kelvin Amian Adou,22,Ligue 1,Defender,Toulouse,1630,730,900,20,10,10,0,0,0,2,0,37,14,23,3,0.11,0.11,0,0,0,0,82,815
+Kelyan Guessoum,21,Ligue 1,Defender,Nîmes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenny Lala,29,Ligue 1,Defender,Strasbourg,2040,1023,1017,25,13,12,2,2,0,1,2,20,12,8,1,0.13,0.04,0.09,0.18,0,1020,82,2040
+Kenny Tete,25,Ligue 1,Defender,Olympique Lyonnais,1064,544,520,18,8,10,0,0,0,1,0,12,5,7,1,0.08,0.08,0,0,0,0,59,1064
+Kévin Lucien Zohi,23,Ligue 1,Midfielder,Strasbourg,525,186,339,17,8,9,1,0,1,1,0,2,0,2,1,0.34,0.17,0.17,0,0.27,525,31,525
+Kévin Mayi,27,Ligue 1,Forward,Brest,2,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Kévin Monnet-Paquet,32,Ligue 1,Forward,Saint-Étienne,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kevin N'Doram,24,Ligue 1,Defender,Metz,1646,656,990,20,9,11,0,0,0,0,0,22,9,13,2,0,0,0,0,0,0,82,0
+Kevin Strootman,30,Ligue 1,Midfielder,Olympique Marseille,1408,768,640,25,13,12,2,1,1,3,1,14,5,9,7,0.32,0.19,0.13,0.12,0.14,704,56,469
+Keylor Navas,33,Ligue 1,Goalkeeper,PSG,1890,990,900,21,11,10,0,0,0,0,0,16,7,9,0,0,0,0,0,0,0,90,0
+Khéphren Thuram-Ulie,19,Ligue 1,Midfielder,Nice,588,266,322,14,6,8,0,0,0,0,0,7,5,2,1,0,0,0,0,0,0,42,0
+Kouadio Kone,19,Ligue 1,Midfielder,Toulouse,875,271,604,13,4,9,0,0,0,0,0,18,4,14,5,0,0,0,0,0,0,67,0
+Kylian Kaïboué,22,Ligue 1,Midfielder,Montpellier,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kylian Mbappé,21,Ligue 1,Forward,PSG,1515,848,667,20,11,9,18,11,7,5,0,16,9,7,0,1.37,0.3,1.07,1.17,0.94,84,76,303
+Lamine Fomba,22,Ligue 1,Midfielder,Nîmes,1374,599,775,20,10,10,0,0,0,0,0,26,9,17,6,0,0,0,0,0,0,69,0
+Lamine Koné,31,Ligue 1,Defender,Strasbourg,1474,646,828,18,8,10,1,1,0,0,0,20,7,13,4,0.06,0,0.06,0.14,0,1474,82,0
+Laurent Koscielny,35,Ligue 1,Defender,Bordeaux,2184,1014,1170,25,12,13,0,0,0,0,0,25,10,15,3,0,0,0,0,0,0,87,0
+Layvin Kurzawa,28,Ligue 1,Defender,PSG,855,407,448,14,5,9,1,1,0,0,0,7,3,4,4,0.11,0,0.11,0.22,0,855,61,0
+Leandro Daniel Paredes,26,Ligue 1,Midfielder,PSG,807,358,449,17,9,8,0,0,0,1,0,9,2,7,2,0.11,0.11,0,0,0,0,47,807
+Lebo Mothiba,24,Ligue 1,Forward,Strasbourg,1047,564,483,21,11,10,4,3,1,3,0,19,9,10,0,0.6,0.26,0.34,0.48,0.19,262,50,349
+Lenny Lacroix,17,Ligue 1,Defender,Metz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Léo Dubois,26,Ligue 1,Defender,Olympique Lyonnais,1347,610,737,16,7,9,0,0,0,0,0,11,4,7,3,0,0,0,0,0,0,84,0
+Leonardo Cesar Jardim,25,Ligue 1,Goalkeeper,Lille,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Levy Kahamba Ntumba,19,Ligue 1,Goalkeeper,Dijon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lionel Jules Carole,29,Ligue 1,Defender,Strasbourg,1271,527,744,18,8,10,0,0,0,0,0,21,9,12,3,0,0,0,0,0,0,71,0
+Logan Costa,19,Ligue 1,Defender,Reims,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Loïc Mbe Soh,19,Ligue 1,Forward,PSG,59,59,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,59,0
+Loïc Perrin,35,Ligue 1,Defender,Saint-Étienne,1715,990,725,21,11,10,0,0,0,0,0,28,16,12,5,0,0,0,0,0,0,82,0
+Loïc Rémy,33,Ligue 1,Forward,Lille,964,559,405,20,10,10,7,7,0,0,0,6,4,2,2,0.65,0,0.65,1.13,0,138,48,0
+Loïck Landre,28,Ligue 1,Defender,Nîmes,929,402,527,11,5,6,1,0,1,0,0,15,5,10,2,0.1,0,0.1,0,0.17,929,84,0
+Loïs Diony,27,Ligue 1,Forward,Saint-Étienne,669,290,379,12,5,7,2,0,2,0,0,7,1,6,1,0.27,0,0.27,0,0.47,335,56,0
+Loris Benito,28,Ligue 1,Defender,Bordeaux,1896,643,1253,23,8,15,1,0,1,0,0,25,7,18,5,0.05,0,0.05,0,0.07,1896,82,0
+Lovre Kalinić,30,Ligue 1,Goalkeeper,Toulouse,306,90,216,4,1,3,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,77,0
+Lucas Buadés,22,Ligue 1,Forward,Nîmes,117,97,20,6,2,4,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,20,0
+Lucas Da Cunha,19,Ligue 1,Midfielder,Rennes,72,65,7,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0
+Lucas Deaux,31,Ligue 1,Midfielder,Nîmes,1338,711,627,17,9,8,2,1,1,1,0,18,4,14,2,0.2,0.07,0.13,0.13,0.14,669,79,1338
+Lucas Gourna Douath,17,Ligue 1,Midfielder,Saint-Étienne,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucas Lima,29,Ligue 1,Defender,Nantes,270,90,180,3,1,2,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,90,0
+Lucas Lionel Dias,21,Ligue 1,Goalkeeper,Nîmes,316,90,226,4,1,3,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,79,0
+Lucas Perrin,21,Ligue 1,Midfielder,Olympique Marseille,360,90,270,4,1,3,0,0,0,0,0,3,1,2,2,0,0,0,0,0,0,90,0
+Lucas Tousart,23,Ligue 1,Midfielder,Olympique Lyonnais,1761,763,998,24,10,14,2,0,2,2,0,19,5,14,5,0.2,0.1,0.1,0,0.18,881,73,881
+Lucas Valls,22,Ligue 1,Midfielder,Nîmes,10,10,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+Ludovic Ajorque,26,Ligue 1,Forward,Strasbourg,2068,1059,1009,26,12,14,8,5,3,4,1,20,12,8,3,0.52,0.17,0.35,0.42,0.27,259,80,517
+Ludovic Baal,34,Ligue 1,Defender,Brest,825,360,465,11,4,7,0,0,0,0,0,10,1,9,1,0,0,0,0,0,0,75,0
+Ludovic Blas,22,Ligue 1,Midfielder,Nantes,1858,899,959,24,12,12,5,4,1,1,0,24,10,14,0,0.29,0.05,0.24,0.4,0.09,372,77,1858
+Ludovic Butelle,37,Ligue 1,Goalkeeper,Angers SCO,2340,1350,990,26,15,11,0,0,0,0,0,30,13,17,0,0,0,0,0,0,0,90,0
+Luiz Araújo,24,Ligue 1,Forward,Lille,819,279,540,21,10,11,2,1,1,1,0,12,3,9,1,0.33,0.11,0.22,0.32,0.17,410,39,819
+Luiz Gustavo Dias,33,Ligue 1,Midfielder,Olympique Marseille,189,90,99,3,1,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,63,0
+Lyle Foster,20,Ligue 1,Forward,Monaco,62,46,16,2,1,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,31,0
+M'Baye Babacar Niang,25,Ligue 1,Forward,Rennes,2133,1140,993,26,13,13,10,8,2,0,0,21,12,9,2,0.42,0,0.42,0.63,0.18,213,82,0
+Madih Talal,23,Ligue 1,Midfielder,Amiens SC,18,18,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0
+Mahdi Camara,22,Ligue 1,Midfielder,Saint-Étienne,900,531,369,12,7,5,0,0,0,0,0,17,8,9,2,0,0,0,0,0,0,75,0
+Malang Sarr,21,Ligue 1,Defender,Nice,1454,702,752,19,10,9,1,1,0,0,0,17,7,10,2,0.06,0,0.06,0.13,0,1454,77,0
+Mama Samba Baldé,25,Ligue 1,Forward,Dijon,1683,857,826,24,13,11,6,4,2,2,0,26,10,16,2,0.43,0.11,0.32,0.42,0.22,281,70,842
+Mamadou Fofana,22,Ligue 1,Defender,Metz,1587,781,806,20,10,10,0,0,0,0,0,21,9,12,4,0,0,0,0,0,0,79,0
+Manuel Cabit,27,Ligue 1,Defender,Metz,270,180,90,3,2,1,0,0,0,1,0,4,2,2,2,0.33,0.33,0,0,0,0,90,270
+Marcelo Antônio Guedes Filho,33,Ligue 1,Defender,Olympique Lyonnais,1505,703,802,17,8,9,0,0,0,0,0,14,3,11,4,0,0,0,0,0,0,89,0
+Marcin Bulka,21,Ligue 1,Goalkeeper,PSG,90,0,90,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0
+Marco Verratti,28,Ligue 1,Midfielder,PSG,1481,852,629,20,10,10,0,0,0,5,0,14,9,5,6,0.3,0.3,0,0,0,0,74,296
+Marcus Coco,24,Ligue 1,Midfielder,Nantes,15,0,15,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0
+Marley Ake,0,Ligue 1,Forward,Olympique Marseille,90,50,40,9,5,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,10,0
+Marquinhos,26,Ligue 1,Defender,PSG,1472,834,638,19,10,9,3,3,0,1,0,12,7,5,1,0.24,0.06,0.18,0.32,0,491,77,1472
+Marshall Nyasha Munetsi,24,Ligue 1,Midfielder,Reims,830,372,458,17,8,9,0,0,0,2,0,6,2,4,3,0.22,0.22,0,0,0,0,49,415
+Martin Terrier,23,Ligue 1,Forward,Olympique Lyonnais,1195,536,659,23,12,11,1,0,1,2,0,12,4,8,0,0.23,0.15,0.08,0,0.14,1195,52,598
+Marvin Gakpa,27,Ligue 1,Forward,Metz,462,250,212,13,6,7,0,0,0,0,0,6,2,4,0,0,0,0,0,0,0,36,0
+Marvin Tshibuabua,18,Ligue 1,Defender,Saint-Étienne,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mateo Pavlović,30,Ligue 1,Defender,Angers SCO,809,358,451,11,5,6,0,0,0,0,0,15,4,11,3,0,0,0,0,0,0,74,0
+Matheus Pereira da Silva,22,Ligue 1,Midfielder,Dijon,466,246,220,10,5,5,0,0,0,0,0,5,1,4,4,0,0,0,0,0,0,47,0
+Mathias Autret,29,Ligue 1,Midfielder,Brest,1226,735,491,23,12,11,2,1,1,3,0,9,5,4,3,0.37,0.22,0.15,0.12,0.18,613,53,409
+Mathias Pereira Lage,23,Ligue 1,Midfielder,Angers SCO,1542,764,778,25,13,12,1,1,0,3,0,23,8,15,2,0.23,0.18,0.06,0.12,0,1542,62,514
+Mathías Sebastián Suárez Suárez,24,Ligue 1,Defender,Montpellier,61,0,61,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,61,0
+Mathieu Bodmer,37,Ligue 1,Defender,Amiens SC,79,51,28,9,5,4,1,1,0,0,0,3,2,1,1,1.14,0,1.14,1.76,0,79,9,0
+Mathieu Cafaro,23,Ligue 1,Midfielder,Reims,931,579,352,13,8,5,1,1,0,2,1,7,4,3,3,0.29,0.19,0.1,0.16,0,931,72,466
+Mathieu Debuchy,35,Ligue 1,Defender,Saint-Étienne,1770,870,900,21,11,10,1,0,1,1,0,31,12,19,2,0.1,0.05,0.05,0,0.1,1770,84,1770
+Mathieu Dossevi,32,Ligue 1,Midfielder,Toulouse,1758,1009,749,26,13,13,1,0,1,2,0,33,16,17,0,0.15,0.1,0.05,0,0.12,1758,68,879
+Mathieu Goncalves,19,Ligue 1,Defender,Toulouse,314,243,71,4,3,1,0,0,0,0,0,6,4,2,1,0,0,0,0,0,0,79,0
+Mathis Carvalho,21,Ligue 1,Goalkeeper,Montpellier,71,0,71,1,0,1,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,71,0
+Mathis Ryan Cherki,17,Ligue 1,Forward,Olympique Lyonnais,139,48,91,6,3,3,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,23,0
+Matthieu Dreyer,31,Ligue 1,Goalkeeper,Amiens SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matthieu Udol,24,Ligue 1,Defender,Metz,1102,628,474,13,7,6,0,0,0,1,0,14,7,7,3,0.08,0.08,0,0,0,0,85,1102
+Matz Sels,28,Ligue 1,Goalkeeper,Strasbourg,2430,1170,1260,27,13,14,0,0,0,0,0,29,14,15,0,0,0,0,0,0,0,90,0
+Mauro Daniel Goicoechea Furia,32,Ligue 1,Goalkeeper,Toulouse,180,90,90,2,1,1,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,90,0
+Mauro Icardi,27,Ligue 1,Forward,PSG,1268,586,682,20,11,9,12,6,6,2,0,15,7,8,0,0.99,0.14,0.85,0.92,0.79,106,63,634
+Max-Alain Gradel,32,Ligue 1,Forward,Toulouse,1641,734,907,21,10,11,3,1,2,2,2,34,11,23,4,0.27,0.11,0.16,0.12,0.2,547,78,821
+Maxence Caqueret,20,Ligue 1,Midfielder,Olympique Lyonnais,570,270,300,8,3,5,0,0,0,0,0,5,2,3,2,0,0,0,0,0,0,71,0
+Maxence Rivera,0,Ligue 1,Midfielder,Saint-Étienne,24,24,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0
+Maxime Lopez,22,Ligue 1,Midfielder,Olympique Marseille,1109,553,556,23,12,11,0,0,0,3,0,14,4,10,2,0.24,0.24,0,0,0,0,48,370
+Maxime Poundjé,28,Ligue 1,Defender,Bordeaux,2,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Mazire Soula,22,Ligue 1,Forward,Angers SCO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mehdi Abeid,28,Ligue 1,Midfielder,Nantes,1817,939,878,25,13,12,1,0,1,2,0,21,7,14,5,0.15,0.1,0.05,0,0.1,1817,73,909
+Mehdi Zerkane,21,Ligue 1,Midfielder,Bordeaux,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mehmet Zeki Çelik,23,Ligue 1,Defender,Lille,2070,1170,900,23,13,10,0,0,0,2,0,20,8,12,4,0.09,0.09,0,0,0,0,90,1035
+Melvin Bard,20,Ligue 1,Defender,Olympique Lyonnais,44,0,44,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0
+Memphis Depay,26,Ligue 1,Forward,Olympique Lyonnais,1022,560,462,13,7,6,9,4,5,2,1,7,3,4,0,0.97,0.18,0.79,0.64,0.97,114,79,511
+Mickaël Alphonse,31,Ligue 1,Defender,Dijon,1377,554,823,17,7,10,0,0,0,1,0,20,7,13,2,0.07,0.07,0,0,0,0,81,1377
+Mickaël Le Bihan,30,Ligue 1,Forward,Nice,99,99,0,2,2,0,0,0,0,1,0,1,1,0,1,0.91,0.91,0,0,0,0,50,99
+Mickaël Nade,21,Ligue 1,Defender,Saint-Étienne,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miguel Ángel Trauco Saavedra,28,Ligue 1,Defender,Saint-Étienne,1478,723,755,19,10,9,1,0,1,2,0,25,10,15,6,0.18,0.12,0.06,0,0.12,1478,78,739
+Mihailo Ristić,25,Ligue 1,Midfielder,Montpellier,804,326,478,18,10,8,0,0,0,2,0,15,3,12,1,0.22,0.22,0,0,0,0,45,402
+Mike Maignan,25,Ligue 1,Goalkeeper,Lille,2520,1350,1170,28,15,13,0,0,0,0,0,25,9,16,0,0,0,0,0,0,0,90,0
+Mitchel Bakker,20,Ligue 1,Defender,PSG,90,0,90,1,0,1,0,0,0,0,0,3,0,3,1,0,0,0,0,0,0,90,0
+Moataz Zemzemi,21,Ligue 1,Defender,Strasbourg,22,22,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0
+Mohamed Simakan,20,Ligue 1,Defender,Strasbourg,1503,734,769,19,10,9,0,0,0,0,0,19,10,9,4,0,0,0,0,0,0,79,0
+moise sakava,19,Ligue 1,Midfielder,Reims,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Molla Wagué,29,Ligue 1,Defender,Nantes,683,180,503,9,2,7,0,0,0,0,0,10,4,6,2,0,0,0,0,0,0,76,0
+Moreto Moro Cassamã,22,Ligue 1,Midfielder,Reims,594,245,349,7,3,4,0,0,0,1,0,5,1,4,3,0.15,0.15,0,0,0,0,85,594
+Morgan Sanson,26,Ligue 1,Midfielder,Olympique Marseille,2186,1067,1119,27,13,14,5,4,1,4,0,18,9,9,5,0.37,0.16,0.21,0.34,0.08,437,81,547
+Moses Daddy Simon,25,Ligue 1,Forward,Nantes,2182,1170,1012,26,13,13,5,2,3,5,0,23,10,13,2,0.41,0.21,0.21,0.15,0.27,436,84,436
+Mounir Chouiar,21,Ligue 1,Forward,Dijon,1514,739,775,20,10,10,4,2,2,0,0,17,7,10,5,0.24,0,0.24,0.24,0.23,379,76,0
+Moussa Dembélé,24,Ligue 1,Forward,Olympique Lyonnais,2189,924,1265,27,12,15,16,7,9,2,4,21,4,17,3,0.74,0.08,0.66,0.68,0.64,137,81,1095
+Moussa Diarra,20,Ligue 1,Defender,Toulouse,90,0,90,1,0,1,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,90,0
+Moussa Doumbia,26,Ligue 1,Midfielder,Reims,1733,920,813,26,12,14,2,2,0,1,1,12,5,7,7,0.16,0.05,0.1,0.2,0,867,67,1733
+Moussa Konaté,27,Ligue 1,Forward,Amiens SC,609,413,196,12,8,4,2,2,0,0,0,13,6,7,0,0.3,0,0.3,0.44,0,305,51,0
+Moussa Koné,23,Ligue 1,Forward,Nîmes,137,32,105,5,2,3,2,1,1,0,0,2,0,2,0,1.31,0,1.31,2.81,0.86,69,27,0
+Moussa Sylla,20,Ligue 1,Midfielder,Monaco,9,9,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0
+Moussa Wagué,22,Ligue 1,Defender,Nice,197,104,93,5,2,3,0,0,0,2,0,2,1,1,0,0.91,0.91,0,0,0,0,39,99
+Myziane Maolida,21,Ligue 1,Forward,Nice,669,429,240,18,10,8,1,1,0,2,0,9,3,6,0,0.4,0.27,0.13,0.21,0,669,37,335
+Nacer Chadli,31,Ligue 1,Midfielder,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Naif Aguerd,24,Ligue 1,Defender,Dijon,958,450,508,11,5,6,1,1,0,0,0,12,2,10,2,0.09,0,0.09,0.2,0,958,87,0
+Naldo,38,Ligue 1,Defender,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nanitamo Ikone,22,Ligue 1,Midfielder,Lille,2075,1214,861,28,15,13,3,1,2,6,1,17,7,10,6,0.39,0.26,0.13,0.07,0.21,692,74,346
+Nathan N'Goumou Minpole,20,Ligue 1,Midfielder,Toulouse,8,8,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+Nathanaël Mbuku,18,Ligue 1,Forward,Reims,390,175,215,11,5,6,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,35,0
+Nelson Sissoko,23,Ligue 1,Defender,Saint-Étienne,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nemanja Radonjić,24,Ligue 1,Forward,Olympique Marseille,873,483,390,21,10,11,5,2,3,1,0,5,3,2,3,0.62,0.1,0.52,0.37,0.69,175,42,873
+Neymar,28,Ligue 1,Forward,PSG,1322,782,540,15,9,6,13,6,7,6,4,10,8,2,4,1.29,0.41,0.89,0.69,1.17,102,88,220
+Nianzou Tanguy Kouassi,18,Ligue 1,Defender,PSG,451,162,289,6,2,4,2,0,2,0,0,5,0,5,1,0.4,0,0.4,0,0.62,226,75,0
+Nicholas Opoku,23,Ligue 1,Defender,Amiens SC,630,360,270,7,4,3,0,0,0,0,0,8,6,2,1,0,0,0,0,0,0,90,0
+Nicolas De Roussel de Préville,29,Ligue 1,Forward,Bordeaux,2002,850,1152,24,11,13,6,4,2,4,1,26,9,17,4,0.45,0.18,0.27,0.42,0.16,334,83,501
+Nicolás Gaitán,32,Ligue 1,Midfielder,Lille,50,30,20,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Nicolas Isimat-Mirin,28,Ligue 1,Defender,Toulouse,1260,540,720,14,6,8,1,0,1,0,0,29,10,19,4,0.07,0,0.07,0,0.13,1260,90,0
+Nicolas Lemaître,23,Ligue 1,Goalkeeper,Reims,90,0,90,1,0,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,90,0
+Nicolas Louis Marcel Cozza,21,Ligue 1,Defender,Montpellier,556,402,154,7,5,2,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,79,0
+Nicolas Pallois,33,Ligue 1,Defender,Nantes,1890,1080,810,21,12,9,0,0,0,0,0,19,7,12,10,0,0,0,0,0,0,90,0
+Niels Nkounkou,20,Ligue 1,Defender,Olympique Marseille,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Noah Crétier,19,Ligue 1,Defender,Nice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nolan Mbemba,25,Ligue 1,Midfielder,Reims,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nolan Roux,32,Ligue 1,Forward,Nîmes,588,340,248,7,4,3,2,1,1,0,0,8,4,4,0,0.31,0,0.31,0.26,0.36,294,84,0
+Nuno da Costa,29,Ligue 1,Forward,Strasbourg,518,352,166,14,7,7,1,0,1,0,0,8,4,4,4,0.17,0,0.17,0,0.54,518,37,0
+Opa N'Guette,26,Ligue 1,Forward,Metz,1843,1007,836,26,14,12,5,5,0,2,0,23,12,11,1,0.34,0.1,0.24,0.45,0,369,71,922
+Otávio,25,Ligue 1,Midfielder,Bordeaux,2213,1080,1133,25,12,13,2,2,0,3,0,25,10,15,6,0.2,0.12,0.08,0.17,0,1107,89,738
+Oumar Solet Bomawoko,20,Ligue 1,Defender,Olympique Lyonnais,8,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+Pablo Martinez,31,Ligue 1,Defender,Nîmes,2340,1260,1080,26,14,12,2,2,0,1,0,39,14,25,5,0.12,0.04,0.08,0.14,0,1170,90,2340
+Pablo Nascimento Castro,29,Ligue 1,Defender,Bordeaux,2175,1095,1080,25,13,12,4,2,2,0,0,26,10,16,2,0.17,0,0.17,0.16,0.17,544,87,0
+Pablo Sarabia,28,Ligue 1,Midfielder,PSG,1164,634,530,21,13,8,4,3,1,3,0,7,2,5,1,0.54,0.23,0.31,0.43,0.17,291,55,388
+Papa Ndiaga Yade,20,Ligue 1,Midfielder,Metz,2,2,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Pape Cheik Diop Guete,23,Ligue 1,Midfielder,Olympique Lyonnais,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Patrick Burner,24,Ligue 1,Defender,Nice,1432,755,677,20,10,10,1,0,1,1,0,24,12,12,6,0.13,0.06,0.06,0,0.13,1432,72,1432
+Paul Baysse,32,Ligue 1,Defender,Bordeaux,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paul Bernardoni,23,Ligue 1,Goalkeeper,Nîmes,2204,1170,1034,25,13,12,0,0,0,0,0,38,14,24,0,0,0,0,0,0,0,88,0
+Paul Delecroix,32,Ligue 1,Goalkeeper,Metz,135,45,90,2,1,1,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,68,0
+Paul Lasne,31,Ligue 1,Midfielder,Brest,1224,467,757,19,8,11,2,2,0,1,0,19,4,15,1,0.22,0.07,0.15,0.39,0,612,64,1224
+Pedro Mendes,30,Ligue 1,Defender,Montpellier,1378,702,676,16,8,8,1,1,0,0,0,16,5,11,10,0.07,0,0.07,0.13,0,1378,86,0
+Pépé Bonet Kapambu,17,Ligue 1,Goalkeeper,Rennes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Percy Prado Ruiz,24,Ligue 1,Midfielder,Nantes,184,90,94,3,1,2,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,61,0
+Petar Škuletić,30,Ligue 1,Forward,Montpellier,103,4,99,5,1,4,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,21,0
+Pierre Kalulu Kyatengwa,20,Ligue 1,Defender,Olympique Lyonnais,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pierre Lees Melou,27,Ligue 1,Midfielder,Nice,2253,1251,1002,26,14,12,5,3,2,6,0,32,17,15,5,0.44,0.24,0.2,0.22,0.18,451,87,376
+Pierre-Daniel N'Guinda N'Diffon,24,Ligue 1,Defender,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pierrick Capelle,33,Ligue 1,Midfielder,Angers SCO,1748,1037,711,24,13,11,1,1,0,2,0,27,13,14,7,0.15,0.1,0.05,0.09,0,1748,73,874
+Pierrick Valdivia,32,Ligue 1,Midfielder,Nîmes,68,58,10,2,1,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,34,0
+Pietro Pellegri,19,Ligue 1,Forward,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predrag Rajković,25,Ligue 1,Goalkeeper,Reims,2430,1260,1170,27,14,13,0,0,0,0,0,17,7,10,1,0,0,0,0,0,0,90,0
+Presnel Kimpembe,25,Ligue 1,Defender,PSG,1224,739,485,16,9,7,0,0,0,0,0,11,6,5,6,0,0,0,0,0,0,77,0
+Prince-Désir Gouano,26,Ligue 1,Defender,Amiens SC,270,180,90,3,2,1,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,90,0
+Quentin Boisgard,23,Ligue 1,Midfielder,Toulouse,1150,630,520,20,9,11,1,0,1,1,0,22,10,12,1,0.16,0.08,0.08,0,0.17,1150,58,1150
+Quentin Cornette,26,Ligue 1,Forward,Amiens SC,342,106,236,13,5,8,0,0,0,2,0,3,1,2,0,0.53,0.53,0,0,0,0,26,171
+Rachid Alioui,28,Ligue 1,Forward,Angers SCO,1564,944,620,28,15,13,6,3,3,1,0,20,8,12,1,0.4,0.06,0.35,0.29,0.44,261,56,1564
+Racine Coly,24,Ligue 1,Defender,Nice,651,303,348,10,5,5,1,0,1,0,0,11,2,9,5,0.14,0,0.14,0,0.26,651,65,0
+Rafael,30,Ligue 1,Defender,Olympique Lyonnais,701,295,406,13,6,7,0,0,0,0,0,8,2,6,3,0,0,0,0,0,0,54,0
+Rafik Guitane,21,Ligue 1,Midfielder,Rennes,14,12,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+Raoul Bellanova,20,Ligue 1,Defender,Bordeaux,63,0,63,1,0,1,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,63,0
+Raphael Dias Belloli,24,Ligue 1,Forward,Rennes,1695,903,792,22,11,11,5,4,1,3,1,15,10,5,4,0.42,0.16,0.27,0.4,0.11,339,77,565
+Rayan Aït Nouri,19,Ligue 1,Defender,Angers SCO,1287,772,515,17,10,7,0,0,0,2,0,17,5,12,3,0.14,0.14,0,0,0,0,76,644
+Rayan Philippe,20,Ligue 1,Forward,Dijon,29,29,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0
+Régis Gurtner,33,Ligue 1,Goalkeeper,Amiens SC,2520,1260,1260,28,14,14,0,0,0,0,0,48,22,26,0,0,0,0,0,0,0,90,0
+Reinildo Isnard Mandava,26,Ligue 1,Defender,Lille,1107,567,540,16,10,6,0,0,0,0,0,12,5,7,4,0,0,0,0,0,0,69,0
+Rémi Oudin,23,Ligue 1,Forward,Bordeaux,1964,1047,917,26,14,12,4,2,2,3,0,14,8,6,1,0.32,0.14,0.18,0.17,0.2,491,76,655
+Rémi Walter,25,Ligue 1,Midfielder,Nice,54,54,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0
+Renato Sanches,23,Ligue 1,Midfielder,Lille,1482,819,663,19,10,9,3,2,1,1,0,14,6,8,3,0.24,0.06,0.18,0.22,0.14,494,78,1482
+Renaud Cohade,36,Ligue 1,Midfielder,Metz,768,303,465,12,5,7,1,1,0,0,0,15,6,9,3,0.12,0,0.12,0.3,0,768,64,0
+Renaud Emond,28,Ligue 1,Forward,Nantes,291,80,211,6,2,4,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,49,0
+Renaud Ripart,27,Ligue 1,Forward,Nîmes,2031,984,1047,24,12,12,4,3,1,2,2,37,13,24,0,0.27,0.09,0.18,0.27,0.09,508,85,1016
+Rene Krhin,30,Ligue 1,Midfielder,Nantes,325,153,172,8,4,4,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,41,0
+Riza Durmisi,26,Ligue 1,Defender,Nice,160,57,103,4,2,2,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,40,0
+Robert Berič,29,Ligue 1,Forward,Saint-Étienne,409,228,181,11,5,6,1,1,0,0,0,5,2,3,0,0.22,0,0.22,0.39,0,409,37,0
+Roli Pereira de Sa,23,Ligue 1,Midfielder,Nantes,5,0,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+Romain Amalfitano,31,Ligue 1,Midfielder,Dijon,1693,1070,623,26,14,12,1,1,0,1,0,23,11,12,5,0.11,0.05,0.05,0.08,0,1693,65,1693
+Romain Del Castillo,24,Ligue 1,Forward,Rennes,1243,786,457,21,13,8,2,2,0,5,1,8,6,2,2,0.51,0.36,0.14,0.23,0,622,59,249
+Romain Hamouma,33,Ligue 1,Forward,Saint-Étienne,864,521,343,14,7,7,6,3,3,1,0,19,8,11,3,0.73,0.1,0.63,0.52,0.79,144,62,864
+Romain Perraud,23,Ligue 1,Defender,Brest,1670,856,814,20,10,10,0,0,0,1,0,26,10,16,1,0.05,0.05,0,0,0,0,84,1670
+Romain Philippoteaux,32,Ligue 1,Midfielder,Nîmes,2000,1131,869,27,14,13,5,2,3,2,0,31,12,19,3,0.32,0.09,0.23,0.16,0.31,400,74,1000
+Romain Salin,36,Ligue 1,Goalkeeper,Rennes,360,180,180,4,2,2,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,90,0
+Romain Thomas,32,Ligue 1,Defender,Angers SCO,2342,1281,1061,27,15,12,1,1,0,2,0,29,12,17,4,0.12,0.08,0.04,0.07,0,2342,87,1171
+Rony Lopes,24,Ligue 1,Midfielder,Monaco,81,81,0,1,1,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,81,0
+Ruben Aguilar,27,Ligue 1,Defender,Monaco,1067,569,498,19,9,10,0,0,0,2,0,15,11,4,4,0.17,0.17,0,0,0,0,56,534
+Ruben Gabrielsen,28,Ligue 1,Defender,Toulouse,657,297,360,8,4,4,0,0,0,0,0,15,9,6,1,0,0,0,0,0,0,82,0
+Rubén Pardo Gutiérrez,28,Ligue 1,Midfielder,Bordeaux,184,65,119,6,2,4,1,0,1,0,0,5,1,4,0,0.49,0,0.49,0,0.76,184,31,0
+Rúnar Alex Rúnarsson,25,Ligue 1,Goalkeeper,Dijon,899,449,450,11,6,5,0,0,0,0,0,15,6,9,0,0,0,0,0,0,0,82,0
+Ryad Boudebouz,30,Ligue 1,Midfielder,Saint-Étienne,1605,716,889,24,12,12,1,0,1,4,1,24,8,16,0,0.28,0.22,0.06,0,0.1,1605,67,401
+Sacha Boey,20,Ligue 1,Defender,Rennes,168,19,149,5,2,3,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,34,0
+Sacha Semaoun,19,Ligue 1,Forward,Toulouse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sada Thioub,25,Ligue 1,Forward,Angers SCO,1505,838,667,23,12,11,1,1,0,2,0,15,9,6,3,0.18,0.12,0.06,0.11,0,1505,65,753
+Saîf-Eddine Khaoui,25,Ligue 1,Midfielder,Olympique Marseille,99,81,18,7,6,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,14,0
+Salomon Sambia,24,Ligue 1,Midfielder,Montpellier,579,242,337,17,9,8,1,0,1,1,0,12,4,8,4,0.31,0.16,0.16,0,0.27,579,34,579
+Sam Sanna,21,Ligue 1,Midfielder,Toulouse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saman Ghoddos,27,Ligue 1,Forward,Amiens SC,229,203,26,5,3,2,1,0,1,0,0,1,1,0,1,0.39,0,0.39,0,3.46,229,46,0
+Sambou Sissoko,21,Ligue 1,Midfielder,Reims,29,22,7,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+Sami Ben Amar,22,Ligue 1,Forward,Nîmes,12,0,12,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+Sami Lahssaini,22,Ligue 1,Midfielder,Metz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samuel Grandsir,24,Ligue 1,Forward,Brest,1500,822,678,24,12,12,3,1,2,1,0,22,8,14,0,0.24,0.06,0.18,0.11,0.27,500,63,1500
+Samuel Kalu Ojim,23,Ligue 1,Forward,Bordeaux,1359,649,710,20,10,10,1,0,1,1,0,17,6,11,4,0.13,0.07,0.07,0,0.13,1359,68,1359
+Samuel Moutoussamy,24,Ligue 1,Midfielder,Nantes,509,132,377,18,9,9,0,0,0,0,0,6,0,6,0,0,0,0,0,0,0,28,0
+Sanasi Sy,21,Ligue 1,Defender,Amiens SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sanjin Prcić,26,Ligue 1,Midfielder,Strasbourg,77,0,77,3,0,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,26,0
+Sehrou Guirassy,24,Ligue 1,Forward,Amiens SC,1927,1040,887,23,12,11,9,5,4,2,3,32,18,14,6,0.51,0.09,0.42,0.43,0.41,214,84,964
+Senou Coulibaly,26,Ligue 1,Defender,Dijon,669,252,417,10,4,6,0,0,0,0,0,13,7,6,0,0,0,0,0,0,0,67,0
+Sergi Palencia Hurtado,24,Ligue 1,Defender,Saint-Étienne,471,162,309,6,2,4,0,0,0,0,0,6,3,3,2,0,0,0,0,0,0,79,0
+Sergio Rico,27,Ligue 1,Goalkeeper,PSG,180,90,90,2,1,1,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,90,0
+Seydou Sy,24,Ligue 1,Goalkeeper,Monaco,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sidy Sarr,24,Ligue 1,Midfielder,Nîmes,1157,438,719,22,10,12,0,0,0,2,0,21,4,17,6,0.16,0.16,0,0,0,0,53,579
+Simon Brady Ngapandouetnbu,16,Ligue 1,Goalkeeper,Olympique Marseille,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sofiane Alakouch,22,Ligue 1,Midfielder,Nîmes,1406,753,653,17,9,8,0,0,0,0,0,23,6,17,3,0,0,0,0,0,0,83,0
+Souleyman Doumbia,24,Ligue 1,Defender,Angers SCO,540,270,270,6,3,3,0,0,0,1,0,2,0,2,1,0.17,0.17,0,0,0,0,90,540
+Souleymane Camara,37,Ligue 1,Forward,Montpellier,150,41,109,13,4,9,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,12,0
+Stanley Nsoki,21,Ligue 1,Midfielder,Nice,1272,814,458,17,10,7,0,0,0,1,0,17,11,6,3,0.07,0.07,0,0,0,0,75,1272
+Stefan Bajic,18,Ligue 1,Goalkeeper,Saint-Étienne,90,90,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,90,0
+Stefan Mitrović,30,Ligue 1,Defender,Strasbourg,2054,884,1170,23,10,13,1,0,1,1,0,24,10,14,4,0.09,0.04,0.04,0,0.08,2054,89,2054
+Stéphane Bahoken,28,Ligue 1,Forward,Angers SCO,906,406,500,20,11,9,4,2,2,0,1,9,5,4,3,0.4,0,0.4,0.44,0.36,227,45,0
+Stéphane Ruffier,34,Ligue 1,Goalkeeper,Saint-Étienne,1980,900,1080,22,10,12,0,0,0,0,0,38,15,23,1,0,0,0,0,0,0,90,0
+Stephy Mavididi,22,Ligue 1,Forward,Dijon,1393,685,708,24,11,13,5,5,0,1,0,17,5,12,0,0.39,0.06,0.32,0.66,0,279,58,1393
+Stevan Jovetić,31,Ligue 1,Forward,Monaco,474,212,262,9,5,4,2,2,0,0,0,5,2,3,3,0.38,0,0.38,0.85,0,237,53,0
+Steve Mandanda,35,Ligue 1,Goalkeeper,Olympique Marseille,2371,1170,1201,27,13,14,0,0,0,0,0,22,10,12,1,0,0,0,0,0,0,88,0
+Steven Moreira,26,Ligue 1,Defender,Toulouse,1390,658,732,17,8,9,0,0,0,0,0,23,7,16,5,0,0,0,0,0,0,82,0
+Steven N'Kemboanza Mike Christopher N'Zonzi,31,Ligue 1,Midfielder,Rennes,385,205,180,5,3,2,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,77,0
+Stopilla Sunzu,31,Ligue 1,Defender,Metz,1351,649,702,17,8,9,0,0,0,0,0,23,8,15,3,0,0,0,0,0,0,79,0
+Tanguy Kouassi,18,Ligue 1,Defender,PSG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Téji Savanier,28,Ligue 1,Midfielder,Montpellier,1532,741,791,19,9,10,6,5,1,2,2,22,4,18,5,0.47,0.12,0.35,0.61,0.11,255,81,766
+Théo Barbet,19,Ligue 1,Defender,Dijon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Théo Pellenard,26,Ligue 1,Defender,Angers SCO,452,201,251,8,5,3,0,0,0,0,0,5,2,3,1,0,0,0,0,0,0,57,0
+Théo Sainte-Luce,22,Ligue 1,Defender,Nîmes,19,18,1,3,2,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,0
+Theo Valls,24,Ligue 1,Defender,Nîmes,1641,823,818,23,11,12,1,1,0,1,0,26,6,20,2,0.11,0.05,0.05,0.11,0,1641,71,1641
+Théo Vermot,23,Ligue 1,Goalkeeper,Saint-Étienne,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Theoson Jordan Siebatcheu,24,Ligue 1,Forward,Rennes,434,149,285,14,5,9,0,0,0,1,0,2,2,0,3,0.21,0.21,0,0,0,0,31,434
+Thiago Maia,23,Ligue 1,Midfielder,Lille,45,34,11,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0
+Thiago Mendes,28,Ligue 1,Midfielder,Olympique Lyonnais,1817,845,972,22,11,11,0,0,0,6,0,20,5,15,4,0.3,0.3,0,0,0,0,83,303
+Thiago Silva,36,Ligue 1,Defender,PSG,1576,744,832,21,10,11,0,0,0,0,0,11,3,8,1,0,0,0,0,0,0,75,0
+Thibaut Vargas,20,Ligue 1,Midfielder,Montpellier,152,89,63,3,2,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,51,0
+Thierry Ambrose,23,Ligue 1,Forward,Metz,537,238,299,18,10,8,0,0,0,0,0,8,2,6,1,0,0,0,0,0,0,30,0
+Thilo Kehrer,24,Ligue 1,Defender,PSG,480,378,102,7,5,2,1,0,1,0,0,7,6,1,0,0.19,0,0.19,0,0.88,480,69,0
+Thomas Basila,21,Ligue 1,Defender,Nantes,411,162,249,7,3,4,0,0,0,0,0,8,4,4,1,0,0,0,0,0,0,59,0
+Thomas Delaine,28,Ligue 1,Defender,Metz,1254,475,779,16,7,9,0,0,0,0,0,21,8,13,4,0,0,0,0,0,0,78,0
+Thomas Foket,26,Ligue 1,Midfielder,Reims,2430,1260,1170,27,14,13,0,0,0,1,0,17,7,10,3,0.04,0.04,0,0,0,0,90,2430
+Thomas Mangani,33,Ligue 1,Midfielder,Angers SCO,1874,1114,760,24,14,10,2,2,0,2,0,27,12,15,0,0.19,0.1,0.1,0.16,0,937,78,937
+Thomas Meunier,29,Ligue 1,Defender,PSG,1243,561,682,16,8,8,0,0,0,1,0,11,6,5,3,0.07,0.07,0,0,0,0,78,1243
+Thomas Monconduit,29,Ligue 1,Defender,Amiens SC,1367,696,671,19,10,9,0,0,0,0,0,25,10,15,8,0,0,0,0,0,0,72,0
+Tiago Emanuel Embalo Djaló,20,Ligue 1,Defender,Lille,664,351,313,8,4,4,0,0,0,0,0,7,3,4,1,0,0,0,0,0,0,83,0
+Tiemoué Bakayoko,26,Ligue 1,Midfielder,Monaco,1722,888,834,20,10,10,1,1,0,2,0,28,16,12,5,0.16,0.1,0.05,0.1,0,1722,86,861
+Timothée Kolodziejczak,29,Ligue 1,Defender,Saint-Étienne,1304,630,674,15,7,8,0,0,0,0,0,18,4,14,6,0,0,0,0,0,0,87,0
+Timothée NKada,21,Ligue 1,Forward,Reims,140,93,47,8,5,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,18,0
+Timothy Weah,20,Ligue 1,Forward,Lille,84,78,6,3,2,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,28,0
+Toma Bašić,23,Ligue 1,Midfielder,Bordeaux,992,520,472,15,8,7,1,0,1,3,0,14,7,7,4,0.36,0.27,0.09,0,0.19,992,66,331
+Tristan Dingome,29,Ligue 1,Midfielder,Reims,900,479,421,15,8,7,0,0,0,1,0,6,4,2,1,0.1,0.1,0,0,0,0,60,900
+Ulrick Brad Eneme Ella,19,Ligue 1,Forward,Amiens SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Valentin Gendrey,20,Ligue 1,Defender,Amiens SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Valentin Rabouille,20,Ligue 1,Goalkeeper,Nîmes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Valentin Rongier,25,Ligue 1,Midfielder,Olympique Marseille,2063,974,1089,26,12,14,0,0,0,3,0,20,8,12,3,0.13,0.13,0,0,0,0,79,688
+Valère Germain,30,Ligue 1,Forward,Olympique Marseille,1347,711,636,25,12,13,2,1,1,4,0,18,7,11,1,0.4,0.27,0.13,0.13,0.14,674,54,337
+Victor James Osimhen,21,Ligue 1,Forward,Lille,2289,1299,990,27,15,12,13,10,3,4,2,22,9,13,4,0.67,0.16,0.51,0.69,0.27,176,85,572
+Victorien Angban,24,Ligue 1,Midfielder,Metz,1023,574,449,20,10,10,0,0,0,0,0,13,8,5,0,0,0,0,0,0,0,51,0
+Vincent Manceau,31,Ligue 1,Defender,Angers SCO,1980,990,990,22,11,11,0,0,0,0,0,28,12,16,1,0,0,0,0,0,0,90,0
+Vincent Pajot,30,Ligue 1,Midfielder,Metz,632,293,339,13,6,7,0,0,0,4,0,6,1,5,1,0.57,0.57,0,0,0,0,49,158
+Virgiliu Postolachi,20,Ligue 1,Forward,Lille,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vitorino Hilton,43,Ligue 1,Defender,Montpellier,2511,1251,1260,28,14,14,0,0,0,2,0,33,9,24,2,0.07,0.07,0,0,0,0,90,1256
+Vlatko Stojanovski,23,Ligue 1,Midfielder,Nîmes,119,89,30,6,4,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,20,0
+Vukašin Jovanović,24,Ligue 1,Defender,Bordeaux,570,380,190,9,6,3,0,0,0,1,0,6,3,3,4,0.16,0.16,0,0,0,0,63,570
+Wahbi Khazri,29,Ligue 1,Midfielder,Saint-Étienne,1153,631,522,16,8,8,3,3,0,2,1,21,11,10,4,0.39,0.16,0.23,0.43,0,384,72,577
+Walter Daniel Benítez,27,Ligue 1,Goalkeeper,Nice,2340,1260,1080,26,14,12,0,0,0,0,0,34,17,17,0,0,0,0,0,0,0,90,0
+Wesley Fofana,19,Ligue 1,Midfielder,Saint-Étienne,1214,630,584,14,7,7,1,1,0,0,0,20,11,9,4,0.07,0,0.07,0.14,0,1214,87,0
+Wesley Lautoa,33,Ligue 1,Defender,Dijon,1872,847,1025,23,11,12,0,0,0,1,0,27,10,17,3,0.05,0.05,0,0,0,0,81,1872
+Wesley Moustache Mayeko,21,Ligue 1,Defender,Nantes,46,0,46,1,0,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,46,0
+Wesley Saïd,25,Ligue 1,Forward,Toulouse,1161,457,704,23,11,12,2,0,2,1,0,25,7,18,2,0.23,0.08,0.16,0,0.26,581,50,1161
+Wilfried Aka Kanga,22,Ligue 1,Forward,Angers SCO,64,17,47,4,1,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,16,0
+William Saliba,19,Ligue 1,Defender,Saint-Étienne,991,540,451,12,6,6,0,0,0,0,0,13,5,8,0,0,0,0,0,0,0,83,0
+William Vainqueur,31,Ligue 1,Midfielder,Toulouse,1724,879,845,21,10,11,0,0,0,0,0,36,16,20,8,0,0,0,0,0,0,82,0
+Wissam Ben Yedder,29,Ligue 1,Forward,Monaco,2173,1039,1134,26,13,13,18,11,7,4,3,34,13,21,2,0.91,0.17,0.75,0.95,0.56,121,84,543
+Wylan Cyprien,25,Ligue 1,Midfielder,Nice,1774,974,800,20,11,9,7,4,3,3,5,25,11,14,3,0.51,0.15,0.36,0.37,0.34,253,89,591
+Xavier Chavalerin,29,Ligue 1,Midfielder,Reims,2148,1080,1068,24,12,12,1,1,0,3,0,17,7,10,6,0.17,0.13,0.04,0.08,0,2148,90,716
+Xeka,26,Ligue 1,Midfielder,Lille,706,380,326,17,9,8,0,0,0,0,0,8,2,6,4,0,0,0,0,0,0,42,0
+Yacine Adli,20,Ligue 1,Midfielder,Bordeaux,1018,438,580,21,9,12,3,0,3,3,0,9,3,6,3,0.53,0.27,0.27,0,0.47,339,48,339
+Yann Gboho,19,Ligue 1,Midfielder,Rennes,222,119,103,8,4,4,1,1,0,1,0,3,2,1,1,0.81,0.41,0.41,0.76,0,222,28,222
+Yann M'Vila,30,Ligue 1,Midfielder,Saint-Étienne,1941,872,1069,23,11,12,0,0,0,2,0,34,13,21,1,0.09,0.09,0,0,0,0,84,971
+Yannis Clementia,23,Ligue 1,Goalkeeper,Nice,180,90,90,2,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,90,0
+Yassine Benrahou,21,Ligue 1,Midfielder,Nîmes,929,562,367,15,8,7,2,2,0,5,0,11,6,5,1,0.68,0.48,0.19,0.32,0,465,62,186
+Yassine Benzia,26,Ligue 1,Forward,Dijon,174,66,108,3,1,2,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,58,0
+Yaya Sanogo,27,Ligue 1,Forward,Toulouse,907,595,312,15,8,7,3,3,0,1,1,22,13,9,1,0.4,0.1,0.3,0.45,0,302,60,907
+Yehvann Diouf,21,Ligue 1,Goalkeeper,Reims,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yoan Cardinale,26,Ligue 1,Goalkeeper,Nice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yoann Court,30,Ligue 1,Forward,Brest,1472,698,774,23,12,11,3,2,1,7,0,21,5,16,6,0.61,0.43,0.18,0.26,0.12,491,64,210
+Yohan Cabaye,34,Ligue 1,Midfielder,Saint-Étienne,863,442,421,15,8,7,0,0,0,1,0,15,7,8,3,0.1,0.1,0,0,0,0,58,863
+Yohann Pelé,37,Ligue 1,Goalkeeper,Olympique Marseille,149,90,59,2,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,75,0
+Youcef Attal,24,Ligue 1,Defender,Nice,1006,504,502,13,7,6,1,1,0,1,0,16,5,11,5,0.18,0.09,0.09,0.18,0,1006,77,1006
+Youssef Aït Bennasser,24,Ligue 1,Midfielder,Bordeaux,534,293,241,12,5,7,0,0,0,1,0,5,2,3,1,0.17,0.17,0,0,0,0,45,534
+Youssouf Fofana,21,Ligue 1,Midfielder,Monaco,1622,658,964,20,9,11,1,1,0,2,0,18,5,13,1,0.17,0.11,0.06,0.14,0,1622,81,811
+Youssouf Koné,25,Ligue 1,Defender,Olympique Lyonnais,821,348,473,11,5,6,0,0,0,0,0,10,2,8,2,0,0,0,0,0,0,75,0
+Youssouf Sabaly,27,Ligue 1,Defender,Bordeaux,914,490,424,12,6,6,0,0,0,1,0,14,6,8,1,0.1,0.1,0,0,0,0,76,914
+Yunis Abdelhamid,33,Ligue 1,Defender,Reims,2520,1260,1260,28,14,14,3,2,1,0,0,19,7,12,0,0.11,0,0.11,0.14,0.07,840,90,0
+Yusuf Yazıcı,23,Ligue 1,Midfielder,Lille,843,476,367,18,9,9,1,1,0,4,1,7,1,6,2,0.53,0.43,0.11,0.19,0,843,47,211
+Yvann Macon,40,Ligue 1,Midfielder,Saint-Étienne,97,0,97,2,0,2,0,0,0,0,0,4,0,4,1,0,0,0,0,0,0,49,0
+Zaydou Youssouf,21,Ligue 1,Midfielder,Saint-Étienne,1072,476,596,16,7,9,0,0,0,0,0,15,5,10,4,0,0,0,0,0,0,67,0
+Zinedine Ferhat,27,Ligue 1,Midfielder,Nîmes,2249,1156,1093,26,13,13,3,2,1,4,0,41,14,27,1,0.28,0.16,0.12,0.16,0.08,750,87,562
+Zinédine Ould Khaled,20,Ligue 1,Defender,Angers SCO,60,60,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0

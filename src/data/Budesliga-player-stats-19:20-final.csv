@@ -1,0 +1,572 @@
+full_name,age,league,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,penalty_goals,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,goals_involved_per_90_overall,assists_per_90_overall,goals_per_90_overall,goals_per_90_home,goals_per_90_away,min_per_goal_overall,min_per_match,min_per_assist_overall
+Aaron Herzog,22,Bundesliga,Midfielder,Borussia M'gladbach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aarón Martín,23,Bundesliga,Defender,Mainz 05,1797,797,1000,22,9,13,0,0,0,0,0,48,20,28,2,0,0,0,0,0,0,82,0
+Abdelhamid Sabiri,23,Bundesliga,Midfielder,Paderborn,1037,580,457,24,12,12,4,3,1,1,1,23,14,9,6,0.43,0.09,0.35,0.47,0.2,259,43,1037
+Achraf Hakimi Mouh,22,Bundesliga,Defender,Borussia Dortmund,2715,1344,1371,33,17,16,5,0,5,10,0,34,11,23,5,0.5,0.33,0.17,0,0.33,543,82,272
+Adam Bodzek,35,Bundesliga,Defender,Fortuna Düsseldorf,2017,1002,1015,28,15,13,0,0,0,0,0,44,18,26,10,0,0,0,0,0,0,72,0
+Ádám Szalai,32,Bundesliga,Forward,Mainz 05,1139,692,447,27,14,13,1,1,0,1,0,20,8,12,1,0.16,0.08,0.08,0.13,0,1139,42,1139
+Ademola Lookman,23,Bundesliga,Forward,RB Leipzig,299,132,167,11,5,6,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,27,0
+Admir Mehmedi,29,Bundesliga,Forward,Wolfsburg,1205,558,647,21,10,11,2,2,0,2,0,14,8,6,0,0.3,0.15,0.15,0.32,0,603,57,603
+Adrian Oeynhausen,18,Bundesliga,Midfielder,Paderborn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adrian Stanilewicz,20,Bundesliga,Midfielder,Bayer Leverkusen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ahmed Kutucu,20,Bundesliga,Forward,Schalke 04,660,393,267,25,15,10,3,2,1,2,0,17,8,9,2,0.68,0.27,0.41,0.46,0.34,220,26,330
+Ahmet Gürleyen,21,Bundesliga,Defender,Mainz 05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Akaki Gogia,28,Bundesliga,Midfielder,Union Berlin,120,76,44,3,2,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,40,0
+Alaa Bakir,19,Bundesliga,Forward,Borussia Dortmund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alassane Pléa,27,Bundesliga,Forward,Borussia M'gladbach,2150,1082,1068,27,14,13,10,5,5,10,0,23,12,11,4,0.84,0.42,0.42,0.42,0.42,215,80,215
+Aleksandar Dragović,29,Bundesliga,Defender,Bayer Leverkusen,1027,515,512,15,8,7,0,0,0,0,0,17,11,6,7,0,0,0,0,0,0,68,0
+Alessandro Schöpf,26,Bundesliga,Midfielder,Schalke 04,1426,748,678,22,11,11,0,0,0,1,0,30,16,14,3,0.06,0.06,0,0,0,0,65,1426
+Alexander Esswein,30,Bundesliga,Midfielder,Hertha BSC,209,56,153,7,2,5,0,0,0,0,0,5,3,2,1,0,0,0,0,0,0,30,0
+Alexander Hack,27,Bundesliga,Defender,Mainz 05,802,335,467,14,6,8,0,0,0,0,0,26,6,20,2,0,0,0,0,0,0,57,0
+Alexander Nübel,24,Bundesliga,Goalkeeper,Schalke 04,2316,1146,1170,26,13,13,0,0,0,0,0,39,20,19,2,0,0,0,0,0,0,89,0
+Alexander Schwolow,28,Bundesliga,Goalkeeper,Freiburg,2093,1080,1013,24,12,12,0,0,0,0,0,29,12,17,0,0,0,0,0,0,0,87,0
+Alexandru Maxim,30,Bundesliga,Midfielder,Mainz 05,112,80,32,5,4,1,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,22,0
+Alfredo Morales,30,Bundesliga,Midfielder,Fortuna Düsseldorf,1726,682,1044,27,12,15,1,1,0,2,0,41,14,27,6,0.16,0.1,0.05,0.13,0,1726,64,863
+Alfreð Finnbogason,31,Bundesliga,Forward,Augsburg,961,555,406,21,11,10,3,3,0,1,1,15,11,4,1,0.37,0.09,0.28,0.49,0,320,46,961
+Almamy Touré,24,Bundesliga,Defender,Eintracht Frankfurt,1495,780,715,19,10,9,1,1,0,3,0,33,15,18,2,0.24,0.18,0.06,0.12,0,1495,79,498
+Alphonso Davies,20,Bundesliga,Midfielder,Bayern München,2233,1044,1189,29,14,15,3,3,0,5,0,20,8,12,4,0.32,0.2,0.12,0.26,0,744,77,447
+Álvaro Odriozola,24,Bundesliga,Defender,Bayern München,153,91,62,3,2,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,51,0
+Amadou Haidara,22,Bundesliga,Midfielder,RB Leipzig,743,349,394,19,10,9,0,0,0,1,0,10,5,5,1,0.12,0.12,0,0,0,0,39,743
+Amine Harit,23,Bundesliga,Midfielder,Schalke 04,2109,979,1130,25,12,13,6,1,5,4,1,36,16,20,3,0.43,0.17,0.26,0.09,0.4,352,84,527
+Amir Abrashi,30,Bundesliga,Midfielder,Freiburg,666,255,411,13,6,7,0,0,0,0,0,9,2,7,3,0,0,0,0,0,0,51,0
+André Hahn,30,Bundesliga,Forward,Augsburg,701,287,414,15,6,9,1,1,0,0,0,17,4,13,6,0.13,0,0.13,0.31,0,701,47,0
+Andre Hoffmann,27,Bundesliga,Midfielder,Fortuna Düsseldorf,2430,1147,1283,29,14,15,2,0,2,1,0,47,17,30,7,0.11,0.04,0.07,0,0.14,1215,84,2430
+André Silva,25,Bundesliga,Forward,Eintracht Frankfurt,1576,781,795,25,13,12,12,7,5,3,1,33,14,19,2,0.86,0.17,0.69,0.81,0.57,131,63,525
+Andreas Luthe,33,Bundesliga,Goalkeeper,Augsburg,900,450,450,10,5,5,0,0,0,0,0,9,6,3,0,0,0,0,0,0,0,90,0
+Andrej Kramarić,29,Bundesliga,Forward,Hoffenheim,1419,836,583,19,11,8,12,7,5,2,2,24,16,8,3,0.89,0.13,0.76,0.75,0.77,118,75,710
+Ante Rebić,27,Bundesliga,Forward,Eintracht Frankfurt,90,90,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,90,0
+Anthony Evans,22,Bundesliga,Midfielder,Paderborn,153,128,25,6,2,4,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,26,0
+Anthony Modeste,32,Bundesliga,Forward,Köln,1129,522,607,27,12,15,4,2,2,1,0,33,12,21,1,0.4,0.08,0.32,0.34,0.3,282,42,1129
+Anthony Ujah,30,Bundesliga,Forward,Union Berlin,945,655,290,24,12,12,3,3,0,2,0,15,7,8,0,0.48,0.19,0.29,0.41,0,315,39,473
+Arne Maier,21,Bundesliga,Midfielder,Hertha BSC,528,259,269,14,6,8,0,0,0,0,0,11,6,5,0,0,0,0,0,0,0,38,0
+Axel Witsel,31,Bundesliga,Midfielder,Borussia Dortmund,2245,1173,1072,28,15,13,4,2,2,5,0,32,13,19,4,0.36,0.2,0.16,0.15,0.17,561,80,449
+Ayman Azhil,19,Bundesliga,Midfielder,Bayer Leverkusen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aymen Barkok,22,Bundesliga,Midfielder,Fortuna Düsseldorf,78,9,69,3,1,2,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,26,0
+Babacar Gueye,25,Bundesliga,Forward,Paderborn,109,47,62,3,2,1,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,36,0
+Bas Dost,31,Bundesliga,Forward,Eintracht Frankfurt,1475,758,717,24,12,12,8,3,5,2,0,25,15,10,2,0.61,0.12,0.49,0.36,0.63,184,61,738
+Bastian Oczipka,31,Bundesliga,Defender,Schalke 04,3014,1484,1530,34,17,17,0,0,0,5,0,55,24,31,4,0.15,0.15,0,0,0,0,89,603
+Ben Zolinski,28,Bundesliga,Defender,Paderborn,1208,656,552,28,13,15,3,2,1,2,0,26,17,9,3,0.37,0.15,0.22,0.27,0.16,403,43,604
+Benito Raman,26,Bundesliga,Forward,Schalke 04,1610,862,748,25,13,12,4,2,2,3,0,29,16,13,2,0.39,0.17,0.22,0.21,0.24,403,64,537
+Benjamin Goller,21,Bundesliga,Midfielder,Werder Bremen,280,118,162,10,3,7,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,28,0
+Benjamin Hübner,31,Bundesliga,Defender,Hoffenheim,2075,993,1082,25,12,13,1,0,1,4,0,32,21,11,7,0.22,0.17,0.04,0,0.08,2075,83,519
+Benjamin Leneis,21,Bundesliga,Goalkeeper,Augsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Benjamin Pavard,24,Bundesliga,Defender,Bayern München,2790,1412,1378,32,16,16,4,3,1,4,0,27,13,14,5,0.26,0.13,0.13,0.19,0.07,698,87,698
+Benjamin Stambouli,30,Bundesliga,Midfielder,Schalke 04,810,450,360,9,5,4,0,0,0,0,0,8,4,4,2,0,0,0,0,0,0,90,0
+Benno Schmitz,25,Bundesliga,Defender,Köln,1159,567,592,18,10,8,0,0,0,0,0,23,12,11,1,0,0,0,0,0,0,64,0
+Bernard Tekpetey,23,Bundesliga,Forward,Fortuna Düsseldorf,448,152,296,9,4,5,0,0,0,1,0,10,2,8,4,0.2,0.2,0,0,0,0,50,448
+Birger Verstraete,26,Bundesliga,Midfielder,Köln,665,305,360,9,5,4,0,0,0,1,0,13,4,9,3,0.14,0.14,0,0,0,0,74,665
+Bote Baku,22,Bundesliga,Midfielder,Mainz 05,2350,1212,1138,30,16,14,1,0,1,3,0,53,25,28,6,0.15,0.11,0.04,0,0.08,2350,78,783
+Brandon Joel Gaetano Borrello,25,Bundesliga,Forward,Freiburg,299,139,160,7,3,4,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,43,0
+Breel Embolo,23,Bundesliga,Forward,Borussia M'gladbach,1551,739,812,28,14,14,8,6,2,5,0,15,8,7,4,0.75,0.29,0.46,0.73,0.22,194,55,310
+Can Bozdogan,19,Bundesliga,Midfielder,Schalke 04,236,69,167,3,1,2,0,0,0,0,0,6,0,6,2,0,0,0,0,0,0,79,0
+Carlos Armando Gruezo Arboleda,25,Bundesliga,Midfielder,Augsburg,888,457,431,11,6,5,0,0,0,1,0,16,9,7,3,0.1,0.1,0,0,0,0,81,888
+Cauly Oliveira Souza,25,Bundesliga,Midfielder,Paderborn,718,332,386,13,6,7,2,1,1,0,0,21,11,10,0,0.25,0,0.25,0.27,0.23,359,55,0
+Chang-Hoon Kwon,26,Bundesliga,Midfielder,Freiburg,664,355,309,23,12,11,2,0,2,0,0,5,2,3,0,0.27,0,0.27,0,0.58,332,29,0
+Charalambos Makridis,24,Bundesliga,Forward,Borussia M'gladbach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Charles Aránguiz,31,Bundesliga,Midfielder,Bayer Leverkusen,2123,1049,1074,27,13,14,1,0,1,3,0,26,15,11,2,0.17,0.13,0.04,0,0.08,2123,79,708
+Chinedu Ekene,21,Bundesliga,Forward,Hoffenheim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chris Führich,22,Bundesliga,Midfielder,Borussia Dortmund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chris Richards,20,Bundesliga,Defender,Bayern München,6,6,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+Christian Clemens,29,Bundesliga,Midfielder,Köln,15,0,15,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0
+Christian Gentner,35,Bundesliga,Midfielder,Union Berlin,2453,1277,1176,31,17,14,3,2,1,2,0,34,13,21,4,0.18,0.07,0.11,0.14,0.08,818,79,1227
+Christian Groß,31,Bundesliga,Midfielder,Werder Bremen,869,270,599,14,4,10,0,0,0,0,0,22,4,18,2,0,0,0,0,0,0,62,0
+Christian Günter,27,Bundesliga,Defender,Freiburg,3032,1518,1514,34,17,17,2,1,1,8,0,41,13,28,2,0.3,0.24,0.06,0.06,0.06,1516,89,379
+Christian Strohdiek,32,Bundesliga,Defender,Paderborn,1364,630,734,16,7,9,1,0,1,2,0,37,24,13,3,0.2,0.13,0.07,0,0.12,1364,85,682
+Christoph Baumgartner,21,Bundesliga,Midfielder,Hoffenheim,1495,857,638,26,14,12,7,4,3,2,0,27,23,4,3,0.54,0.12,0.42,0.42,0.42,214,58,748
+Christoph Kramer,29,Bundesliga,Midfielder,Borussia M'gladbach,1464,616,848,22,10,12,0,0,0,0,0,12,5,7,4,0,0,0,0,0,0,67,0
+Christopher Antwi-Adjej,26,Bundesliga,Midfielder,Paderborn,2472,1203,1269,34,17,17,1,0,1,2,0,58,35,23,2,0.11,0.07,0.04,0,0.07,2472,73,1236
+Christopher Lenz,26,Bundesliga,Defender,Union Berlin,2269,1080,1189,26,12,14,0,0,0,3,0,40,14,26,2,0.12,0.12,0,0,0,0,87,756
+Christopher Nkunku,23,Bundesliga,Midfielder,RB Leipzig,1926,964,962,32,16,16,5,2,3,13,0,16,9,7,2,0.84,0.61,0.23,0.19,0.28,385,60,148
+Christopher Trimmel,33,Bundesliga,Defender,Union Berlin,2864,1530,1334,32,17,15,0,0,0,8,0,48,18,30,6,0.25,0.25,0,0,0,0,90,358
+Claudio Miguel Pizarro Bossio,42,Bundesliga,Forward,Werder Bremen,216,171,45,18,11,7,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,12,0
+Connor Noß,19,Bundesliga,Forward,Borussia M'gladbach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Corentin Tolisso,26,Bundesliga,Midfielder,Bayern München,636,353,283,13,6,7,1,0,1,2,0,7,6,1,0,0.42,0.28,0.14,0,0.32,636,49,318
+Daichi Kamada,24,Bundesliga,Midfielder,Eintracht Frankfurt,1972,1046,926,28,14,14,2,1,1,4,0,38,21,17,5,0.27,0.18,0.09,0.09,0.1,986,70,493
+Daishawn Redan,19,Bundesliga,Forward,Hertha BSC,20,20,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,20,0
+Daley Sinkgraven,25,Bundesliga,Midfielder,Bayer Leverkusen,913,401,512,13,5,8,0,0,0,1,0,9,4,5,1,0.1,0.1,0,0,0,0,70,913
+Dan-Axel Zagadou,21,Bundesliga,Defender,Borussia Dortmund,978,411,567,15,7,8,1,0,1,1,0,12,3,9,1,0.18,0.09,0.09,0,0.16,978,65,978
+Dani Olmo,22,Bundesliga,Midfielder,RB Leipzig,753,327,426,12,6,6,3,0,3,1,0,4,1,3,1,0.48,0.12,0.36,0,0.63,251,63,753
+Daniel Baier,36,Bundesliga,Midfielder,Augsburg,1946,950,996,23,11,12,1,1,0,0,0,38,15,23,6,0.05,0,0.05,0.09,0,1946,85,0
+Daniel Brosinski,32,Bundesliga,Defender,Mainz 05,1701,886,815,26,13,13,2,1,1,4,1,28,14,14,3,0.32,0.21,0.11,0.1,0.11,851,65,425
+Daniel Caligiuri,32,Bundesliga,Midfielder,Schalke 04,2300,1200,1100,28,14,14,2,2,0,2,1,41,17,24,5,0.16,0.08,0.08,0.15,0,1150,82,1150
+Daniel Ginczek,29,Bundesliga,Forward,Wolfsburg,768,376,392,18,9,9,3,0,3,1,0,17,9,8,2,0.47,0.12,0.35,0,0.69,256,43,768
+Danny Latza,30,Bundesliga,Midfielder,Mainz 05,1374,631,743,23,10,13,0,0,0,2,0,24,8,16,7,0.13,0.13,0,0,0,0,60,687
+Danny Vieira da Costa,27,Bundesliga,Defender,Eintracht Frankfurt,1389,741,648,19,10,9,1,0,1,4,0,26,9,17,0,0.32,0.26,0.06,0,0.14,1389,73,347
+Darko Churlinov,20,Bundesliga,Midfielder,Köln,20,0,20,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+David Abraham,34,Bundesliga,Defender,Eintracht Frankfurt,1691,794,897,20,10,10,2,2,0,0,0,27,10,17,3,0.11,0,0.11,0.23,0,846,85,0
+David Alaba,28,Bundesliga,Defender,Bayern München,2498,1170,1328,28,13,15,1,1,0,1,0,22,11,11,0,0.07,0.04,0.04,0.08,0,2498,89,2498
+Davie Selke,25,Bundesliga,Forward,Werder Bremen,1415,802,613,30,15,15,1,1,0,1,0,27,16,11,6,0.13,0.06,0.06,0.11,0,1415,47,1415
+Davy Klaassen,27,Bundesliga,Midfielder,Werder Bremen,2941,1414,1527,33,16,17,7,1,6,5,1,62,29,33,7,0.37,0.15,0.21,0.06,0.35,420,89,588
+Dawid Kownacki,23,Bundesliga,Forward,Fortuna Düsseldorf,1090,562,528,20,11,9,0,0,0,0,0,24,9,15,4,0,0,0,0,0,0,55,0
+Dayot Upamecano,22,Bundesliga,Defender,RB Leipzig,2359,1129,1230,28,14,14,0,0,0,1,0,27,15,12,8,0.04,0.04,0,0,0,0,84,2359
+Dedryck Boyata,29,Bundesliga,Defender,Hertha BSC,2439,1279,1160,28,15,13,4,2,2,1,0,38,20,18,9,0.18,0.04,0.15,0.14,0.16,610,87,2439
+Dejan Joveljić,21,Bundesliga,Forward,Eintracht Frankfurt,149,52,97,4,2,2,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,37,0
+Denis Zakaria,23,Bundesliga,Midfielder,Borussia M'gladbach,1947,1026,921,23,12,11,2,2,0,2,0,21,11,10,7,0.18,0.09,0.09,0.18,0,974,85,974
+Dennis Borkowski,18,Bundesliga,Forward,RB Leipzig,8,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+Dennis Geiger,22,Bundesliga,Midfielder,Hoffenheim,1138,704,434,21,13,8,0,0,0,3,0,23,17,6,3,0.24,0.24,0,0,0,0,54,379
+Dennis Jastrzembski,20,Bundesliga,Forward,Paderborn,174,16,158,6,2,4,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,29,0
+Dennis Smarsch,21,Bundesliga,Goalkeeper,Hertha BSC,150,0,150,2,0,2,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,75,0
+Dennis Srbeny,26,Bundesliga,Forward,Paderborn,1127,536,591,17,8,9,5,4,1,1,0,26,18,8,2,0.48,0.08,0.4,0.67,0.15,225,66,1127
+Diego Contento,30,Bundesliga,Defender,Fortuna Düsseldorf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Diego Demme,28,Bundesliga,Midfielder,RB Leipzig,1212,574,638,17,8,9,0,0,0,0,0,15,7,8,3,0,0,0,0,0,0,71,0
+Djibril Sow,23,Bundesliga,Midfielder,Eintracht Frankfurt,1740,789,951,29,13,16,1,1,0,3,0,30,14,16,2,0.21,0.16,0.05,0.11,0,1740,60,580
+Dodi Lukebakio,23,Bundesliga,Midfielder,Hertha BSC,2043,994,1049,30,14,16,7,3,4,6,0,35,16,19,2,0.57,0.26,0.31,0.27,0.34,292,68,341
+Dominick Drexler,30,Bundesliga,Midfielder,Köln,1585,832,753,27,16,11,3,1,2,4,0,38,12,26,5,0.4,0.23,0.17,0.11,0.24,528,59,396
+Dominik Bilogrević,21,Bundesliga,Midfielder,Paderborn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dominik Kohr,26,Bundesliga,Midfielder,Eintracht Frankfurt,1448,763,685,26,13,13,0,0,0,3,0,29,15,14,6,0.19,0.19,0,0,0,0,56,483
+Dominique Heintz,27,Bundesliga,Defender,Freiburg,2434,1178,1256,28,14,14,0,0,0,1,0,32,9,23,2,0.04,0.04,0,0,0,0,87,2434
+Dong-Won Ji,29,Bundesliga,Midfielder,Mainz 05,100,0,100,4,0,4,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,25,0
+Edimilson Fernandes,24,Bundesliga,Midfielder,Mainz 05,1487,792,695,24,13,11,1,1,0,0,0,31,15,16,7,0.06,0,0.06,0.11,0,1487,62,0
+Edmond Fayçal Tapsoba,21,Bundesliga,Defender,Bayer Leverkusen,1057,545,512,14,7,7,0,0,0,0,0,20,12,8,2,0,0,0,0,0,0,76,0
+Eduard Löwen,23,Bundesliga,Defender,Augsburg,977,594,383,23,12,11,2,1,1,1,0,20,13,7,0,0.28,0.09,0.18,0.15,0.23,489,42,977
+Ellyes Skhiri,25,Bundesliga,Midfielder,Köln,2676,1414,1262,32,16,16,1,0,1,3,0,60,24,36,4,0.13,0.1,0.03,0,0.07,2676,84,892
+Elvis Rexhbecaj,23,Bundesliga,Midfielder,Köln,620,271,349,13,6,7,0,0,0,3,0,15,5,10,3,0.44,0.44,0,0,0,0,48,207
+Emil Forsberg,29,Bundesliga,Forward,RB Leipzig,1141,612,529,22,11,11,5,4,1,2,2,18,12,6,1,0.55,0.16,0.39,0.59,0.17,228,52,571
+Emre Can,26,Bundesliga,Midfielder,Borussia Dortmund,956,378,578,12,5,7,2,1,1,0,0,8,2,6,5,0.19,0,0.19,0.24,0.16,478,80,0
+Eric Oelschlägel,25,Bundesliga,Goalkeeper,Borussia Dortmund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Erik Durm,28,Bundesliga,Defender,Eintracht Frankfurt,511,246,265,9,3,6,0,0,0,0,0,7,5,2,0,0,0,0,0,0,0,57,0
+Erik Thommy,26,Bundesliga,Midfielder,Fortuna Düsseldorf,2264,1239,1025,34,17,17,6,4,2,4,0,44,23,21,3,0.4,0.16,0.24,0.29,0.18,377,67,566
+Ermin Bičakčić,30,Bundesliga,Defender,Hoffenheim,1172,535,637,21,9,12,2,1,1,0,0,20,11,9,0,0.15,0,0.15,0.17,0.14,586,56,0
+Ethan Ampadu,20,Bundesliga,Midfielder,RB Leipzig,78,68,10,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0
+Exequiel Palacios,22,Bundesliga,Midfielder,Bayer Leverkusen,177,113,64,3,2,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,59,0
+Fabian Giefer,30,Bundesliga,Goalkeeper,Augsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fabian Johnson,32,Bundesliga,Midfielder,Borussia M'gladbach,271,190,81,6,4,2,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,45,0
+Fabian Reese,22,Bundesliga,Forward,Schalke 04,86,0,86,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0
+Fabrice Hartmann,19,Bundesliga,Forward,RB Leipzig,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Famana Quizera,18,Bundesliga,Midfielder,Borussia M'gladbach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Felix Götze,22,Bundesliga,Defender,Augsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Felix Klaus,28,Bundesliga,Midfielder,Wolfsburg,669,307,362,23,10,13,0,0,0,1,0,7,2,5,1,0.13,0.13,0,0,0,0,29,669
+Felix Kroos,29,Bundesliga,Midfielder,Union Berlin,369,187,182,15,8,7,0,0,0,0,0,6,0,6,1,0,0,0,0,0,0,25,0
+Felix Uduokhai,23,Bundesliga,Defender,Augsburg,1961,777,1184,26,11,15,0,0,0,0,0,35,13,22,3,0,0,0,0,0,0,75,0
+Felix Wiedwald,30,Bundesliga,Goalkeeper,Eintracht Frankfurt,270,180,90,3,2,1,0,0,0,0,0,7,5,2,0,0,0,0,0,0,0,90,0
+Filip Kostić,28,Bundesliga,Midfielder,Eintracht Frankfurt,2959,1530,1429,33,17,16,4,4,0,11,0,55,25,30,4,0.46,0.33,0.12,0.24,0,740,90,269
+Fin Bartels,33,Bundesliga,Midfielder,Werder Bremen,327,197,130,14,9,5,0,0,0,0,0,9,6,3,2,0,0,0,0,0,0,23,0
+Finn Dahmen,22,Bundesliga,Goalkeeper,Mainz 05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Florian Baak,21,Bundesliga,Defender,Hertha BSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Florian Flecker,25,Bundesliga,Midfielder,Union Berlin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Florian Grillitsch,25,Bundesliga,Midfielder,Hoffenheim,2412,1180,1232,31,16,15,0,0,0,3,0,42,30,12,3,0.11,0.11,0,0,0,0,78,804
+Florian Hübner,29,Bundesliga,Defender,Union Berlin,849,360,489,11,4,7,0,0,0,0,0,12,4,8,2,0,0,0,0,0,0,77,0
+Florian Kainz,28,Bundesliga,Midfielder,Köln,1560,720,840,28,13,15,5,2,3,6,1,33,16,17,5,0.63,0.35,0.29,0.25,0.32,312,56,260
+Florian Kastenmeier,23,Bundesliga,Goalkeeper,Fortuna Düsseldorf,1530,810,720,17,9,8,0,0,0,0,0,27,12,15,0,0,0,0,0,0,0,90,0
+Florian Müller,23,Bundesliga,Goalkeeper,Mainz 05,1124,494,630,13,6,7,0,0,0,0,0,25,12,13,0,0,0,0,0,0,0,86,0
+Florian Neuhaus,23,Bundesliga,Midfielder,Borussia M'gladbach,2362,1088,1274,30,14,16,4,2,2,2,0,26,13,13,6,0.23,0.08,0.15,0.17,0.14,591,79,1181
+Florian Niederlechner,30,Bundesliga,Forward,Augsburg,2731,1314,1417,33,16,17,13,6,7,6,1,50,22,28,1,0.63,0.2,0.43,0.41,0.44,210,83,455
+Florian Wirtz,17,Bundesliga,Midfielder,Bayer Leverkusen,365,204,161,7,4,3,1,1,0,0,0,5,4,1,0,0.25,0,0.25,0.44,0,365,52,0
+Frederik Jäkel,19,Bundesliga,Defender,RB Leipzig,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frederik Rønnow,28,Bundesliga,Goalkeeper,Eintracht Frankfurt,810,360,450,9,4,5,0,0,0,0,0,13,4,9,0,0,0,0,0,0,0,90,0
+Fredrik Jensen,23,Bundesliga,Midfielder,Augsburg,455,273,182,10,4,6,1,0,1,0,0,12,5,7,0,0.2,0,0.2,0,0.49,455,46,0
+Gelson Fernandes,34,Bundesliga,Midfielder,Eintracht Frankfurt,779,412,367,11,5,6,0,0,0,0,0,15,4,11,5,0,0,0,0,0,0,71,0
+Georg Teigl,29,Bundesliga,Midfielder,Augsburg,109,11,98,3,1,2,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,36,0
+Gerrit Holtmann,25,Bundesliga,Midfielder,Paderborn,1065,486,579,24,11,13,1,0,1,0,0,19,9,10,2,0.08,0,0.08,0,0.16,1065,44,0
+Gian-Luca Itter,21,Bundesliga,Defender,Freiburg,32,4,28,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0
+Gian-Luca Waldschmidt,24,Bundesliga,Forward,Freiburg,1269,766,503,23,13,10,7,5,2,1,3,16,7,9,3,0.57,0.07,0.5,0.59,0.36,181,55,1269
+Giovanni Reyna,18,Bundesliga,Midfielder,Borussia Dortmund,343,143,200,15,7,8,0,0,0,1,0,6,4,2,2,0.26,0.26,0,0,0,0,23,343
+Gonçalo Mendes Paciencia,26,Bundesliga,Forward,Eintracht Frankfurt,1280,821,459,23,13,10,7,5,2,3,1,21,12,9,4,0.7,0.21,0.49,0.55,0.39,183,56,427
+Grischa Prömel,25,Bundesliga,Midfielder,Union Berlin,919,408,511,16,8,8,0,0,0,0,0,24,8,16,2,0,0,0,0,0,0,57,0
+Guido Burgstaller,31,Bundesliga,Forward,Schalke 04,1230,554,676,21,10,11,0,0,0,1,0,16,5,11,3,0.07,0.07,0,0,0,0,59,1230
+Hannes Wolf,21,Bundesliga,Midfielder,RB Leipzig,53,24,29,5,3,2,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,11,0
+Håvard Nordtveit,30,Bundesliga,Midfielder,Hoffenheim,698,308,390,11,4,7,0,0,0,1,0,15,10,5,2,0.13,0.13,0,0,0,0,63,698
+Iago Amaral Borduchi,23,Bundesliga,Defender,Augsburg,671,293,378,10,5,5,1,0,1,1,0,12,5,7,0,0.27,0.13,0.13,0,0.24,671,67,671
+Iba May,22,Bundesliga,Midfielder,Wolfsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ibrahima Konaté,21,Bundesliga,Defender,RB Leipzig,568,196,372,8,3,5,0,0,0,0,0,3,2,1,2,0,0,0,0,0,0,71,0
+Ibrahima Traoré,32,Bundesliga,Midfielder,Borussia M'gladbach,147,118,29,7,4,3,0,0,0,1,0,0,0,0,0,0.61,0.61,0,0,0,0,21,147
+Ihlas Bebou,26,Bundesliga,Forward,Hoffenheim,2095,1027,1068,32,15,17,6,3,3,1,0,35,25,10,1,0.3,0.04,0.26,0.26,0.25,349,65,2095
+Ilay Eliyau Elmkies,20,Bundesliga,Midfielder,Hoffenheim,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ilia Gruev,20,Bundesliga,Midfielder,Werder Bremen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ishak Belfodil,28,Bundesliga,Forward,Hoffenheim,269,118,151,5,2,3,0,0,0,0,0,5,4,1,0,0,0,0,0,0,0,54,0
+Ismail Azzaoui,22,Bundesliga,Midfielder,Wolfsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ismail Jakobs,21,Bundesliga,Defender,Köln,1679,913,766,20,11,9,2,1,1,2,0,37,13,24,4,0.21,0.11,0.11,0.1,0.12,840,84,840
+Ivan Perišić,31,Bundesliga,Midfielder,Bayern München,1202,728,474,22,12,10,4,2,2,3,0,11,7,4,1,0.52,0.22,0.3,0.25,0.38,301,55,401
+Jacob Bruun Larsen,22,Bundesliga,Forward,Hoffenheim,454,199,255,15,7,8,0,0,0,2,0,9,6,3,0,0.4,0.4,0,0,0,0,30,227
+Jadon Sancho,20,Bundesliga,Midfielder,Borussia Dortmund,2290,1121,1169,32,15,17,17,9,8,16,0,31,13,18,2,1.3,0.63,0.67,0.72,0.62,135,72,143
+Jakob Busk Jensen,27,Bundesliga,Goalkeeper,Union Berlin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jamal Musiala,17,Bundesliga,Midfielder,Bayern München,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Jamilu Collins,26,Bundesliga,Defender,Paderborn,2669,1350,1319,30,15,15,1,1,0,2,0,56,35,21,9,0.1,0.07,0.03,0.07,0,2669,89,1335
+Jan Morávek,31,Bundesliga,Midfielder,Augsburg,469,235,234,11,5,6,0,0,0,1,0,13,3,10,1,0.19,0.19,0,0,0,0,43,469
+Jan Thielmann,18,Bundesliga,Forward,Köln,557,310,247,12,7,5,0,0,0,1,0,10,1,9,2,0.16,0.16,0,0,0,0,46,557
+Jan Zimmermann,35,Bundesliga,Goalkeeper,Eintracht Frankfurt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jan-Luca Rumpf,21,Bundesliga,Defender,Paderborn,90,90,0,1,1,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,90,0
+Janik Haberer,26,Bundesliga,Midfielder,Freiburg,1723,777,946,26,12,14,2,0,2,2,0,26,10,16,5,0.21,0.1,0.1,0,0.19,862,66,862
+Jann-Fiete Arp,20,Bundesliga,Forward,Bayern München,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jannik Huth,26,Bundesliga,Goalkeeper,Paderborn,540,270,270,6,3,3,0,0,0,0,0,16,10,6,0,0,0,0,0,0,0,90,0
+Javairo Dilrosun,22,Bundesliga,Forward,Hertha BSC,1312,747,565,23,11,12,4,3,1,2,0,19,9,10,2,0.41,0.14,0.27,0.36,0.16,328,57,656
+Javi Martinez,32,Bundesliga,Midfielder,Bayern München,669,338,331,16,7,9,0,0,0,0,0,8,3,5,5,0,0,0,0,0,0,42,0
+Jean Zimmer,26,Bundesliga,Defender,Fortuna Düsseldorf,718,241,477,17,7,10,0,0,0,0,0,11,0,11,2,0,0,0,0,0,0,42,0
+Jean-Clair Todibo,20,Bundesliga,Midfielder,Schalke 04,364,189,175,8,3,5,0,0,0,0,0,7,3,4,2,0,0,0,0,0,0,46,0
+Jean-Paul Boëtius,26,Bundesliga,Forward,Mainz 05,2270,1079,1191,28,14,14,4,2,2,5,0,55,24,31,5,0.36,0.2,0.16,0.17,0.15,568,81,454
+Jean-Philippe Mateta,23,Bundesliga,Forward,Mainz 05,1056,619,437,18,11,7,3,1,2,1,1,17,11,6,2,0.34,0.09,0.26,0.15,0.41,352,59,1056
+Jeffrey Bruma,28,Bundesliga,Defender,Mainz 05,1486,766,720,17,9,8,0,0,0,0,0,20,9,11,4,0,0,0,0,0,0,87,0
+Jeffrey Gouweleeuw,29,Bundesliga,Defender,Augsburg,1642,825,817,21,10,11,0,0,0,1,0,32,16,16,5,0.05,0.05,0,0,0,0,78,1642
+Jeremiah St. Juste,24,Bundesliga,Defender,Mainz 05,2116,965,1151,25,11,14,2,2,0,2,0,43,21,22,7,0.17,0.09,0.09,0.19,0,1058,85,1058
+Jérôme Boateng,32,Bundesliga,Defender,Bayern München,1804,830,974,24,11,13,0,0,0,2,0,15,8,7,6,0.1,0.1,0,0,0,0,75,902
+Jérôme Gondorf,32,Bundesliga,Midfielder,Freiburg,122,60,62,2,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,61,0
+Jérôme Roussillon,27,Bundesliga,Defender,Wolfsburg,2367,1129,1238,29,14,15,1,0,1,1,0,35,18,17,4,0.08,0.04,0.04,0,0.07,2367,82,2367
+Jessic Ngankam,20,Bundesliga,Forward,Hertha BSC,81,0,81,4,0,4,0,0,0,1,0,2,0,2,0,1.11,1.11,0,0,0,0,20,81
+Jhon Cordoba,27,Bundesliga,Forward,Köln,2004,1174,830,29,17,12,13,11,2,2,0,40,18,22,5,0.67,0.09,0.58,0.84,0.22,154,69,1002
+Jiří Pavlenka,28,Bundesliga,Goalkeeper,Werder Bremen,2970,1530,1440,33,17,16,0,0,0,0,0,64,33,31,1,0,0,0,0,0,0,90,0
+João Victor Santos Sa,26,Bundesliga,Forward,Wolfsburg,1628,780,848,32,16,16,2,0,2,2,0,22,10,12,4,0.22,0.11,0.11,0,0.21,814,51,814
+Joel Pohjanpalo,26,Bundesliga,Forward,Bayer Leverkusen,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Johannes Eggestein,22,Bundesliga,Forward,Werder Bremen,504,311,193,14,8,6,1,1,0,0,0,12,9,3,3,0.18,0,0.18,0.29,0,504,36,0
+John Anthony Brooks,27,Bundesliga,Defender,Wolfsburg,2226,1064,1162,25,12,13,0,0,0,1,0,33,15,18,4,0.04,0.04,0,0,0,0,89,2226
+Jonas Carls,23,Bundesliga,Defender,Schalke 04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jonas Hector,30,Bundesliga,Defender,Köln,2435,1363,1072,29,16,13,4,1,3,2,0,52,24,28,9,0.22,0.07,0.15,0.07,0.25,609,84,1218
+Jonas Hofmann,28,Bundesliga,Midfielder,Borussia M'gladbach,1632,746,886,24,13,11,5,3,2,3,0,21,7,14,3,0.44,0.17,0.28,0.36,0.2,326,68,544
+Jonas Hofmann,23,Bundesliga,Midfielder,Schalke 04,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Jonas Hupe,20,Bundesliga,Goalkeeper,Borussia Dortmund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jonathan Burkardt,20,Bundesliga,Forward,Mainz 05,251,24,227,8,3,5,1,0,1,0,0,4,0,4,0,0.36,0,0.36,0,0.4,251,31,0
+Jonathan de Guzmán,33,Bundesliga,Midfielder,Eintracht Frankfurt,78,37,41,8,3,5,0,0,0,1,0,1,0,1,1,1.15,1.15,0,0,0,0,10,78
+Jonathan Meier,21,Bundesliga,Midfielder,Mainz 05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jonathan Schmid,30,Bundesliga,Midfielder,Freiburg,2839,1316,1523,33,16,17,5,3,2,1,0,39,11,28,1,0.19,0.03,0.16,0.21,0.12,568,86,2839
+Jonathan Tah,24,Bundesliga,Defender,Bayer Leverkusen,2090,1102,988,25,13,12,0,0,0,1,0,26,13,13,5,0.04,0.04,0,0,0,0,84,2090
+Jonjoe Kenny,23,Bundesliga,Defender,Schalke 04,2725,1396,1329,31,16,15,2,1,1,3,0,47,21,26,5,0.17,0.1,0.07,0.06,0.07,1363,88,908
+Jordan Torunarigha,23,Bundesliga,Defender,Hertha BSC,1460,720,740,18,8,10,1,0,1,1,0,25,12,13,3,0.12,0.06,0.06,0,0.12,1460,81,1460
+Jorge Meré Pérez,23,Bundesliga,Defender,Köln,614,177,437,11,4,7,1,0,1,0,0,11,3,8,5,0.15,0,0.15,0,0.21,614,56,0
+José Ángel Esmoris Tasende,23,Bundesliga,Defender,RB Leipzig,1095,564,531,13,7,6,1,0,1,2,0,8,5,3,2,0.25,0.16,0.08,0,0.17,1095,84,548
+Joshua Brenet,26,Bundesliga,Defender,Hoffenheim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joshua Kimmich,25,Bundesliga,Midfielder,Bayern München,2822,1507,1315,33,17,16,4,1,3,7,0,29,15,14,7,0.35,0.22,0.13,0.06,0.21,706,86,403
+Joshua Mees,24,Bundesliga,Midfielder,Union Berlin,312,211,101,15,9,6,0,0,0,1,0,1,0,1,1,0.29,0.29,0,0,0,0,21,312
+Joshua Sargent,20,Bundesliga,Forward,Werder Bremen,1418,626,792,28,14,14,4,3,1,2,0,21,10,11,2,0.38,0.13,0.25,0.43,0.11,355,51,709
+Joshua Zirkzee,19,Bundesliga,Forward,Bayern München,293,203,90,9,7,2,4,2,2,0,0,1,1,0,0,1.23,0,1.23,0.89,2,73,33,0
+Josip Brekalo,22,Bundesliga,Midfielder,Wolfsburg,1675,870,805,30,16,14,3,2,1,4,0,23,11,12,0,0.38,0.21,0.16,0.21,0.11,558,56,419
+Josuha Guilavogui,30,Bundesliga,Midfielder,Wolfsburg,2063,1061,1002,25,12,13,0,0,0,1,0,27,12,15,7,0.04,0.04,0,0,0,0,83,2063
+Jozo Stanic,21,Bundesliga,Defender,Augsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juan Miranda González,20,Bundesliga,Defender,Schalke 04,781,406,375,11,5,6,0,0,0,0,0,15,7,8,2,0,0,0,0,0,0,71,0
+Julian Baumgartlinger,32,Bundesliga,Midfielder,Bayer Leverkusen,1791,932,859,27,14,13,2,1,1,2,0,29,15,14,4,0.2,0.1,0.1,0.1,0.1,896,66,896
+Julian Brandt,24,Bundesliga,Midfielder,Borussia Dortmund,2210,1125,1085,33,16,17,3,2,1,7,0,30,11,19,0,0.41,0.29,0.12,0.16,0.08,737,67,316
+Julian Justvan,22,Bundesliga,Forward,Wolfsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Julian Krahl,20,Bundesliga,Goalkeeper,Köln,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Julian Rieckmann,20,Bundesliga,Defender,Werder Bremen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Julian Ryerson,22,Bundesliga,Defender,Union Berlin,357,121,236,14,7,7,0,0,0,0,0,7,1,6,2,0,0,0,0,0,0,26,0
+Julian Schieber,31,Bundesliga,Forward,Augsburg,41,41,0,2,2,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,21,0
+Julian Weigl,25,Bundesliga,Midfielder,Borussia Dortmund,1021,552,469,13,7,6,1,1,0,0,0,17,9,8,4,0.09,0,0.09,0.16,0,1021,79,0
+Julius Kade,21,Bundesliga,Midfielder,Union Berlin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jürgen Locadia,27,Bundesliga,Forward,Hoffenheim,526,347,179,11,8,3,4,2,2,0,1,8,6,2,1,0.68,0,0.68,0.52,1.01,132,48,0
+Kaan Ayhan,26,Bundesliga,Defender,Fortuna Düsseldorf,2733,1523,1210,31,17,14,2,1,1,3,0,51,26,25,10,0.16,0.1,0.07,0.06,0.07,1367,88,911
+Kaan Kurt,18,Bundesliga,Midfielder,Borussia M'gladbach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kai Havertz,21,Bundesliga,Midfielder,Bayer Leverkusen,2462,1119,1343,30,14,16,12,4,8,6,1,34,14,20,3,0.66,0.22,0.44,0.32,0.54,205,82,410
+Kai Pröger,28,Bundesliga,Midfielder,Paderborn,2078,1055,1023,31,16,15,2,2,0,6,0,43,26,17,0,0.35,0.26,0.09,0.17,0,1039,67,346
+Karim Bellarabi,30,Bundesliga,Midfielder,Bayer Leverkusen,1426,852,574,26,13,13,4,1,3,6,0,20,11,9,2,0.63,0.38,0.25,0.11,0.47,357,55,238
+Karim Onisiwo,28,Bundesliga,Midfielder,Mainz 05,1722,810,912,32,16,16,4,3,1,6,0,32,11,21,3,0.52,0.31,0.21,0.33,0.1,431,54,287
+Karim Rekik,25,Bundesliga,Defender,Hertha BSC,1260,630,630,14,7,7,1,0,1,0,0,27,15,12,0,0.07,0,0.07,0,0.14,1260,90,0
+Kasim Adams Nuhu,25,Bundesliga,Defender,Fortuna Düsseldorf,998,358,640,13,5,8,1,0,1,0,0,27,7,20,0,0.09,0,0.09,0,0.14,998,77,0
+Keanan Bennetts,21,Bundesliga,Midfielder,Borussia M'gladbach,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kelvin Ofori,19,Bundesliga,Midfielder,Fortuna Düsseldorf,35,24,11,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0
+Ken Reichel,33,Bundesliga,Defender,Union Berlin,534,270,264,7,3,4,0,0,0,0,0,9,2,7,0,0,0,0,0,0,0,76,0
+Kenan Karaman,26,Bundesliga,Forward,Fortuna Düsseldorf,1358,735,623,20,10,10,6,3,3,1,0,21,9,12,4,0.46,0.07,0.4,0.37,0.43,226,68,1358
+Kerem Demirbay,27,Bundesliga,Midfielder,Bayer Leverkusen,1576,653,923,25,13,12,1,0,1,5,0,22,10,12,4,0.34,0.29,0.06,0,0.1,1576,63,315
+Keven Schlotterbeck,23,Bundesliga,Defender,Union Berlin,1942,1080,862,23,12,11,0,0,0,0,0,33,12,21,7,0,0,0,0,0,0,84,0
+Kevin Akpoguma,25,Bundesliga,Defender,Hoffenheim,1137,624,513,18,10,8,0,0,0,0,0,19,12,7,2,0,0,0,0,0,0,63,0
+Kevin Kampl,30,Bundesliga,Midfielder,RB Leipzig,677,352,325,11,5,6,2,1,1,2,0,4,4,0,1,0.53,0.27,0.27,0.26,0.28,339,62,339
+Kevin Mbabu,25,Bundesliga,Defender,Wolfsburg,1695,795,900,20,10,10,3,2,1,1,0,29,13,16,4,0.21,0.05,0.16,0.23,0.1,565,85,1695
+Kevin Möhwald,27,Bundesliga,Midfielder,Werder Bremen,73,0,73,1,0,1,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,73,0
+Kevin Stöger,27,Bundesliga,Forward,Fortuna Düsseldorf,1268,736,532,17,9,8,0,0,0,4,0,22,11,11,3,0.28,0.28,0,0,0,0,75,317
+Kevin Trapp,30,Bundesliga,Goalkeeper,Eintracht Frankfurt,1980,990,990,22,11,11,0,0,0,0,0,38,16,22,1,0,0,0,0,0,0,90,0
+Kevin Vogt,29,Bundesliga,Midfielder,Werder Bremen,2073,1106,967,25,13,12,0,0,0,0,0,35,23,12,5,0,0,0,0,0,0,83,0
+Kevin Volland,28,Bundesliga,Forward,Bayer Leverkusen,2051,1032,1019,27,14,13,10,7,3,7,0,27,14,13,3,0.75,0.31,0.44,0.61,0.26,205,76,293
+Khiry Shelton,27,Bundesliga,Forward,Paderborn,31,31,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0
+Kingsley Coman,24,Bundesliga,Forward,Bayern München,1507,635,872,24,12,12,4,1,3,3,0,16,7,9,2,0.42,0.18,0.24,0.14,0.31,377,63,502
+Kingsley Ehizibue,25,Bundesliga,Forward,Köln,2337,1132,1205,31,15,16,1,1,0,1,0,44,12,32,7,0.08,0.04,0.04,0.08,0,2337,75,2337
+Kingsley Schindler,27,Bundesliga,Midfielder,Köln,850,301,549,13,6,7,0,0,0,2,0,22,7,15,0,0.21,0.21,0,0,0,0,65,425
+Klaus Gjasula,30,Bundesliga,Midfielder,Paderborn,2296,1115,1181,29,14,15,2,1,1,1,0,49,29,20,17,0.12,0.04,0.08,0.08,0.08,1148,79,2296
+Koen Casteels,28,Bundesliga,Goalkeeper,Wolfsburg,2340,1170,1170,26,13,13,0,0,0,0,0,36,18,18,1,0,0,0,0,0,0,90,0
+Konrad Laimer,23,Bundesliga,Midfielder,RB Leipzig,2123,1017,1106,29,14,15,2,2,0,6,0,21,11,10,8,0.34,0.25,0.08,0.18,0,1062,73,354
+Konstantinos Stafylidis,26,Bundesliga,Defender,Hoffenheim,396,262,134,7,4,3,1,1,0,0,0,8,7,1,0,0.23,0,0.23,0.34,0,396,57,0
+Krzysztof Piątek,25,Bundesliga,Forward,Hertha BSC,907,489,418,15,8,7,4,2,2,1,2,20,12,8,2,0.5,0.1,0.4,0.37,0.43,227,60,907
+Kwasi Okyere Wriedt,26,Bundesliga,Forward,Bayern München,13,13,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Lars Bender,31,Bundesliga,Midfielder,Bayer Leverkusen,1375,719,656,18,10,8,2,2,0,1,0,21,8,13,3,0.2,0.07,0.13,0.25,0,688,76,1375
+Lars Lukas Mai,20,Bundesliga,Defender,Bayern München,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lars Stindl,32,Bundesliga,Forward,Borussia M'gladbach,1434,826,608,25,12,13,9,3,6,3,2,17,9,8,4,0.75,0.19,0.56,0.33,0.89,159,57,478
+Lasse Sobiech,29,Bundesliga,Defender,Köln,90,0,90,1,0,1,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,90,0
+László Bénes,23,Bundesliga,Midfielder,Borussia M'gladbach,890,599,291,22,12,10,0,0,0,4,0,12,8,4,3,0.4,0.4,0,0,0,0,40,223
+Laurent Jans,28,Bundesliga,Defender,Paderborn,1578,659,919,22,11,11,0,0,0,1,0,32,18,14,2,0.06,0.06,0,0,0,0,72,1578
+Lazar Samardžić,18,Bundesliga,Midfielder,Hertha BSC,32,30,2,3,2,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,11,0
+Leandro Barreiro Martins,20,Bundesliga,Midfielder,Mainz 05,938,546,392,18,8,10,0,0,0,2,0,15,8,7,4,0.19,0.19,0,0,0,0,52,469
+Leon Bailey Butler,23,Bundesliga,Forward,Bayer Leverkusen,1106,524,582,22,11,11,5,2,3,3,0,17,7,10,2,0.65,0.24,0.41,0.34,0.46,221,50,369
+Leon Dajaku,19,Bundesliga,Forward,Bayern München,10,0,10,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+Leon Goretzka,25,Bundesliga,Midfielder,Bayern München,1513,779,734,24,11,13,6,4,2,5,0,11,7,4,2,0.65,0.3,0.36,0.46,0.25,252,63,303
+Leonardo Balerdi Rossa,21,Bundesliga,Defender,Borussia Dortmund,128,109,19,7,4,3,0,0,0,0,0,4,4,0,1,0,0,0,0,0,0,18,0
+Leonardo Bittencourt,26,Bundesliga,Midfielder,Werder Bremen,1901,888,1013,29,15,14,4,0,4,2,0,46,23,23,7,0.28,0.09,0.19,0,0.36,475,66,951
+Leopold Zingerle,26,Bundesliga,Goalkeeper,Paderborn,2520,1260,1260,28,14,14,0,0,0,0,0,54,33,21,1,0,0,0,0,0,0,90,0
+Levin Oztunali,24,Bundesliga,Midfielder,Mainz 05,1778,933,845,27,14,13,4,2,2,3,0,39,18,21,1,0.35,0.15,0.2,0.19,0.21,445,66,593
+Lewis Baker,25,Bundesliga,Midfielder,Fortuna Düsseldorf,548,261,287,8,4,4,0,0,0,0,0,13,6,7,1,0,0,0,0,0,0,69,0
+Lino Kasten,19,Bundesliga,Goalkeeper,Wolfsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lino Tempelmann,21,Bundesliga,Midfielder,Freiburg,34,34,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0
+Louis Jordan Beyer,20,Bundesliga,Defender,Borussia M'gladbach,107,44,63,3,1,2,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,36,0
+Louis Schaub,25,Bundesliga,Midfielder,Köln,626,240,386,9,4,5,1,1,0,1,0,10,2,8,0,0.29,0.14,0.14,0.38,0,626,70,626
+Luc Ihorst,20,Bundesliga,Forward,Werder Bremen,10,10,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,10,0
+Luca Horn,21,Bundesliga,Defender,Wolfsburg,5,5,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+Luca Jannis Kilian,21,Bundesliga,Defender,Paderborn,1261,736,525,15,9,6,0,0,0,0,0,28,15,13,1,0,0,0,0,0,0,84,0
+Luca Netz,17,Bundesliga,Defender,Hertha BSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Plogmann,20,Bundesliga,Goalkeeper,Werder Bremen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Unbehaun,19,Bundesliga,Goalkeeper,Borussia Dortmund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucas Alario,28,Bundesliga,Forward,Bayer Leverkusen,1165,702,463,24,12,12,7,6,1,1,1,19,12,7,6,0.62,0.08,0.54,0.77,0.19,166,49,1165
+Lucas Hernández Pi,24,Bundesliga,Defender,Bayern München,915,513,402,19,9,10,0,0,0,1,0,9,5,4,3,0.1,0.1,0,0,0,0,48,915
+Lucas Höler,26,Bundesliga,Forward,Freiburg,2495,1255,1240,34,17,17,8,3,5,2,0,36,11,25,4,0.36,0.07,0.29,0.22,0.36,312,73,1248
+Lucas Ribeiro dos Santos,21,Bundesliga,Defender,Hoffenheim,63,60,3,2,1,1,1,0,1,0,0,3,3,0,1,1.43,0,1.43,0,30,63,32,0
+Lucas Torró Marset,26,Bundesliga,Midfielder,Eintracht Frankfurt,331,48,283,7,2,5,0,0,0,0,0,6,1,5,5,0,0,0,0,0,0,47,0
+Ludwig Augustinsson,26,Bundesliga,Defender,Werder Bremen,924,464,460,12,6,6,0,0,0,1,0,24,11,13,2,0.1,0.1,0,0,0,0,77,924
+Luis Klatte,20,Bundesliga,Goalkeeper,Hertha BSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lukáš Hrádecký,30,Bundesliga,Goalkeeper,Bayer Leverkusen,3060,1530,1530,34,17,17,0,0,0,0,0,43,22,21,1,0,0,0,0,0,0,90,0
+Lukas Klostermann,24,Bundesliga,Defender,RB Leipzig,2647,1322,1325,31,16,15,3,2,1,1,0,25,15,10,1,0.14,0.03,0.1,0.14,0.07,882,85,2647
+Lukas Klünter,24,Bundesliga,Defender,Hertha BSC,1875,975,900,23,13,10,0,0,0,2,0,36,19,17,5,0.1,0.1,0,0,0,0,82,938
+Lukas Kübler,28,Bundesliga,Defender,Freiburg,211,209,2,5,3,2,0,0,0,0,0,3,3,0,1,0,0,0,0,0,0,42,0
+Lukas Nmecha,21,Bundesliga,Forward,Wolfsburg,127,45,82,6,4,2,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,21,0
+Lukas Rupp,29,Bundesliga,Midfielder,Hoffenheim,341,159,182,7,4,3,0,0,0,0,0,6,2,4,0,0,0,0,0,0,0,49,0
+Mads Pedersen,24,Bundesliga,Defender,Augsburg,95,0,95,2,0,2,0,0,0,1,0,5,0,5,0,0.95,0.95,0,0,0,0,48,95
+Maduka Okoye,21,Bundesliga,Goalkeeper,Fortuna Düsseldorf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mahmoud Dahoud,24,Bundesliga,Midfielder,Borussia Dortmund,557,403,154,12,8,4,0,0,0,1,0,8,6,2,1,0.16,0.16,0,0,0,0,46,557
+Makoto Hasebe,36,Bundesliga,Midfielder,Eintracht Frankfurt,1966,1156,810,23,14,9,0,0,0,0,0,36,19,17,3,0,0,0,0,0,0,85,0
+Malick Thiaw,19,Bundesliga,Midfielder,Schalke 04,72,21,51,4,2,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,18,0
+Mamadou Doucouré,22,Bundesliga,Defender,Borussia M'gladbach,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mamoudou Karamoko,21,Bundesliga,Forward,Wolfsburg,8,8,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+Manuel Akanji,25,Bundesliga,Defender,Borussia Dortmund,2306,1124,1182,29,13,16,0,0,0,1,0,31,8,23,2,0.04,0.04,0,0,0,0,80,2306
+Manuel Gulde,29,Bundesliga,Defender,Freiburg,1373,580,793,17,8,9,1,0,1,0,0,22,6,16,0,0.07,0,0.07,0,0.11,1373,81,0
+Manuel Neuer,34,Bundesliga,Goalkeeper,Bayern München,2970,1440,1530,33,16,17,0,0,0,0,0,29,14,15,0,0,0,0,0,0,0,90,0
+Manuel Pherai,19,Bundesliga,Midfielder,Borussia Dortmund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manuel Schmiedebach,31,Bundesliga,Midfielder,Union Berlin,178,178,0,5,5,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,36,0
+Marcel Halstenberg,29,Bundesliga,Defender,RB Leipzig,2522,1359,1163,29,16,13,3,1,2,3,0,23,16,7,6,0.21,0.11,0.11,0.07,0.15,841,87,841
+Marcel Risse,30,Bundesliga,Midfielder,Köln,127,86,41,6,4,2,0,0,0,2,0,1,0,1,1,1.42,1.42,0,0,0,0,21,64
+Marcel Sabitzer,26,Bundesliga,Midfielder,RB Leipzig,2507,1219,1288,32,16,16,9,3,6,7,0,23,15,8,4,0.57,0.25,0.32,0.22,0.42,279,78,358
+Marcel Schmelzer,32,Bundesliga,Defender,Borussia Dortmund,59,39,20,7,3,4,1,0,1,1,0,1,0,1,0,3.05,1.53,1.53,0,4.5,59,8,59
+Marcel Sobottka,26,Bundesliga,Midfielder,Fortuna Düsseldorf,698,359,339,18,9,9,0,0,0,1,0,13,5,8,2,0.13,0.13,0,0,0,0,39,698
+Marcel Tisserand,27,Bundesliga,Defender,Wolfsburg,1206,540,666,15,6,9,1,0,1,1,0,14,4,10,8,0.15,0.07,0.07,0,0.14,1206,80,1206
+Marcelo Josemir Saracchi Pintos,22,Bundesliga,Midfielder,RB Leipzig,176,98,78,4,2,2,1,0,1,0,0,3,1,2,1,0.51,0,0.51,0,1.15,176,44,0
+Marco Friedl,22,Bundesliga,Defender,Werder Bremen,2185,1047,1138,27,12,15,1,0,1,3,0,45,22,23,9,0.16,0.12,0.04,0,0.08,2185,81,728
+Marco Höger,31,Bundesliga,Midfielder,Köln,672,169,503,15,6,9,0,0,0,0,0,23,6,17,2,0,0,0,0,0,0,45,0
+Marco Rente,23,Bundesliga,Midfielder,Borussia Dortmund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marco Reus,31,Bundesliga,Forward,Borussia Dortmund,1502,780,722,19,10,9,11,10,1,5,1,24,10,14,1,0.96,0.3,0.66,1.15,0.12,137,79,300
+Marco Richter,22,Bundesliga,Forward,Augsburg,2288,1153,1135,31,16,15,4,4,0,3,0,39,21,18,2,0.28,0.12,0.16,0.31,0,572,74,763
+Marco Russ,35,Bundesliga,Defender,Eintracht Frankfurt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcus Ingvartsen,24,Bundesliga,Forward,Union Berlin,1725,794,931,28,12,16,5,3,2,2,1,26,6,20,4,0.37,0.1,0.26,0.34,0.19,345,62,863
+Marcus Schubert,22,Bundesliga,Goalkeeper,Schalke 04,741,381,360,9,5,4,0,0,0,0,0,17,5,12,0,0,0,0,0,0,0,82,0
+Marcus Thuram,23,Bundesliga,Forward,Borussia M'gladbach,2217,1076,1141,31,15,16,10,7,3,8,0,24,14,10,3,0.73,0.32,0.41,0.59,0.24,222,72,277
+Marek Suchý,32,Bundesliga,Defender,Augsburg,395,170,225,7,3,4,0,0,0,0,0,12,5,7,1,0,0,0,0,0,0,56,0
+Marijan Ćavar,22,Bundesliga,Midfielder,Eintracht Frankfurt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mario Götze,28,Bundesliga,Midfielder,Borussia Dortmund,515,187,328,15,7,8,3,2,1,0,1,8,2,6,0,0.52,0,0.52,0.96,0.27,172,34,0
+Marius Bülter,27,Bundesliga,Midfielder,Union Berlin,2332,1090,1242,32,17,15,7,4,3,1,0,44,17,27,1,0.31,0.04,0.27,0.33,0.22,333,73,2332
+Marius Wolf,25,Bundesliga,Midfielder,Hertha BSC,1410,791,619,21,12,9,1,1,0,3,0,31,21,10,3,0.26,0.19,0.06,0.11,0,1410,67,470
+Mark Flekken,27,Bundesliga,Goalkeeper,Freiburg,900,450,450,10,5,5,0,0,0,0,0,11,1,10,0,0,0,0,0,0,0,90,0
+Mark Uth,29,Bundesliga,Forward,Köln,1521,706,815,23,10,13,5,2,3,5,1,33,14,19,5,0.59,0.3,0.3,0.25,0.33,304,66,304
+Marko Grujić,24,Bundesliga,Midfielder,Hertha BSC,2422,1145,1277,29,14,15,4,0,4,1,0,43,22,21,9,0.19,0.04,0.15,0,0.28,606,84,2422
+Markus Suttner,33,Bundesliga,Defender,Fortuna Düsseldorf,1340,746,594,21,12,9,0,0,0,1,0,22,13,9,3,0.07,0.07,0,0,0,0,64,1340
+Marlon Ritter,26,Bundesliga,Forward,Paderborn,429,191,238,11,5,6,0,0,0,1,0,9,5,4,3,0.21,0.21,0,0,0,0,39,429
+Martin Harnik,33,Bundesliga,Forward,Werder Bremen,7,3,4,2,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,4,0
+Martin Hinteregger,28,Bundesliga,Defender,Eintracht Frankfurt,2721,1461,1260,31,17,14,8,4,4,1,0,52,24,28,8,0.3,0.03,0.26,0.25,0.29,340,88,2721
+Márton Dárdai,18,Bundesliga,Defender,Hertha BSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marvin Friedrich,24,Bundesliga,Defender,Union Berlin,2790,1440,1350,31,16,15,2,1,1,0,0,50,16,34,11,0.06,0,0.06,0.06,0.07,1395,90,0
+Marvin Plattenhardt,28,Bundesliga,Defender,Hertha BSC,1399,810,589,17,9,8,0,0,0,5,0,24,14,10,1,0.32,0.32,0,0,0,0,82,280
+Marwin Hitz,33,Bundesliga,Goalkeeper,Borussia Dortmund,289,199,90,4,3,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,72,0
+Mateu Jaume Morey Bauzà,20,Bundesliga,Defender,Borussia Dortmund,195,114,81,5,3,2,0,0,0,1,0,4,4,0,0,0.46,0.46,0,0,0,0,39,195
+Matheus Santos Carneiro Da Cunha,21,Bundesliga,Forward,Hertha BSC,1019,373,646,21,9,12,5,3,2,1,0,15,6,9,3,0.53,0.09,0.44,0.72,0.28,204,49,1019
+Mathew Leckie,29,Bundesliga,Midfielder,Hertha BSC,189,41,148,7,4,3,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,27,0
+Mathias Jattah-Njie Jørgensen,30,Bundesliga,Defender,Fortuna Düsseldorf,495,133,362,9,3,6,0,0,0,1,0,15,5,10,1,0.18,0.18,0,0,0,0,55,495
+Matija Nastasić,27,Bundesliga,Defender,Schalke 04,1364,644,720,16,8,8,0,0,0,0,0,28,13,15,2,0,0,0,0,0,0,85,0
+Mats Hummels,31,Bundesliga,Defender,Borussia Dortmund,2586,1216,1370,31,14,17,1,0,1,3,0,36,15,21,8,0.14,0.1,0.03,0,0.07,2586,83,862
+Matthias Bader,23,Bundesliga,Defender,Köln,11,0,11,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0
+Matthias Ginter,26,Bundesliga,Defender,Borussia M'gladbach,2781,1341,1440,31,15,16,1,1,0,1,0,29,13,16,2,0.06,0.03,0.03,0.07,0,2781,90,2781
+Matthias Zimmermann,28,Bundesliga,Midfielder,Fortuna Düsseldorf,2925,1484,1441,34,17,17,1,0,1,2,0,61,26,35,4,0.09,0.06,0.03,0,0.06,2925,86,1463
+Maurice Covic,22,Bundesliga,Midfielder,Hertha BSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maurice Malone,20,Bundesliga,Forward,Augsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Max Grün,33,Bundesliga,Goalkeeper,Borussia M'gladbach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maximilian Arnold,26,Bundesliga,Midfielder,Wolfsburg,2826,1356,1470,33,16,17,4,2,2,8,0,41,20,21,8,0.38,0.25,0.13,0.13,0.12,707,86,353
+Maximilian Beier,18,Bundesliga,Forward,Hoffenheim,103,44,59,6,1,5,0,0,0,0,0,3,3,0,1,0,0,0,0,0,0,17,0
+Maximilian Eggestein,23,Bundesliga,Midfielder,Werder Bremen,2856,1416,1440,32,16,16,1,0,1,3,0,62,30,32,6,0.13,0.09,0.03,0,0.06,2856,89,952
+Maximilian Mittelstädt,23,Bundesliga,Defender,Hertha BSC,1882,878,1004,26,13,13,1,1,0,3,0,34,18,16,4,0.19,0.14,0.05,0.1,0,1882,72,627
+Melayro Bogarde,18,Bundesliga,Midfielder,Hoffenheim,51,0,51,2,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,26,0
+Michael Esser,32,Bundesliga,Goalkeeper,Hoffenheim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Gregoritsch,26,Bundesliga,Forward,Schalke 04,1135,491,644,20,9,11,1,1,0,1,0,26,10,16,2,0.16,0.08,0.08,0.18,0,1135,57,1135
+Michael Lang,29,Bundesliga,Defender,Werder Bremen,542,260,282,9,3,6,0,0,0,0,0,18,9,9,0,0,0,0,0,0,0,60,0
+Michael Langer,35,Bundesliga,Goalkeeper,Schalke 04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Parensen,34,Bundesliga,Midfielder,Union Berlin,627,189,438,9,3,6,1,0,1,0,0,10,0,10,4,0.14,0,0.14,0,0.21,627,70,0
+Michael Ratajczak,38,Bundesliga,Goalkeeper,Paderborn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Michael Rensing,36,Bundesliga,Goalkeeper,Fortuna Düsseldorf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mickaël Cuisance,21,Bundesliga,Midfielder,Bayern München,302,204,98,9,6,3,1,0,1,0,0,2,2,0,1,0.3,0,0.3,0,0.92,302,34,0
+Mijat Gaćinović,25,Bundesliga,Midfielder,Eintracht Frankfurt,1048,453,595,23,12,11,0,0,0,1,0,14,3,11,2,0.09,0.09,0,0,0,0,46,1048
+Mike Frantz,34,Bundesliga,Midfielder,Freiburg,339,160,179,18,8,10,0,0,0,1,0,2,1,1,2,0.27,0.27,0,0,0,0,19,339
+Milos Veljkovic,25,Bundesliga,Midfielder,Werder Bremen,2055,1153,902,24,13,11,0,0,0,1,0,44,22,22,7,0.04,0.04,0,0,0,0,86,2055
+Milot Rashica,24,Bundesliga,Forward,Werder Bremen,2278,1127,1151,28,14,14,8,2,6,5,2,51,26,25,2,0.51,0.2,0.32,0.16,0.47,285,81,456
+Mitchell Weiser,26,Bundesliga,Midfielder,Bayer Leverkusen,1171,633,538,18,10,8,1,0,1,0,0,14,8,6,3,0.08,0,0.08,0,0.17,1171,65,0
+Mohamed Dräger,24,Bundesliga,Midfielder,Paderborn,1457,806,651,18,10,8,1,0,1,3,0,41,25,16,2,0.25,0.19,0.06,0,0.14,1457,81,486
+Moritz Nicolas,23,Bundesliga,Goalkeeper,Union Berlin,90,0,90,1,0,1,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,90,0
+Moussa Diaby,21,Bundesliga,Forward,Bayer Leverkusen,1767,829,938,28,12,16,5,3,2,5,0,28,15,13,3,0.51,0.25,0.25,0.33,0.19,353,63,353
+Moussa Niakhate,24,Bundesliga,Defender,Mainz 05,2970,1530,1440,33,17,16,1,0,1,2,0,56,28,28,7,0.09,0.06,0.03,0,0.06,2970,90,1485
+Munas Dabbur,28,Bundesliga,Forward,Hoffenheim,773,298,475,14,6,8,4,1,3,0,0,8,4,4,4,0.47,0,0.47,0.3,0.57,193,55,0
+Münir Mercan,19,Bundesliga,Midfielder,Schalke 04,68,68,0,5,4,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,14,0
+Nadiem Amiri,24,Bundesliga,Midfielder,Bayer Leverkusen,1861,875,986,30,15,15,1,1,0,2,0,25,16,9,3,0.15,0.1,0.05,0.1,0,1861,62,931
+Nana Opoku Ampomah,24,Bundesliga,Midfielder,Fortuna Düsseldorf,498,344,154,12,7,5,0,0,0,0,0,16,10,6,1,0,0,0,0,0,0,42,0
+Nassim Boujellab,21,Bundesliga,Forward,Schalke 04,414,160,254,11,5,6,0,0,0,0,0,9,1,8,2,0,0,0,0,0,0,38,0
+Neven Subotić,31,Bundesliga,Defender,Union Berlin,1972,975,997,23,11,12,1,1,0,0,0,37,13,24,3,0.05,0,0.05,0.09,0,1972,86,0
+Nick Woltemade,18,Bundesliga,Forward,Werder Bremen,89,31,58,5,4,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,18,0
+Niclas Füllkrug,27,Bundesliga,Forward,Werder Bremen,401,164,237,8,4,4,4,1,3,1,0,7,2,5,2,1.12,0.22,0.9,0.55,1.14,100,50,401
+Niclas Thiede,21,Bundesliga,Goalkeeper,Freiburg,67,0,67,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,67,0
+Nico Elvedi,24,Bundesliga,Defender,Borussia M'gladbach,2621,1418,1203,32,17,15,1,1,0,0,0,29,16,13,5,0.03,0,0.03,0.06,0,2621,82,0
+Nico Schlotterbeck,20,Bundesliga,Defender,Freiburg,365,215,150,13,8,5,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,28,0
+Nico Schulz,27,Bundesliga,Midfielder,Borussia Dortmund,592,260,332,11,6,5,1,0,1,0,0,11,4,7,0,0.15,0,0.15,0,0.27,592,54,0
+Nicolai Rapp,23,Bundesliga,Defender,Union Berlin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nicolas Höfler,30,Bundesliga,Midfielder,Freiburg,2785,1435,1350,32,17,15,1,1,0,0,0,37,12,25,9,0.03,0,0.03,0.06,0,2785,87,0
+Niklas Hauptmann,24,Bundesliga,Midfielder,Köln,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Niklas Klinger,25,Bundesliga,Goalkeeper,Wolfsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Niklas Lomb,27,Bundesliga,Goalkeeper,Bayer Leverkusen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Niklas Moisander,35,Bundesliga,Defender,Werder Bremen,1980,1080,900,22,12,10,0,0,0,0,0,38,23,15,5,0,0,0,0,0,0,90,0
+Niklas Stark,25,Bundesliga,Defender,Hertha BSC,1735,776,959,21,10,11,1,1,0,0,0,39,20,19,8,0.05,0,0.05,0.12,0,1735,83,0
+Niklas Süle,25,Bundesliga,Defender,Bayern München,642,360,282,8,4,4,0,0,0,1,0,9,5,4,1,0.14,0.14,0,0,0,0,80,642
+Niko Gießelmann,29,Bundesliga,Defender,Fortuna Düsseldorf,2056,934,1122,25,12,13,1,1,0,1,0,44,14,30,6,0.09,0.04,0.04,0.1,0,2056,82,2056
+Nils Petersen,31,Bundesliga,Forward,Freiburg,2428,1194,1234,34,17,17,11,4,7,2,1,32,10,22,1,0.48,0.07,0.41,0.3,0.51,221,71,1214
+Nils Stendera,20,Bundesliga,Midfielder,Eintracht Frankfurt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Noah Katterbach,19,Bundesliga,Midfielder,Köln,1319,675,644,18,9,9,0,0,0,0,0,30,11,19,2,0,0,0,0,0,0,73,0
+Noah-Joel Sarenren-Bazee,24,Bundesliga,Midfielder,Augsburg,377,126,251,10,5,5,1,0,1,0,0,4,1,3,1,0.24,0,0.24,0,0.36,377,38,0
+Nordi Mukiele Mulere,23,Bundesliga,Defender,RB Leipzig,1785,893,892,25,12,13,3,2,1,1,0,19,11,8,1,0.2,0.05,0.15,0.2,0.1,595,71,1785
+Nuri Şahin,32,Bundesliga,Midfielder,Werder Bremen,1258,477,781,16,7,9,0,0,0,3,0,33,13,20,5,0.21,0.21,0,0,0,0,79,419
+Obite Evan N'Dicka,21,Bundesliga,Defender,Eintracht Frankfurt,1724,694,1030,22,10,12,1,0,1,1,0,34,12,22,3,0.1,0.05,0.05,0,0.09,1724,78,1724
+Oliver Batista Meier,19,Bundesliga,Forward,Bayern München,12,12,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0
+Oliver Baumann,30,Bundesliga,Goalkeeper,Hoffenheim,2700,1350,1350,30,15,15,0,0,0,0,0,47,32,15,1,0,0,0,0,0,0,90,0
+Oliver Fink,38,Bundesliga,Midfielder,Fortuna Düsseldorf,675,387,288,14,6,8,0,0,0,1,0,16,6,10,2,0.13,0.13,0,0,0,0,48,675
+Omar Marmoush,21,Bundesliga,Forward,Wolfsburg,76,35,41,5,2,3,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,15,0
+Omar Mascarell González,27,Bundesliga,Midfielder,Schalke 04,2029,1047,982,23,12,11,0,0,0,1,0,29,15,14,4,0.04,0.04,0,0,0,0,88,2029
+Omar Rekik,18,Bundesliga,Defender,Hertha BSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ömer Toprak,31,Bundesliga,Defender,Werder Bremen,718,421,297,10,5,5,0,0,0,0,0,14,10,4,2,0,0,0,0,0,0,72,0
+Ondrej Duda,25,Bundesliga,Midfielder,Hertha BSC,451,165,286,7,3,4,0,0,0,1,0,8,2,6,2,0.2,0.2,0,0,0,0,64,451
+Oscar Wendt,35,Bundesliga,Defender,Borussia M'gladbach,1675,821,854,25,12,13,2,1,1,2,0,19,8,11,3,0.21,0.11,0.11,0.11,0.11,838,67,838
+Ozan Muhammed Kabak,20,Bundesliga,Defender,Schalke 04,1775,847,928,26,11,15,3,1,2,1,0,37,17,20,4,0.2,0.05,0.15,0.11,0.19,592,68,1775
+Paco Alcácer,27,Bundesliga,Forward,Borussia Dortmund,528,233,295,11,5,6,5,3,2,1,0,12,4,8,0,1.02,0.17,0.85,1.16,0.61,106,48,528
+Pal Dardai,21,Bundesliga,Forward,Hertha BSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Panagiotis Retsos,22,Bundesliga,Defender,Bayer Leverkusen,114,44,70,3,1,2,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,38,0
+Pascal Köpke,25,Bundesliga,Forward,Hertha BSC,119,101,18,4,3,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,30,0
+Patrick Herrmann,29,Bundesliga,Midfielder,Borussia M'gladbach,1452,886,566,27,13,14,6,5,1,6,0,16,8,8,4,0.74,0.37,0.37,0.51,0.16,242,54,242
+Patrik Schick,24,Bundesliga,Forward,RB Leipzig,1302,710,592,22,12,10,10,6,4,2,0,12,6,6,3,0.83,0.14,0.69,0.76,0.61,130,59,651
+Paul Will,21,Bundesliga,Midfielder,Bayern München,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paulo Henrique Sampaio Filho,20,Bundesliga,Midfielder,Bayer Leverkusen,292,199,93,13,7,6,3,2,1,2,0,2,1,1,1,1.54,0.62,0.92,0.9,0.97,97,22,146
+Paulo Otavio Rosa Silva,25,Bundesliga,Defender,Wolfsburg,380,180,200,5,2,3,0,0,0,1,0,5,0,5,3,0.24,0.24,0,0,0,0,76,380
+Pavao Pervan,32,Bundesliga,Goalkeeper,Wolfsburg,720,360,360,8,4,4,0,0,0,0,0,7,2,5,0,0,0,0,0,0,0,90,0
+Pavel Kadeřábek,28,Bundesliga,Defender,Hoffenheim,2476,1253,1223,30,15,15,2,2,0,7,0,38,25,13,2,0.33,0.25,0.07,0.14,0,1238,83,354
+Per Ciljan Skjelbred,33,Bundesliga,Midfielder,Hertha BSC,1637,714,923,24,10,14,0,0,0,0,0,19,7,12,4,0,0,0,0,0,0,68,0
+Péter Gulácsi,30,Bundesliga,Goalkeeper,RB Leipzig,2880,1530,1350,32,17,15,0,0,0,1,0,27,18,9,0,0.03,0.03,0,0,0,0,90,2880
+Peter Pekarík,34,Bundesliga,Defender,Hertha BSC,770,320,450,9,4,5,0,0,0,0,0,10,4,6,2,0,0,0,0,0,0,86,0
+Philipp Bargfrede,31,Bundesliga,Midfielder,Werder Bremen,585,318,267,15,8,7,0,0,0,0,0,10,5,5,3,0,0,0,0,0,0,39,0
+Philipp Lienhart,24,Bundesliga,Defender,Freiburg,1815,884,931,22,10,12,0,0,0,1,0,21,5,16,3,0.05,0.05,0,0,0,0,83,1815
+Philipp Max,27,Bundesliga,Defender,Augsburg,2713,1481,1232,31,17,14,8,5,3,6,1,48,26,22,5,0.46,0.2,0.27,0.3,0.22,339,88,452
+Philipp Mwene,26,Bundesliga,Defender,Mainz 05,316,226,90,4,3,1,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,79,0
+Philipp Pentke,35,Bundesliga,Goalkeeper,Hoffenheim,360,180,180,4,2,2,0,0,0,0,0,4,3,1,1,0,0,0,0,0,0,90,0
+Philipp Tschauner,35,Bundesliga,Goalkeeper,RB Leipzig,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Philippe Coutinho,28,Bundesliga,Midfielder,Bayern München,1413,745,668,23,12,11,8,4,4,6,1,12,5,7,0,0.89,0.38,0.51,0.48,0.54,177,61,236
+Phillip Menzel,22,Bundesliga,Goalkeeper,Wolfsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pierre Kunde Malong,25,Bundesliga,Midfielder,Mainz 05,1872,913,959,28,14,14,4,0,4,0,0,43,21,22,6,0.19,0,0.19,0,0.38,468,67,0
+Rabbi Matondo,20,Bundesliga,Forward,Schalke 04,1167,601,566,20,9,11,2,1,1,0,0,28,13,15,1,0.15,0,0.15,0.15,0.16,584,58,0
+Rafael Czichos,30,Bundesliga,Defender,Köln,2210,1119,1091,26,13,13,1,0,1,1,0,49,16,33,4,0.08,0.04,0.04,0,0.08,2210,85,2210
+Rafał Gikiewicz,33,Bundesliga,Goalkeeper,Union Berlin,2970,1530,1440,33,17,16,0,0,0,0,0,49,18,31,0,0,0,0,0,0,0,90,0
+Raffael,35,Bundesliga,Forward,Borussia M'gladbach,56,44,12,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+Ramazan Özcan,36,Bundesliga,Goalkeeper,Bayer Leverkusen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ramy Bensebaini,25,Bundesliga,Defender,Borussia M'gladbach,1450,729,721,19,10,9,5,3,2,3,2,17,10,7,8,0.5,0.19,0.31,0.37,0.25,290,76,483
+Rani Khedira,26,Bundesliga,Midfielder,Augsburg,2658,1322,1336,32,16,16,0,0,0,2,0,50,23,27,8,0.07,0.07,0,0,0,0,83,1329
+Raphaël Adelino José Guerreiro,26,Bundesliga,Defender,Borussia Dortmund,2340,1209,1131,29,15,14,8,6,2,2,0,29,12,17,3,0.38,0.08,0.31,0.45,0.16,293,81,1170
+Raphael Framberger,25,Bundesliga,Defender,Augsburg,1171,563,608,18,9,9,0,0,0,2,0,13,8,5,3,0.15,0.15,0,0,0,0,65,586
+Raphael Wolf,32,Bundesliga,Goalkeeper,Fortuna Düsseldorf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reece Oxford,21,Bundesliga,Defender,Augsburg,367,247,120,12,7,5,0,0,0,0,0,13,11,2,0,0,0,0,0,0,0,31,0
+Renato Sanches,23,Bundesliga,Midfielder,Bayern München,5,5,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+Renato Steffen,29,Bundesliga,Midfielder,Wolfsburg,1590,909,681,27,15,12,6,3,3,3,0,23,12,11,6,0.51,0.17,0.34,0.3,0.4,265,59,530
+Rifet Kapič,25,Bundesliga,Midfielder,Paderborn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Robert Andrich,26,Bundesliga,Midfielder,Union Berlin,2579,1266,1313,30,15,15,1,1,0,2,0,47,17,30,13,0.1,0.07,0.03,0.07,0,2579,86,1290
+Robert Lewandowski,32,Bundesliga,Forward,Bayern München,2762,1332,1430,31,15,16,34,19,15,4,5,28,14,14,5,1.24,0.13,1.11,1.28,0.94,81,89,691
+Robert Skov,24,Bundesliga,Midfielder,Hoffenheim,2612,1303,1309,31,16,15,4,3,1,7,0,43,27,16,4,0.38,0.24,0.14,0.21,0.07,653,84,373
+Robert Voloder,19,Bundesliga,Defender,Köln,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Robert Zulj,28,Bundesliga,Midfielder,Hoffenheim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Robin Bormuth,25,Bundesliga,Defender,Fortuna Düsseldorf,180,180,0,3,3,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,60,0
+Robin Knoche,28,Bundesliga,Defender,Wolfsburg,1592,982,610,21,12,9,1,0,1,0,0,17,9,8,2,0.06,0,0.06,0,0.15,1592,76,0
+Robin Koch,24,Bundesliga,Defender,Freiburg,2708,1371,1337,32,17,15,1,1,0,0,0,37,13,24,3,0.03,0,0.03,0.07,0,2708,85,0
+Robin Quaison,27,Bundesliga,Midfielder,Mainz 05,2613,1388,1225,32,17,15,13,5,8,2,1,55,25,30,2,0.52,0.07,0.45,0.32,0.59,201,82,1307
+Robin Zentner,26,Bundesliga,Goalkeeper,Mainz 05,1936,1036,900,22,12,10,0,0,0,0,0,39,16,23,1,0,0,0,0,0,0,88,0
+Roland Sallai,23,Bundesliga,Midfielder,Freiburg,1170,639,531,21,11,10,2,1,1,0,0,14,3,11,2,0.15,0,0.15,0.14,0.17,585,56,0
+Roman Bürki,29,Bundesliga,Goalkeeper,Borussia Dortmund,2771,1331,1440,31,15,16,0,0,0,0,0,40,16,24,0,0,0,0,0,0,0,89,0
+Ronaël Pierre-Gabriel,22,Bundesliga,Defender,Mainz 05,579,242,337,8,4,4,0,0,0,1,0,22,3,19,3,0.16,0.16,0,0,0,0,72,579
+Rouwen Hennings,33,Bundesliga,Forward,Fortuna Düsseldorf,2459,1289,1170,32,16,16,15,8,7,0,4,52,23,29,4,0.55,0,0.55,0.56,0.54,164,77,0
+Ruben Vargas,22,Bundesliga,Forward,Augsburg,2538,1316,1222,33,17,16,6,4,2,1,0,50,25,25,8,0.25,0.04,0.21,0.27,0.15,423,77,2538
+Rune Jarstein,36,Bundesliga,Goalkeeper,Hertha BSC,2548,1350,1198,29,15,14,0,0,0,0,0,43,25,18,2,0,0,0,0,0,0,88,0
+Şahverdi Çetin,20,Bundesliga,Midfielder,Eintracht Frankfurt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salif Sané,30,Bundesliga,Midfielder,Schalke 04,1125,571,554,15,7,8,2,0,2,1,0,16,5,11,4,0.24,0.08,0.16,0,0.32,563,75,1125
+Salomon Armand Magloire Kalou,35,Bundesliga,Midfielder,Hertha BSC,146,108,38,5,3,2,1,1,0,0,0,4,2,2,0,0.62,0,0.62,0.83,0,146,29,0
+Samúel Friðjónsson,24,Bundesliga,Midfielder,Paderborn,190,76,114,5,2,3,0,0,0,0,0,5,2,3,1,0,0,0,0,0,0,38,0
+Santiago Ascacibar,23,Bundesliga,Midfielder,Hertha BSC,633,450,183,8,5,3,0,0,0,1,0,15,13,2,2,0.14,0.14,0,0,0,0,79,633
+Sargis Adamyan,27,Bundesliga,Forward,Hoffenheim,742,373,369,15,8,7,5,1,4,1,0,10,6,4,1,0.73,0.12,0.61,0.24,0.98,148,49,742
+Sarpeet Singh,21,Bundesliga,Midfielder,Bayern München,72,72,0,2,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,36,0
+Sebastiaan Bornauw,21,Bundesliga,Defender,Köln,2449,1433,1016,28,16,12,6,4,2,0,0,55,21,34,6,0.22,0,0.22,0.25,0.18,408,87,0
+Sebastian Andersson,29,Bundesliga,Forward,Union Berlin,2689,1326,1363,33,16,17,12,6,6,1,1,47,16,31,5,0.44,0.03,0.4,0.41,0.4,224,81,2689
+Sebastian Langkamp,32,Bundesliga,Defender,Werder Bremen,313,133,180,5,3,2,0,0,0,0,0,5,2,3,3,0,0,0,0,0,0,63,0
+Sebastian Polter,29,Bundesliga,Forward,Union Berlin,351,146,205,13,6,7,2,1,1,2,2,3,0,3,2,1.03,0.51,0.51,0.62,0.44,176,27,176
+Sebastian Rode,30,Bundesliga,Midfielder,Eintracht Frankfurt,1948,992,956,29,16,13,3,3,0,3,0,40,16,24,6,0.28,0.14,0.14,0.27,0,649,67,649
+Sebastian Rudy,30,Bundesliga,Midfielder,Hoffenheim,2739,1326,1413,32,16,16,1,0,1,3,0,45,32,13,9,0.13,0.1,0.03,0,0.06,2739,86,913
+Sebastian Schonlau,26,Bundesliga,Midfielder,Paderborn,2070,1080,990,23,12,11,2,2,0,0,0,42,26,16,2,0.09,0,0.09,0.17,0,1035,90,0
+Sebastian Vasiliadis,23,Bundesliga,Midfielder,Paderborn,2811,1334,1477,32,15,17,1,1,0,1,0,62,37,25,10,0.06,0.03,0.03,0.07,0,2811,88,2811
+Serge Gnabry,25,Bundesliga,Forward,Bayern München,2203,1088,1115,31,15,16,12,4,8,10,0,22,11,11,0,0.9,0.41,0.49,0.33,0.65,184,71,220
+Sergio Duvan Córdova Lezama,23,Bundesliga,Forward,Augsburg,359,142,217,16,9,7,2,1,1,1,0,4,1,3,0,0.75,0.25,0.5,0.63,0.41,180,22,359
+Sheraldo Becker,25,Bundesliga,Forward,Union Berlin,536,250,286,13,5,8,0,0,0,2,0,13,5,8,1,0.34,0.34,0,0,0,0,41,268
+Shinta Karl Appelkamp,20,Bundesliga,Midfielder,Fortuna Düsseldorf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sidney Friede,22,Bundesliga,Midfielder,Hertha BSC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simon Falette,28,Bundesliga,Defender,Eintracht Frankfurt,90,0,90,1,0,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,90,0
+Simon Straudi,21,Bundesliga,Midfielder,Werder Bremen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simon Terodde,32,Bundesliga,Forward,Köln,801,368,433,23,11,12,3,1,2,1,0,14,5,9,4,0.45,0.11,0.34,0.24,0.42,267,35,801
+Stefan Bell,29,Bundesliga,Defender,Mainz 05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stefan Ilsanker,31,Bundesliga,Midfielder,Eintracht Frankfurt,1255,597,658,18,8,10,2,0,2,1,0,29,11,18,6,0.22,0.07,0.14,0,0.27,628,70,1255
+Stefan Lainer,28,Bundesliga,Midfielder,Borussia M'gladbach,2714,1320,1394,31,15,16,1,0,1,3,0,32,15,17,9,0.13,0.1,0.03,0,0.06,2714,88,905
+Stefan Posch,23,Bundesliga,Defender,Hoffenheim,2316,1114,1202,28,13,15,0,0,0,0,0,34,23,11,9,0,0,0,0,0,0,83,0
+Stefano Russo,20,Bundesliga,Defender,Augsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stefanos Kapino,26,Bundesliga,Goalkeeper,Werder Bremen,90,0,90,1,0,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,90,0
+Stephan Lichtsteiner,36,Bundesliga,Defender,Augsburg,1348,760,588,20,11,9,0,0,0,1,0,32,17,15,5,0.07,0.07,0,0,0,0,67,1348
+Steven Skrzybski,27,Bundesliga,Forward,Fortuna Düsseldorf,528,159,369,11,6,5,1,0,1,2,0,13,3,10,0,0.51,0.34,0.17,0,0.24,528,48,264
+Steven Zuber,29,Bundesliga,Midfielder,Hoffenheim,753,309,444,14,6,8,2,1,1,0,0,15,11,4,1,0.24,0,0.24,0.29,0.2,377,54,0
+Streli Mamba,26,Bundesliga,Midfielder,Paderborn,1527,752,775,24,13,11,5,2,3,2,0,28,17,11,5,0.41,0.12,0.29,0.24,0.35,305,64,764
+Suat Serdar,23,Bundesliga,Midfielder,Schalke 04,1605,827,778,20,11,9,7,6,1,0,0,27,10,17,2,0.39,0,0.39,0.65,0.12,229,80,0
+Suleiman Abdullahi,23,Bundesliga,Forward,Union Berlin,153,102,51,6,4,2,1,1,0,0,0,4,3,1,1,0.59,0,0.59,0.88,0,153,26,0
+Sven Bender,31,Bundesliga,Defender,Bayer Leverkusen,2730,1290,1440,33,17,16,2,1,1,1,0,35,16,19,3,0.1,0.03,0.07,0.07,0.06,1365,83,2730
+Sven Michel,30,Bundesliga,Midfielder,Paderborn,1366,766,600,29,16,13,5,1,4,1,0,42,27,15,7,0.4,0.07,0.33,0.12,0.6,273,47,1366
+Sven Ulreich,32,Bundesliga,Goalkeeper,Bayern München,90,90,0,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,90,0
+Taiwo Micheal Awoniyi,23,Bundesliga,Forward,Mainz 05,478,181,297,12,5,7,1,0,1,0,0,9,5,4,1,0.19,0,0.19,0,0.3,478,40,0
+Taylan Duman,23,Bundesliga,Midfielder,Borussia Dortmund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Theodor Gebre Selassie,33,Bundesliga,Defender,Werder Bremen,2429,1260,1169,28,14,14,2,2,0,2,0,46,23,23,2,0.15,0.07,0.07,0.14,0,1215,87,1215
+Thiago Alcantara,29,Bundesliga,Midfielder,Bayern München,1772,793,979,24,11,13,3,1,2,0,0,21,9,12,7,0.15,0,0.15,0.11,0.18,591,74,0
+Thomas Delaney,29,Bundesliga,Midfielder,Borussia Dortmund,836,384,452,11,5,6,0,0,0,0,0,6,1,5,4,0,0,0,0,0,0,76,0
+Thomas Kessler,34,Bundesliga,Goalkeeper,Köln,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thomas Kraft,32,Bundesliga,Goalkeeper,Hertha BSC,360,180,180,4,2,2,0,0,0,0,0,9,4,5,1,0,0,0,0,0,0,90,0
+Thomas Müller,31,Bundesliga,Forward,Bayern München,2259,1065,1194,33,16,17,8,5,3,21,0,22,10,12,5,1.16,0.84,0.32,0.42,0.23,282,68,108
+Thomas Pledl,26,Bundesliga,Midfielder,Fortuna Düsseldorf,86,0,86,5,0,5,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,17,0
+Thorgan Hazard,27,Bundesliga,Forward,Borussia Dortmund,2392,1230,1162,33,17,16,7,3,4,13,0,26,12,14,3,0.75,0.49,0.26,0.22,0.31,342,72,184
+Tim Kleindienst,25,Bundesliga,Forward,Freiburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tim Lemperle,18,Bundesliga,Forward,Köln,15,0,15,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0
+Tim Rieder,27,Bundesliga,Defender,Augsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Timo Becker,23,Bundesliga,Defender,Schalke 04,333,237,96,10,5,5,0,0,0,0,0,9,6,3,0,0,0,0,0,0,0,33,0
+Timo Horn,27,Bundesliga,Goalkeeper,Köln,3060,1530,1530,34,17,17,0,0,0,0,0,67,25,42,0,0,0,0,0,0,0,90,0
+Timo Werner,24,Bundesliga,Forward,RB Leipzig,2808,1446,1362,34,17,17,28,11,17,8,3,25,14,11,4,1.15,0.26,0.9,0.68,1.12,100,83,351
+Timothy Chandler,30,Bundesliga,Defender,Eintracht Frankfurt,1212,443,769,22,9,13,5,3,2,1,0,24,6,18,4,0.45,0.07,0.37,0.61,0.23,242,55,1212
+Tin Jedvaj,24,Bundesliga,Defender,Augsburg,2642,1508,1134,31,17,14,2,2,0,0,0,47,27,20,6,0.07,0,0.07,0.12,0,1321,85,0
+Tobias Raschl,20,Bundesliga,Midfielder,Borussia Dortmund,25,25,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0
+Tobias Sippel,32,Bundesliga,Goalkeeper,Borussia M'gladbach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tobias Strobl,30,Bundesliga,Midfielder,Borussia M'gladbach,613,166,447,10,2,8,0,0,0,0,0,9,3,6,1,0,0,0,0,0,0,61,0
+Tom Krauß,19,Bundesliga,Midfielder,RB Leipzig,3,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+Tomáš Koubek,28,Bundesliga,Goalkeeper,Augsburg,2160,1080,1080,24,12,12,0,0,0,0,0,50,22,28,2,0,0,0,0,0,0,90,0
+Toni Leistner,30,Bundesliga,Defender,Köln,1012,494,518,13,6,7,0,0,0,0,0,21,10,11,3,0,0,0,0,0,0,78,0
+Tony Jantschke,30,Bundesliga,Defender,Borussia M'gladbach,1010,422,588,17,7,10,0,0,0,0,0,11,5,6,6,0,0,0,0,0,0,59,0
+Torben Müsel,21,Bundesliga,Forward,Borussia M'gladbach,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tyler Adams,21,Bundesliga,Midfielder,RB Leipzig,955,624,331,14,8,6,0,0,0,0,0,10,8,2,0,0,0,0,0,0,0,68,0
+Ulysses Llanez Jr.,19,Bundesliga,Forward,Wolfsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uwe Hünemeier,34,Bundesliga,Defender,Paderborn,1207,563,644,16,8,8,1,1,0,0,1,28,20,8,7,0.07,0,0.07,0.16,0,1207,75,0
+Valon Berisha,27,Bundesliga,Midfielder,Fortuna Düsseldorf,949,614,335,13,8,5,0,0,0,1,0,13,9,4,1,0.09,0.09,0,0,0,0,73,949
+Vedad Ibišević,36,Bundesliga,Forward,Hertha BSC,1256,577,679,25,13,12,7,2,5,2,1,19,8,11,4,0.64,0.14,0.5,0.31,0.66,179,50,628
+Vincent Koziello,25,Bundesliga,Midfielder,Köln,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincenzo Grifo,27,Bundesliga,Midfielder,Freiburg,1634,890,744,27,14,13,4,2,2,8,1,24,10,14,2,0.66,0.44,0.22,0.2,0.24,409,61,204
+Vladimír Darida,30,Bundesliga,Midfielder,Hertha BSC,2261,1179,1082,28,15,13,3,3,0,4,0,42,20,22,8,0.28,0.16,0.12,0.23,0,754,81,565
+Wendell,27,Bundesliga,Defender,Bayer Leverkusen,1904,967,937,24,12,12,0,0,0,2,0,28,13,15,6,0.09,0.09,0,0,0,0,79,952
+Weston McKennie,22,Bundesliga,Midfielder,Schalke 04,2077,1037,1040,28,14,14,3,1,2,0,0,40,18,22,8,0.13,0,0.13,0.09,0.17,692,74,0
+Willi Orban,28,Bundesliga,Defender,RB Leipzig,853,373,480,12,6,6,1,0,1,0,0,9,7,2,0,0.11,0,0.11,0,0.19,853,71,0
+William de Asevedo Furtado,25,Bundesliga,Defender,Wolfsburg,1365,645,720,16,8,8,1,1,0,1,0,15,7,8,0,0.13,0.07,0.07,0.14,0,1365,85,1365
+Woo-Yeong Jeong,21,Bundesliga,Midfielder,Bayern München,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wout Weghorst,28,Bundesliga,Forward,Wolfsburg,2740,1467,1273,32,17,15,16,5,11,3,4,38,18,20,7,0.62,0.1,0.53,0.31,0.78,171,86,913
+Xaver Schlager,23,Bundesliga,Midfielder,Wolfsburg,1724,875,849,23,11,12,1,1,0,2,0,24,10,14,4,0.16,0.1,0.05,0.1,0,1724,75,862
+Yann Sommer,31,Bundesliga,Goalkeeper,Borussia M'gladbach,3060,1530,1530,34,17,17,0,0,0,0,0,34,17,17,0,0,0,0,0,0,0,90,0
+Yannick Gerhardt,26,Bundesliga,Defender,Wolfsburg,819,484,335,18,9,9,2,1,1,0,0,11,3,8,1,0.22,0,0.22,0.19,0.27,410,46,0
+Yannik Keitel,20,Bundesliga,Midfielder,Freiburg,174,66,108,3,1,2,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,58,0
+Yoric Ravet,31,Bundesliga,Midfielder,Freiburg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yunus Mallı,28,Bundesliga,Midfielder,Union Berlin,678,239,439,13,4,9,0,0,0,1,0,13,3,10,1,0.13,0.13,0,0,0,0,52,678
+Yussuf Poulsen,26,Bundesliga,Forward,RB Leipzig,1216,624,592,22,11,11,5,4,1,6,0,12,8,4,2,0.81,0.44,0.37,0.58,0.15,243,55,203
+Yūya Ōsako,30,Bundesliga,Forward,Werder Bremen,1859,1066,793,28,15,13,8,5,3,2,0,41,22,19,2,0.48,0.1,0.39,0.42,0.34,232,66,930
+Yvon Mvogo,26,Bundesliga,Goalkeeper,RB Leipzig,180,0,180,2,0,2,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,90,0
+Zack Steffen,25,Bundesliga,Goalkeeper,Fortuna Düsseldorf,1530,720,810,17,8,9,0,0,0,0,0,36,14,22,0,0,0,0,0,0,0,90,0
+Łukasz Piszczek,35,Bundesliga,Defender,Borussia Dortmund,2109,1179,930,29,16,13,1,1,0,3,0,26,15,11,3,0.17,0.13,0.04,0.08,0,2109,73,703
