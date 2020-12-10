@@ -41,15 +41,19 @@ It is important to note that although data and statistics are very important in 
 
 
 ##### Building the Database System
-There were several important steps in building the database system. The first step was acquiring good, reliable data for each of the top 5 leagues, which was much harder than originally expected. Most of the data that I found did not contain enough advanced statistics, which are a combination of several data points, rather than just a a one-dimensional stat like goals or asists. For example expected goals (xg) is the measure of the quality of a shot based on several variables such as assist type, shot angle, distance from goal, whether it was a header, and whether it was a big chance. There are many important advanced stats in the data that I did end up finding, but this data was not free of charge. Luckily I had already subscribed due to previous personal research. The dataset I found has at least 1,000 entries per league, which was more than enough and contained up over 40 different columns of data.
+There were several important steps in building the database system. The first step was acquiring good, reliable data for each of the top 5 leagues, which was much harder than originally expected. Most of the data that I found did not contain enough advanced statistics, which are a combination of several data points, rather than just a a one-dimensional stat like goals or asists. For example expected goals (xg) is the measure of the quality of a shot based on several variables such as assist type, shot angle, distance from goal, whether it was a header, and whether it was a big chance. There are many important advanced stats in the data that I did end up finding, but this data was not free of charge. Luckily I had already subscribed to the website that held the data due to previous personal research. The dataset I found has at least 1,000 entries per league, which was more than enough and contained up over 40 different columns of data.
 
-I decided to use SQLite3 as it was the langauge and database system that I understood the best, and given that it relies almost entirely on tables, it mimics a top scorers board in the real world:
+The next step was cleaning and filtering the data before building a database file. I deleted about 15-20 attributes that I was not planning on examining, such as defensive stats. There were other categories that I wasn't planning on researching at first, but decided to leave them in as they could have been of later use. The cleaning process was a bit tedious as I had 5 datasets that were quite large, but since they all came from the same source they were all formatted uniformly, which sped up the process.
+
+I decided to use SQLite3 as it was the language and database system that I understood the most, and given that it relies almost entirely on tables, it mimics a top scorers board in the real world. The first table below is what the actual top scorers table looks like, and the second one is how my data is formatted. Although they are not the exact same, they do have similarities.
 
 ![alt text](realTable.png "Real Premier League Top Scorers List")
 
 ![alt text](eplDataTable.png "What My Data Looks Like")
 
-The next step was cleaning and filtering the data before building a database file. I deleted about 15-20 columns of data that I was not planning on examining, such as defensive stats. There were other categories that I wasn't planning on researching at first, but decided to leave them in as they could have been of later use. The cleaning process was a bit tedious as I had 5 datasets that were quite large, but since they all came from the same source they were all formatted uniformly. The next step was figuring out how exactly to read the data in. Since my data came with headers for each column, I decided not to mess with the format too much, and not build individual schemas for each table in the builder file. It was much easier to just import the entire csv files themselves as their own table:
+Another reason for using SQL was the simplicity of querying and database building using a txt file called `soccerStats_build.txt`. The only code of importance outside of the import statements below is the command to run the the builder file, `/* cat soccerStats_build.txt | sqlite3 soccerStatsDB.sqlite3 */`, and also the separator, `.separator ","` which will  separate the data being imported with a comma, `,`. This is because the database will be reading in CSV files where the values are separated by commas rather than tabs, indents, etc.
+
+The next step was figuring out how exactly to read the data in. Since my data came with headers for each column, I decided not to mess with the format too much, and not build individual schemas for each table in the builder file. It was much easier to just import the entire csv files themselves as their own table:
 
 ```
 .import data/Budesliga-player-stats-1920-final.csv Bundesliga
@@ -59,12 +63,11 @@ The next step was cleaning and filtering the data before building a database fil
 .import data/SerieA-player-stats-1920-final.csv SerieA
 ```
 
-
-
-
-
-
 ###### Tables & Schema
+The database building process went very smoothly and all of my tables and schemas were set up correctly and contained all of the correct information. Again, there are five tables in my database one for each of the top 5 leagues. They all contain the same attributes but different amounts of data given that each league has a different amount of players. This means they all have the same schema. Here is an example of the schema of one of my tables, the English Premier League.
+
+![alt text](eplSchema.png "EPL Schema")
+
 
 
 #### First Research Question and Background
