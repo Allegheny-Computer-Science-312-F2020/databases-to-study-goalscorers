@@ -172,5 +172,4 @@ Similar to the last question, there is again a fairly even spread between those 
 
 ##### Conclusion
 
-
-(Did you remember to add your name to the top?)
+Throughout this project, I have explored and researches different attributes that show clear success for attackers in thje top 5 soccer leagues in the world. From the  research we have concluded there are a number of attribute that not only show clear stastical success, but also convey parts of a players character and on-field mentatlity. In addition, different kinds of player have shown success in different statistical categories, based off of their style of play. In conclusion, using my SQLite3 database and data from the internet, I found a number of factors that have answered why certain stats can convey more meaning than others, as well as why certain stats mean less when given context.
