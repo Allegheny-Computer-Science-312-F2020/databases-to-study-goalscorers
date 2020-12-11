@@ -16,7 +16,7 @@ The five datasets I used were found @ https://footystats.org/download-stats-csv#
 #### Project Overview
 This research project uses databases to study the soccer world's top goalscorers.  A few questions that I specifically wanted to ask and answer are:
 
-- What advanced metrics are most common in elite goal scorers?
+- Which leagues have more players with a high goal tally?
 - What advanced metrics that are not direct goal contributions (goals, assists, major stats such as these) contribute to an elite goal socers success?
 - What are some stand-out metrics that are unique to individual goal scorers?
 - Are there specific offensive stats that most elite goal scorers tend to not be elite in? For example, maybe the data shows most of the top scorers score less in away games or vice versa.
@@ -71,36 +71,110 @@ The database building process went very smoothly and all of my tables and schema
 
 
 #### First Research Question and Background
+How many attackers in each league have elite assist numbers relative to their position? This is an interesting question to ask in my opinion because assists are generally an important stat for an attacker, but not necessarily for all attackers. As mentioned earlier, there are many different kinds of playing styles for each individual position. While many attackers are out-and-out strikers whose main job is to score goals, there are also many attackers who are better at making plays for their teammates rather than scoring themselves. I decided that an elite assist total for an attacker would be at least 5 as, again attackers main job is not typically to assist, so using a number like 7 would be too high of an expectation and only show extreme outliers.
+
 ##### Queries
+```
+select epl.full_name, epl.assists_overall from EPL epl where epl.assists_overall >= 5 and epl.position == "Forward";
+select bund.full_name, bund.assists_overall from Bundesliga bund where bund.assists_overall >= 5 and bund.position == "Forward";
+select liga.full_name, liga.assists_overall from LaLiga liga where liga.assists_overall >= 5 and liga.position == "Forward";
+select ligue1.full_name, ligue1.assists_overall from Ligue1 ligue1 where ligue1.assists_overall >= 5 and ligue1.position == "Forward";
+select serie.full_name, serie.assists_overall from SerieA serie where serie.assists_overall >= 5 and serie.position == "Forward";
+
+```
+
 ##### Results
-##### Graphics
+The results below confirm several pre-existing trains of thought generally about playmaking attackers, as well as specific playmaking attackers. There are only a few attackers who recorded more than 8 assists, and the majority of them are some of the already established, historic great playmaking attackers, such as Alexis Sanchez, Luis Suarez, Karim Benzema, and Roberto Firmino. Rather than shedding light on new ideas, this query confirms previously record individual trends, as well as demonstrate that very few attackers are also elite playmakers.
+
+![alt text](query1.0.png "Query #1")
+![alt text](query1.1.png "Query #1")
+
 
 #### Second Research Question and Background
+Which leagues have more players with the higher amount of goals involved in per 90 minutes(GIp90)? GIp90 counts the amount of goals and assists a player averages every 90 minutes, the length of a full soccer match. This stat is telling because it shows what a player would produce if they played the whole game. Players with a high GIp90 demonstrate the ability to both score and assist goals for their team.
+
 ##### Queries
+```
+select count(epl.full_name) from EPL epl where epl.goals_involved_per_90_overall >= 1;
+select count(bund.full_name) from Bundesliga bund where bund.goals_involved_per_90_overall >= 1;
+select count(liga.full_name) from LaLiga liga where liga.goals_involved_per_90_overall >= 1;
+select count(ligue1.full_name) from Ligue1 ligue1 where ligue1.goals_involved_per_90_overall >= 1;
+select count(serie.full_name) from SerieA serie where serie.goals_involved_per_90_overall >= 1;
+```
+
 ##### Results
-##### Graphics
+From the image below we can see that the German Bundesliga has 14 players with a higher GIp90, 3 more than the league in second, the Serie A in Italy, and 8 more than the English Premier League which came in last place. There are several noteworthy discoveries here, the first being that the Serie A has the second highest total of players with a GIp90 greater than 1. Italy is know for being "the most tactical and defensive of the major European leagues" (Kharosekar). When we look at the images below, this data point shows the complete opposite, but makes sense given that for this particular season players like Cristiano Ronaldo, Ciro Immobile, and Duvan Zapata all had terrific years.
+
+![alt text](query2.2.png "Query #1")
+![alt text](query2.1.png "Query #1")
+![alt text](query2.0.png "Query #1")
+
+- https://towardsdatascience.com/which-is-the-most-exciting-soccer-league-in-europe-529c6639e84a
+
 
 #### Third Research Question and Background
+Which leagues have more players with the higher amount of goals per 90 overall(Gp90) whilst having played at least 900 minutes(ten games)? This question is a bit more encapsulating than the last two, as it rules out players who haven't played at least 10 games. In the previous queries we can see that certain players had incredibly high numbers, for instance Amad Traore having neared 4 goal involvements per 90. These outliers occur because they might have only played a few games and done very well in those games. Including a minimum helps demonstrate how players maintaned their form of the length of the season.
+
 ##### Queries
+```
+select epl.full_name, epl.goals_per_90_overall from EPL epl where epl.goals_per_90_overall >= .3 and epl.minutes_played_overall >= 900;
+
+select bund.full_name, bund.goals_per_90_overall from Bundesliga bund where bund.goals_per_90_overall >= .3 and bund.minutes_played_overall >= 900;
+
+select liga.full_name, liga.goals_per_90_overall from LaLiga liga where liga.goals_per_90_overall >= .3 and liga.minutes_played_overall >= 900;
+
+select ligue1.full_name, ligue1.goals_per_90_overall from Ligue1 ligue1 where ligue1.goals_per_90_overall >= .3 and ligue1.minutes_played_overall >= 900;
+
+select serie.full_name, serie.goals_per_90_overall from SerieA serie where serie.goals_per_90_overall >= .3 and serie.minutes_played_overall >= 900;
+```
+
 ##### Results
-##### Graphics
+From the image below we can immediately notice how much of a difference it makes filter with a minimum minutes played boundary. What this stat gives is now an elite tier of players who scored at least a goal every 3 games they played. The 2 players with the highest Gp90 are Olivier Giroud with 0.72 and Loic Remy with 0.65. To give some context, both of these players are backups or second strings. The data doesn't show this but from my knowldege of the sport, I know Giroud battled for a starting sport throughout the season, while Remy was an out-and-out backup. However, since this is per 90 minutes measure, their status as a backup doesn't matter; they ranked among the top in the world in goals scored per 90, even though they weren't the preferred starter.
+
+![alt text](query3.0.png "Query #1")
+
 
 #### Fourth Research Question and Background
+What players have a high amount of goals scored away from home with at least 11 games played away from home? As a player, it is typically much easier to score when the fans are cheering for you rather than against you. Being able to score away from home while rival fans are booing you shows a mental fortitude only certain elite attackers have.
+
 ##### Queries
+```
+select epl.full_name, epl.goals_away from EPL epl where epl.goals_away >= 6 and epl.appearances_away >= 10;
+select bund.full_name, bund.goals_away from Bundesliga bund where bund.goals_away >= 6 and bund.appearances_away >= 10;
+select liga.full_name, liga.goals_away from LaLiga liga where liga.goals_away >= 6 and liga.appearances_away >= 10;
+select ligue1.full_name, ligue1.goals_away from Ligue1 ligue1 where ligue1.goals_away >= 6 and ligue1.appearances_away >= 10;
+select serie.full_name, serie.goals_away from SerieA serie where serie.goals_away >= 6 and serie.appearances_away >= 10;
+```
+
+
 ##### Results
-##### Graphics
+The results of this query are a bit more expected than previous ones. I chose a minimum of 6 goals scored away from home, because any less than 6 goals and I queried too many results, leading me to believe less than 6 was not an elite statistic. I chose 10 appearances as a baseline because every team plays 19 games away from home, so a player who has played about half of those away games seemed to be the right minimum to me. What we see below is a fairly even spread between 6 and 9 goals scored away from home. One thing to note is that several of the players who scored 9 goals away from home are the captains of their team, showing that mental fortitude is in fact an important factor in being able to score many goals in front of away fans. These players are Raul García of Athletic Bilbao in Spain, Cristiano Ronaldo of Juventus in Italy, Pierre-Emerick Aubameyang of Arsenal in England, and Harry Kane of Tottenham in England.
+
+![alt text](query4.0.png "Query #1")
+![alt text](query4.1.png "Query #1")
+
 
 #### Fifth Research Question and Background
-##### Queries
-##### Results
-##### Graphics
+What players have a high amount of goals scored at from home with at least 11 games at home? This question is the opposite of the previous one, as I want to now look and see if any of the same players who did really well away from home also do really well AT home. The logical assumption would be yes, of course a player will play better in front of their own fans, especially if they play well in front of booing fans. However, using logic to make decisions in sports often times fails.
 
+##### Queries
+```
+select epl.full_name, epl.goals_home from EPL epl where epl.goals_home >= 6 and epl.appearances_home >= 10;
+select bund.full_name, bund.goals_home from Bundesliga bund where bund.goals_home >= 6 and bund.appearances_home >= 10;
+select liga.full_name, liga.goals_home from LaLiga liga where liga.goals_home >= 6 and liga.appearances_home >= 10;
+select ligue1.full_name, ligue1.goals_home from Ligue1 ligue1 where ligue1.goals_home >= 6 and ligue1.appearances_home >= 10;
+select serie.full_name, serie.goals_home from SerieA serie where serie.goals_home >= 6 and serie.appearances_home >= 10;
+```
+
+##### Results
+Similar to the last question, there is again a fairly even spread between those who scored 6 goals at home and those who scored 9. There are several overlapping players between this query and the last one, meaning those players tend to do very well no matter where they play. A few of these players are Sergio Aguero for Manchester City in England, Richarlison for Everton in England, Sebastian Andersson for Koln in Germany, and Andrea Belotti for Torino in Italy. The one player who stands out among the rest however, is Harry Kane who is the only player to score 9 goals both on the road and at home. Harry Kane is widely regarded as one of the top 3 strikers in the world, along with other players who appear in this list such as Sergio Aguero and Robert Lewandowski. What makes Kane's stat even more impressive, is that Harry Kane was struggling with injuries throughout that season, another variable that can't quite be quantified perfectly, yet still managed to outperform nearly every attacker both on the road and at home.
+
+![alt text](query5.0.png "Query #1")
+![alt text](query5.1.png "Query #1")
+![alt text](query5.2.png "Query #1")
 
 
 ##### Conclusion
-
-
-
 
 
 (Did you remember to add your name to the top?)
